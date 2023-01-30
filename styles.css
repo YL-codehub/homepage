@@ -1,0 +1,21 @@
+header {
+    background-color: rgb(76, 70, 70);
+    width: 120px;
+    height: 40px;
+    position: fixed;
+}
+
+
+.sidebar {
+    height: 700px;
+    width: 120px;
+    margin-top: 40px;
+    position: fixed;
+    background-color: grey;
+    text-align: left;
+}
+    
+    
+.body-right {
+    margin-left:120px;
+}

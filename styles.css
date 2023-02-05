@@ -1,21 +1,38 @@
+/* Be careful, size of a block is width or height + padding + border + margin. So width and height are for the content box.*/ 
+body {
+    margin: 0;
+}
 header {
-    background-color: rgb(76, 70, 70);
-    width: 120px;
-    height: 40px;
-    position: fixed;
+    background-color: white;
+    margin-left: 10%;
+    padding: 1%;
+    width: 88%;
+
 }
 
+#title_header {
+    font-size:xx-large;
+}
+#sub_header {
+    font-size:medium;
+}
 
 .sidebar {
-    height: 700px;
-    width: 120px;
-    margin-top: 40px;
+    height: 100%;
+    width: 9.5%;
     position: fixed;
-    background-color: grey;
+    background-color: white;
     text-align: left;
+    border-right: 1px solid black;
 }
     
     
 .body-right {
-    margin-left:120px;
+    margin-top: auto;
+    margin-left: 10%;
+    padding: 1%;
+}
+
+.transparent_link{
+    text-decoration: none;
 }

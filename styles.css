@@ -7,7 +7,6 @@ header {
     margin-left: 10%;
     padding: 1%;
     width: 88%;
-
 }
 
 #title_header {
@@ -17,6 +16,14 @@ header {
     font-size:medium;
 }
 
+
+#front_article {
+    text-align: center;
+    margin-right: 20%;
+}
+
+#trombi {float: right;}
+
 .sidebar {
     height: 100%;
     width: 9.5%;
@@ -24,15 +31,34 @@ header {
     background-color: white;
     text-align: left;
     border-right: 1px solid black;
+    font-size:medium;
 }
     
     
 .body-right {
-    margin-top: auto;
+    margin-top: 2%;
     margin-left: 10%;
     padding: 1%;
 }
 
 .transparent_link{
-    text-decoration: none;
+text-decoration: none;
+color: black;
+}
+
+.transparent_link:link { 
+    text-decoration: none;}
+    
+
+
+.transparent_link:visited { text-decoration: none; }
+
+
+.transparent_link:hover { text-decoration: none; }
+
+
+.transparent_link:active { text-decoration: none; }
+
+footer {
+    border: 2%;
 }

@@ -7,6 +7,7 @@ header {
     margin-left: 10%;
     padding: 1%;
     width: 88%;
+    border-bottom: 1px solid black;
 }
 
 #title_header {
@@ -18,15 +19,15 @@ header {
 
 
 #front_article {
-    text-align: center;
-    margin-right: 20%;
+    text-align: justify;
+    margin-right: 30%;
 }
 
-#trombi {float: right;}
+#trombi {float: right; margin: 2%; border: 1px solid black;}
 
 .sidebar {
     height: 100%;
-    width: 9.5%;
+    width: 10%;
     position: fixed;
     background-color: white;
     text-align: left;
@@ -36,7 +37,7 @@ header {
     
     
 .body-right {
-    margin-top: 2%;
+    margin-top: 0%;
     margin-left: 10%;
     padding: 1%;
 }
@@ -48,17 +49,16 @@ color: black;
 
 .transparent_link:link { 
     text-decoration: none;}
-    
-
-
 .transparent_link:visited { text-decoration: none; }
-
-
 .transparent_link:hover { text-decoration: none; }
-
-
 .transparent_link:active { text-decoration: none; }
 
-footer {
-    border: 2%;
+footer {border-top: 1px solid black;
+    margin-bottom: 0%;
+    border: 1%;
+    padding: 0.5%;}
+
+#footer_refs {font-size: small;}
+#signature_footer {
+    text-align: right;
 }

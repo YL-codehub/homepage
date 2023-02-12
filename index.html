@@ -11,7 +11,9 @@
     <!-- LINKS TO CSS FILE ("STYLESHEET") AND SITE ICON -->
     <link href="styles.css" rel="stylesheet">
     <link href="kite.png" type="image/x-icon" rel="shortcut icon" title="Logo created by Creatype - Flaticon">
-    </head>
+    <!--icons media-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
     <body>
        
@@ -34,9 +36,18 @@
 
         <header>
             <div id = "title_header"> Homepage of Yoann Launay</div> 
-            <div id = "sub_header"> Training Theoretical Physicist in Cosmology. </div>
+            <div id = "sub_header"> Training Theoretical Physicist in Quantum Cosmology. </div>
             <div id = "sub_header"> PhD student at Wolfson College, University of Cambridge.</div>
-            <div id = "sub_header"> CentraleSupélec French engineer.</div>
+            <div id = "sub_header"> CentraleSupélec French engineer. 
+                <div class="media_buttons">
+                    <a href="https://www.linkedin.com/in/yoann-launay-926687192/" target="_blank" class="fa fa-linkedin-square" style="font-size:24px"></a>
+                    <a href="https://github.com/YL-codehub" target="_blank" class="fa fa-github-square" style="font-size:24px"></a>
+                    <a href="https://twitter.com/yoann_launay" target="_blank" class="fa fa-twitter-square" style="font-size:24px"></a>
+                    <a href="contact.html" class="fa fa-envelope-square" style="font-size:24px"></a>
+                    <a href="http://www.damtp.cam.ac.uk/person/yl844" target="_blank" class="fa fa-institution" style="font-size:18px"></a>  
+
+                </div>
+            </div>
             <!-- -->
 
         </header>
@@ -45,7 +56,8 @@
             <section>
                 <article id="front_article">
                     <h1> I'm Yoann and you're on my personal website.</h1>
-                    <p> I'm a PhD student in Cosmology at the Department of Applied Mathematics
+                    <div class="card">
+                    <p> I'm a PhD student in Quantum Cosmology at the Department of Applied Mathematics
                          and Theoretical Physics at the University of Cambridge. 
                          
                         <img src="photoWall.jpg" alt="Photo of Yoann Launay." title="Yoann Launay, Dec. 2022." width="12%"  id = "trombi">
@@ -59,28 +71,33 @@
                             <li> More Physics if you're starting from scratches. </li>
                         </ul>
                     </p>   
+                    </div>
                 </article>
                 <article>
-                    <h1> Last Updates...</h1>
-                    <ul >
+                    <h1>  Updates...</h1>
+                    <div class = 'card'>
+                    <ul>
                         <li> (?/?/2023) Updated 'About' section. </li>
                         <li> (?/?/2023) Updated 'Research' section.</li>
                         <li> (?/?/2023) Fonts readability.</li>
                     </ul>
+                    </div>
                 </article>
                 <article>
                     <h1> Incoming...</h1>
+                    <div class="card">
                     <ul >
                         <li> (?/?/2023) Media buttons?</li>
                         <li> (?/?/2023) French script?</li>
                     </ul>
+                    </div>
                 </article>
 
             </section>
                     
             <footer>
-                <div id="signature_footer"><em > Original html website by Yoann Launay. </em></div> 
-                <div id="footer_refs"> [1] This is also good for the planet.</div>
+                <div id="signature_footer"><em > Original html website by Yoann Launay. <a href="#" class="fa fa-creative-commons"></a>  </em></div> 
+                <div id="footer_refs"> [1] Also good for the planet! </div>
                 
             </footer>
         </div>

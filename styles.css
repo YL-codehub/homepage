@@ -3,6 +3,7 @@ body {
     margin: 0;
 }
 header {
+    font-family: 'Times New Roman', Times, sans-serif;
     background-color: white;
     margin-left: 10%;
     padding: 1%;
@@ -23,6 +24,13 @@ header {
     margin-right: 30%;
 }
 
+.card {
+    background-color: #f2f2f2;
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em 0;
+  }
+
 #trombi {float: right; margin: 2%; border: 1px solid black;}
 
 .sidebar {
@@ -32,7 +40,7 @@ header {
     background-color: white;
     text-align: left;
     border-right: 1px solid black;
-    font-size:medium;
+    font-weight: bold;
 }
     
     
@@ -40,6 +48,7 @@ header {
     margin-top: 0%;
     margin-left: 10%;
     padding: 1%;
+    font-size: large;
 }
 
 .transparent_link{
@@ -62,3 +71,44 @@ footer {border-top: 1px solid black;
 #signature_footer {
     text-align: right;
 }
+
+h1 {
+    font-size: x-large ;
+}
+
+
+/* icons media*/
+/* many icons at https://fontawesome.com/v4/icons/ */
+
+.media_buttons{
+    float: right;
+}
+
+/* Style all font awesome icons */
+.fa {
+    color: black;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10%;
+
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.9;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook 
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter 
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }

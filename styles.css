@@ -76,6 +76,9 @@ h1 {
     font-size: x-large ;
 }
 
+p {
+    text-align: justify;
+}
 
 /* icons media*/
 /* many icons at https://fontawesome.com/v4/icons/ */

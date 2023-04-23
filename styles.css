@@ -11,6 +11,22 @@ header {
     border-bottom: 1px solid black;
 }
 
+.header_no_margin {
+    font-family: 'Times New Roman', Times, sans-serif;
+    background-color: white;
+    margin-left: 0%;
+    padding: 1%;
+    width: 98%;
+    border-bottom: 1px solid black;
+}
+
+.body_no_margin {
+    background-color: white;
+    margin-left: 0%;
+    padding: 1%;
+    width: 98%;
+    }
+
 #title_header {
     font-size:xx-large;
 }
@@ -39,6 +55,7 @@ header {
     margin: 1em 0;
   }
 
+.round_border{ border-radius: 1em; border: 3px solid black;}
 
 #trombi {float: right; margin: 2%; border: 1px solid black;}
 

@@ -61,6 +61,10 @@ header {
 
 #wallpics { margin: 2%; border: 3px solid black;}
 
+#float_pic_left {float: left; margin: 2%; width:50%; height:auto}
+#float_pic_right {float: right; margin: 2%; width:50%; height:auto}
+
+
 .sidebar {
     height: 100%;
     width: 10%;

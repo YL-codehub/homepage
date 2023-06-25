@@ -55,14 +55,24 @@ header {
     margin: 1em 0;
   }
 
+.transparent_card {
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em 0;
+    border: 1px solid #000;
+    overflow: auto;
+    text-align: center;
+    font-size: x-large;
+  }
+
 .round_border{ border-radius: 1em; border: 3px solid black;}
 
 #trombi {float: right; margin: 2%; border: 1px solid black;}
 
 #wallpics { margin: 2%; border: 3px solid black;}
 
-#float_pic_left {float: left; margin: 2%; width:50%; height:auto}
-#float_pic_right {float: right; margin: 2%; width:50%; height:auto}
+#float_pic_left {float: left; margin: 3%; width:40%; height:auto}
+#float_pic_right {float: right; margin: 3%; width:40%; height:auto}
 
 
 .sidebar {

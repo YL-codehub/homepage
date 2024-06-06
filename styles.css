@@ -143,7 +143,25 @@ p {
   /* Add a hover effect if you want */
   .fa:hover {
     opacity: 0.9;
+    transform: scale(1.5);
   }
+
+/* Styles for the French flag link */
+.flag-link {
+    position: absolute;
+    top: 3%; /* Adjust as needed */
+    right: 3%; /* Adjust as needed */
+    z-index: 1000; /* Ensure it appears above other elements */
+}
+
+.flag-image {
+    width: 30px; /* Adjust size as needed */
+    height: auto;
+}
+
+.flag-link:hover .flag-image {
+    transform: scale(1.2); /* Grow effect */
+}
   
   /* Set a specific color for each brand */
   

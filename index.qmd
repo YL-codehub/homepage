@@ -1,0 +1,44 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-section}
+# I'm Yoann and you're on my personal website.
+
+I'm a PhD student in **Quantum Cosmology** at the Department of Applied Mathematics 
+and Theoretical Physics at the **University of Cambridge**.
+
+The essence of this website is multiple but mainly professional and functional — 
+hence a deliberately minimalist pattern.
+:::
+
+## What you'll find here
+
+On this website, you will be able to find out more about:
+
+::: {.content-grid}
+
+::: {.content-item}
+### [My personal path](about.qmd)
+if you wonder or prospect.
+:::
+
+::: {.content-item}
+### [Material/Information](teaching.qmd)
+if you are one of my students.
+:::
+
+::: {.content-item}
+### [My everyday Physics](research.qmd)
+if you bother.
+:::
+
+::: {.content-item}
+### [More Physics](physics-intro.qmd)
+if you're starting from scratches.
+:::
+
+:::
+
+---

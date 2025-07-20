@@ -1,0 +1,53 @@
+---
+title: "Personal Path"
+---
+
+## Academic Journey
+
+### Current Position
+**PhD Student in Quantum Cosmology** | 2021 - Present  
+Department of Applied Mathematics and Theoretical Physics  
+University of Cambridge
+
+- Supervisor: [Supervisor Name]
+- Research Focus: Quantum aspects of cosmological models
+- Expected Completion: 2025
+
+### Previous Education
+
+**Master's Degree** | Institution | Year  
+Brief description of your master's work and achievements.
+
+**Bachelor's Degree** | Institution | Year  
+Brief description of undergraduate studies and notable projects.
+
+## Research Interests
+
+My research sits at the intersection of quantum mechanics and cosmology, exploring:
+
+- Quantum field theory in curved spacetime
+- Early universe cosmology and inflation
+- Semiclassical gravity
+- Black hole thermodynamics
+- Loop quantum cosmology
+
+## Beyond Academia
+
+When not contemplating the quantum nature of spacetime, I enjoy:
+
+- [Your interests/hobbies]
+- [Programming and computational physics]
+- [Other activities]
+
+## Contact
+
+**Office:** [Your office location]  
+**Email:** [your.email@cam.ac.uk]  
+**Phone:** [Optional phone number]
+
+**Postal Address:**  
+Department of Applied Mathematics and Theoretical Physics  
+Centre for Mathematical Sciences  
+University of Cambridge  
+Wilberforce Road  
+Cambridge CB3 0WA, UK

@@ -1,0 +1,95 @@
+---
+title: "Research & Everyday Physics"
+---
+
+## Current Research
+
+My PhD research focuses on understanding the quantum nature of cosmological spacetimes. 
+I'm particularly interested in how quantum effects might resolve classical singularities 
+and influence the dynamics of the early universe.
+
+### Active Projects
+
+#### Quantum Cosmological Models
+Investigating the behavior of quantum fields in expanding spacetimes, with particular 
+attention to:
+- Semiclassical gravity corrections
+- Backreaction effects
+- Observable signatures
+
+#### Numerical Relativity Applications
+Developing computational methods for:
+- Solving Einstein's field equations numerically
+- Modeling black hole spacetimes
+- Analyzing gravitational wave signatures
+
+#### Loop Quantum Cosmology
+Exploring discrete quantum geometry approaches to cosmology:
+- Bounce scenarios replacing big bang singularities
+- Phenomenological implications
+- Connection to observations
+
+## Publications & Preprints
+
+### Published Papers
+
+1. **Launay, Y.** et al. (2024). "Quantum corrections in cosmological models." 
+   *Physical Review D*, 109, 123456. [arXiv:2401.12345](https://arxiv.org/abs/2401.12345)
+
+2. **Launay, Y.** & Collaborator, A. (2023). "Semiclassical gravity in expanding universes." 
+   *Classical and Quantum Gravity*, 40, 123456. [DOI](https://doi.org/10.1088/example)
+
+### Preprints
+
+1. **Launay, Y.** (2024). "Numerical approaches to quantum cosmology." 
+   arXiv:2404.56789 [Submitted to Journal Name]
+
+## Conference Presentations
+
+### 2024
+- **"Quantum Effects in Early Universe Cosmology"**  
+  *International Conference on General Relativity and Gravitation*, July 2024, Location
+
+- **"Computational Methods in Quantum Gravity"**  
+  *UK Relativity Meeting*, April 2024, Location
+
+### 2023
+- **"Semiclassical Corrections to Cosmological Dynamics"**  
+  *Postgraduate Research Conference*, September 2023, Cambridge
+
+## Computational Work
+
+### Code Repositories
+
+All research code is available on [GitHub](https://github.com/YL-codehub):
+
+- **`quantum-cosmo-toolkit`**: Python package for quantum cosmological calculations
+- **`gr-numerics`**: Numerical relativity utilities
+- **`semiclassical-gravity`**: Tools for semiclassical gravity computations
+
+### Software Skills
+
+**Languages:** Python, C++, Mathematica, MATLAB  
+**Specialized Tools:** Einstein Toolkit, Cadabra, GRTensorII  
+**HPC:** Experience with Cambridge HPC clusters, parallel computing
+
+## Outreach & Communication
+
+### Popular Science Writing
+- [Blog post title] - *Platform* (2024)
+- [Another article] - *Magazine* (2023)
+
+### Public Talks
+- **"The Quantum Universe"** - *Cambridge Science Festival* (2024)
+- **"Black Holes and Quantum Gravity"** - *Local Physics Society* (2023)
+
+## Collaborations
+
+### Research Groups
+- Cambridge Relativity Group
+- UK Quantum Gravity Network
+- International Loop Quantum Gravity Community
+
+### Visiting Positions
+- [Institution Name] - [Duration] - [Year]
+- [Another Institution] - [Duration] - [Year]

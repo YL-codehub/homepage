@@ -1,0 +1,126 @@
+---
+title: "Gallery"
+format:
+  dashboard:
+    orientation: rows
+    scrolling: true 
+---
+
+## Row
+
+::: {.card fill=false expandable="false"}
+### December 2024
+![Caius College hosting the traditional Christmas GR Dinner and Stephen's room.](images/grdinner_dec24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+:::
+
+::: {.card fill=false expandable="false"}
+### August 2024
+![Lego exhibition in London](images/legoart_aug24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+The London Lego exhibition, contemplating the fundamental bricks of life.
+:::
+
+::: {.card fill=false expandable="false"}
+### July 2024
+![Southwold Water Clock](images/southwold_july24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+The Water Clock of Southwold, Suffolk. Time flows.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+### June 2024
+![Cambridge Museum](images/cam_museum_june24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Somewhere lost in one of many great museums in Cambridge.
+:::
+
+::: {.card fill=false expandable="false"}
+### May 2024
+![Boreals in Cambridge](images/cam_may24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Boreals in Cambridge.
+:::
+
+::: {.card fill=false expandable="false"}
+### April 2024
+![West End London](images/london_april24.JPG){width=100% title="Yoann Launay, Dec. 2022."}
+West End in London. Is it for work?
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+### March 2024
+![Lyon wall of fame](images/lyon_march24.jpg){width=100% title="Yoann Launay, Lyon. 2024."}
+Local wall of fame in Lyon, including André-Marie Ampère.
+:::
+
+::: {.card fill=false expandable="false"}
+### January 2024
+![Greenwich](images/Greenwich_Jan24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Time feels special in Greenwich.
+:::
+
+::: {.card fill=false expandable="false"}
+### December 2023
+![Munich Christmas](images/Munich_Dec24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Christmasy Munich for a Cambridge/Max Planck Institute meeting and talk.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+### November 2023
+![Newcastle visit](images/Newcastle_Nov23.jpg){width=100% title="Yoann Launay, Nov. 2023."}
+Visiting my supervisor and Newcastle.
+:::
+
+::: {.card fill=false expandable="false"}
+### September 14th, 2023
+![Galilei statue](images/galilei.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+A big man in Florence.
+:::
+
+::: {.card fill=false expandable="false"}
+### August 30th, 2023
+![Beatles at BUSSTEPP23](images/beatles.jpg){width=100% title="Yoann Launay, Aug. 23."}
+Rock'n'Roll Physics at BUSSTEPP23 Summer School in Liverpool.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+### April 23rd, 2023
+![Whipple Museum](images/whipple_april23.JPEG){width=100% title="Yoann Launay, Dec. 2022."}
+Whipple museum: big bible on the shield?
+:::
+
+::: {.card fill=false expandable="false"}
+### March 27th, 2023
+![Great St Mary's Church](images/st_mary_march23.JPEG){width=100% title="Yoann Launay, Dec. 2022."}
+Great St Mary's church, spring activated.
+:::
+
+::: {.card fill=false expandable="false"}
+### March 14th, 2023
+![Pi/Hawking/Einstein Day](images/pi_hawking_day_march23.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+DAMTP on Pi/Hawking/Einstein day.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+### February 25th, 2023
+![Faraday House](images/faraday_house_feb22.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Back in Faraday's times at Trinity Buoy Wharf's lighthouse, London.
+:::
+
+::: {.card fill=false expandable="false"}
+### December 6th, 2022
+![GRChombo Meeting](images/GRChombo_dec22.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Christmas Oxford after my first GRChombo Meeting.
+:::
+
+::: {.card fill=false expandable="false"}
+### December 1st, 2023
+![DAMTP Winter Evening](images/damtp_night_nov22.jpg){width=100% title="Yoann Launay, Dec. 2022."}
+Winter evening spot of DAMTP.
+:::

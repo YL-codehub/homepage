@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs  # For GitHub Pages compatibility
+
+website:
+  title: "Yoann Launay"
+  description: "PhD student in Quantum Cosmology at Cambridge DAMTP"
+  
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Personal Path
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: news.qmd
+        text: News
+      - href: demo.qmd
+        text: Dashboard
+      - href: gallery.qmd
+        text: Gallery
+    right:
+      - icon: github
+        href: https://github.com/YL-codehub
+        aria-label: GitHub
+      - icon: file-earmark-text-fill
+        href: https://scholar.google.com/citations?user=ppZtojkAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yoann-launay-926687192/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: yoann.launay@outlook.com  # Replace with your email
+        aria-label: Email
+
+  page-footer:
+    center: |
+      Yoann L. Launay • PhD Student in Quantum Cosmology • University of Cambridge
+    
+format:
+  html:
+    theme: 
+      - minty  # Clean, minimal theme
+      # - styles.scss
+    toc: true
+    toc-location: right
+    code-copy: true
+    anchor-sections: true
+    smooth-scroll: true
+    mainfont: "Crimson Text"
+    monofont: "Fira Code"

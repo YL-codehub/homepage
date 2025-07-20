@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Personal Path
+        text: About me
       - href: teaching.qmd
         text: Teaching
       - href: research.qmd

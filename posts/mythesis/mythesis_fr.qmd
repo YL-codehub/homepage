@@ -6,6 +6,9 @@ format:
   html: 
     css: ../../styles.css
 page-layout: full
+date: 2024-02-15
+categories: [open science]
+image: thesis8.png
 ---
 
 ##  Longue vie aux voyageurs

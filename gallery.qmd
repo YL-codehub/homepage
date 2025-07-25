@@ -7,6 +7,18 @@ format:
 ---
 
 ## Row
+::: {.card fill=false expandable="false"}
+### July 2025
+![International GR24-Amaldi16 conference in Glasgow](images/gr24.jpg){width=50% title="Yoann Launay, Dec. 2022."}
+:::
+
+::: {.card fill=false expandable="false"}
+### June 2025
+![CoBALt conference dinner in Paris.](images/cobalt.MOV){width=40% title="Yoann Launay, june 2025."}
+:::
+
+
+## Row
 
 ::: {.card fill=false expandable="false"}
 ### December 2024
@@ -74,13 +86,13 @@ Visiting my supervisor and Newcastle.
 :::
 
 ::: {.card fill=false expandable="false"}
-### September 14th, 2023
+### September 2023
 ![Galilei statue](images/galilei.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 A big man in Florence.
 :::
 
 ::: {.card fill=false expandable="false"}
-### August 30th, 2023
+### August 2023
 ![Beatles at BUSSTEPP23](images/beatles.jpg){width=100% title="Yoann Launay, Aug. 23."}
 Rock'n'Roll Physics at BUSSTEPP23 Summer School in Liverpool.
 :::
@@ -88,19 +100,19 @@ Rock'n'Roll Physics at BUSSTEPP23 Summer School in Liverpool.
 ## Row
 
 ::: {.card fill=false expandable="false"}
-### April 23rd, 2023
+### April 2023
 ![Whipple Museum](images/whipple_april23.JPEG){width=100% title="Yoann Launay, Dec. 2022."}
 Whipple museum: big bible on the shield?
 :::
 
 ::: {.card fill=false expandable="false"}
-### March 27th, 2023
+### March (2), 2023
 ![Great St Mary's Church](images/st_mary_march23.JPEG){width=100% title="Yoann Launay, Dec. 2022."}
 Great St Mary's church, spring activated.
 :::
 
 ::: {.card fill=false expandable="false"}
-### March 14th, 2023
+### March 2023
 ![Pi/Hawking/Einstein Day](images/pi_hawking_day_march23.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 DAMTP on Pi/Hawking/Einstein day.
 :::
@@ -108,19 +120,19 @@ DAMTP on Pi/Hawking/Einstein day.
 ## Row
 
 ::: {.card fill=false expandable="false"}
-### February 25th, 2023
+### February 2023
 ![Faraday House](images/faraday_house_feb22.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 Back in Faraday's times at Trinity Buoy Wharf's lighthouse, London.
 :::
 
 ::: {.card fill=false expandable="false"}
-### December 6th, 2022
+### December 2022
 ![GRChombo Meeting](images/GRChombo_dec22.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 Christmas Oxford after my first GRChombo Meeting.
 :::
 
 ::: {.card fill=false expandable="false"}
-### December 1st, 2023
+### December 2023
 ![DAMTP Winter Evening](images/damtp_night_nov22.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 Winter evening spot of DAMTP.
 :::

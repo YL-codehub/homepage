@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Yoann Launay">
+<meta name="dcterms.date" content="2024-02-15">
+
+<title>My Thesis in 12 sketches. – Yoann Launay</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-c106fe555190c1850ef46a8d5e044398.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Yoann Launay</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About me</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../plots.html"> 
+<span class="menu-text">Plots</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../interesting.html"> 
+<span class="menu-text">Interesting</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../gallery.html"> 
+<span class="menu-text">Gallery</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../media.html"> 
+<span class="menu-text">Media</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/YL-codehub"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=ppZtojkAAAAJ&amp;hl=en"> <i class="bi bi-file-earmark-text-fill" role="img" aria-label="Google Scholar">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/yoann-launay-926687192/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../yoann.launay@outlook.com"> <i class="bi bi-envelope" role="img" aria-label="Email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#long-live-the-travellers" id="toc-long-live-the-travellers" class="nav-link active" data-scroll-target="#long-live-the-travellers">Long live the travellers</a></li>
+  <li><a href="#fast-lives" id="toc-fast-lives" class="nav-link" data-scroll-target="#fast-lives">Fast Lives</a></li>
+  <li><a href="#stars-but-not-celebrities" id="toc-stars-but-not-celebrities" class="nav-link" data-scroll-target="#stars-but-not-celebrities">Stars but not celebrities</a></li>
+  <li><a href="#moses-in-a-cosmic-sea" id="toc-moses-in-a-cosmic-sea" class="nav-link" data-scroll-target="#moses-in-a-cosmic-sea">Moses in a cosmic sea?</a></li>
+  <li><a href="#cosmic-web" id="toc-cosmic-web" class="nav-link" data-scroll-target="#cosmic-web">Cosmic Web</a></li>
+  <li><a href="#a-backward-history-of-time" id="toc-a-backward-history-of-time" class="nav-link" data-scroll-target="#a-backward-history-of-time">A backward history of time</a></li>
+  <li><a href="#the-failure-of-the-old-big-bang-against-expansion-in-18-holes" id="toc-the-failure-of-the-old-big-bang-against-expansion-in-18-holes" class="nav-link" data-scroll-target="#the-failure-of-the-old-big-bang-against-expansion-in-18-holes">The failure of the old Big-Bang against expansion in 18 holes</a></li>
+  <li><a href="#hands-on-inflation" id="toc-hands-on-inflation" class="nav-link" data-scroll-target="#hands-on-inflation">Hands-on Inflation</a></li>
+  <li><a href="#to-be-or-not-to-be-quantum" id="toc-to-be-or-not-to-be-quantum" class="nav-link" data-scroll-target="#to-be-or-not-to-be-quantum">To be or not to be quantum</a></li>
+  <li><a href="#feeling-quantum" id="toc-feeling-quantum" class="nav-link" data-scroll-target="#feeling-quantum">Feeling quantum</a></li>
+  <li><a href="#no-such-thing-as-empty" id="toc-no-such-thing-as-empty" class="nav-link" data-scroll-target="#no-such-thing-as-empty">No such thing as empty</a></li>
+  <li><a href="#mind-the-gap-between-the-world-and-the-sub-world" id="toc-mind-the-gap-between-the-world-and-the-sub-world" class="nav-link" data-scroll-target="#mind-the-gap-between-the-world-and-the-sub-world">Mind the gap between the world and the sub-world</a></li>
+  <li><a href="#non-linear-general-relativity-for-stochastic-inflation" id="toc-non-linear-general-relativity-for-stochastic-inflation" class="nav-link" data-scroll-target="#non-linear-general-relativity-for-stochastic-inflation">“Non-linear general relativity for stochastic inflation”</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">My Thesis in 12 sketches.</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">open science</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Yoann Launay </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 15, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="long-live-the-travellers" class="level2">
+<h2 class="anchored" data-anchor-id="long-live-the-travellers">Long live the travellers</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis1.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>Gravity is simple: objects with a mass attract each other. The closer together they are or greater their masses, the stronger the attraction. However, this is only an approximation of reality. There is also an effect on time: time doesn’t pass the same way for everyone. General Relativity (GR) is the theory which calculates those effects. Take the case of these three humans: a second for one of them (the mountain or satellite guy vs the ground one) might be slightly longer for an another.</p>
+<p>The difference between their clocks is due to the difference between their speeds and the gravitational force they endure (both slowing down time perception). This is not a noticeable effect on our planet, too light. Increase the mass of the planet and the difference of the speeds, the effect will become bigger. Still, GPS would not have today’s accuracy if those effects were not accounted for.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="fast-lives" class="level2">
+<h2 class="anchored" data-anchor-id="fast-lives">Fast Lives</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis2.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>So, people can have different beating rate for their clocks: your GR speed is your speed through space plus your speed through time. This speed is how fast you feel time. All theories have to pre-suppose something they can’t prove: in GR the speed of light is assumed to be always the same wherever the measure is done and the total time+space speed of any object is equal to the speed of light.</p>
+<p>GR’s Maths suggest that we live on a sheet of paper (but 4 dimensions in reality, not 2) that can be bent when there is a massive object on it. When you fall from space to a planet, it is the same as going along a slide that leads to the planet. When you look at the curve of the slide, you can see that the notion of space and time depends on where you are (but also when). A curved line is indeed longer than a straight one: that explains why different people experience different travel times in space and time. You or anything (planets, blackholes, gas etc, but also light) undergo the curve of spacetime and in return also bend it. Still here? Good.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="stars-but-not-celebrities" class="level2">
+<h2 class="anchored" data-anchor-id="stars-but-not-celebrities">Stars but not celebrities</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis3.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>The Earth is one of the 8 planets orbiting around a star – our sun. Each of them has additional movements: they rotate around a North-South axis and this axis also slightly oscillates. The orbits are all almost circles, towards the same direction (except Venus and Uranus), and all in the same plane. Since all planets used to be part of the same cloud of matter orbiting around the sun, their numerous common traits are not surprising!</p>
+<p>Gravity is not specific to our system. Our planet(s) and star have nothing special either. The same setup could exist for the ~100 billion stars in our galaxy, the Milky Way. Astronomists calculated at least 1 planet per star on average: a lot of possibilities for space colonies. However, it would take 100 000 years for us to travel across even in the best case (at light speed!), to which you add detours around the supermassive blackhole in the middle of our galaxy: Sagittarius A*. Supermassive black holes are also typical features of galaxies, at their center where matter collapses.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="moses-in-a-cosmic-sea" class="level2">
+<h2 class="anchored" data-anchor-id="moses-in-a-cosmic-sea">Moses in a cosmic sea?</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis4.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>Let’s keep zooming out, we haven’t reached the scale of Cosmology yet, but we’re about to. The Milky Way belongs to a supercluster of galaxies called ‘Virgo’; a million times bigger. Some movements of those galaxies have been measured from Earth. In 1929, Edwin Hubble measured that some galaxies are moving away from us and the supercluster, the further, the fastest. It seems that distances everywhere become bigger: this is a proof that the universe is expanding.</p>
+<p>However, within a certain distance to us, galaxies stick with us and the cluster and might even get closer. We will see that it comes from the competition between two forces: gravity and expansion, both described with GR. If the expansion continues, it is difficult to predict exactly how many galaxies will stay within Virgo; it probably will be separated into a hundred subclusters of galaxies, which could cluster more until merging into super galaxies.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="cosmic-web" class="level2">
+<h2 class="anchored" data-anchor-id="cosmic-web">Cosmic Web</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis5.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>The biggest scale we can probe from observations is called the ‘cosmic web’, 10 million of Virgo-like superclusters. Their distribution in space has a clear web pattern: superclusters have clustered with others thanks to gravity, but also empty bubbles have formed thanks to the expansion of the universe.</p>
+<p>How is this possible? It feels like there is something growing or pushing things away that we can’t see. But we can see it and it’s everywhere: matter, light, anything with an energy dilates space and this is something we learn by writing the GR equation for the universe. However, there is also something accelerating that expansion, which is why we think that expansion won’t stop and reverse. None of the usual types of matter, light or forces allow that: can you imagine something with a negative pressure? something else is out there but nobody knows what it is and that’s why it is now called dark energy. We only know some of its properties and its quantity in the universe (~70%!).</p>
+</div>
+</div>
+</div>
+</section>
+<section id="a-backward-history-of-time" class="level2">
+<h2 class="anchored" data-anchor-id="a-backward-history-of-time">A backward history of time</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis6.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>One of the simplest ways to represent expansion is by using an (inaccurate) inflating balloon. It shows what you see from the center of the balloon, you (galaxy) and your surrounding friends (galaxies). Some of your friends are far enough to stand on the surface of the balloon: that’s the expansion. Some of them know each other and hold their hands or hug: that’s gravity. You can imagine that expansion hampered some of them to grab the hands of others or yours, or even broke some handshakes.</p>
+<p>So, if the universe is currently a big, inflated balloon; what happens when going back in time? Do you get to hug all your friends? Can points hug? Well, that’s basically the origin of times and it’s complicated. What is even the right way to go back in time? This is researcher’s work to find out and it all depends on the content of the universe in time. For now, we discovered that all types of usual matter, light and force disappear into a hot plasma before we reach the point-like balloon. People thought the Big-Bang was there: let me explain you why it’s not.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="the-failure-of-the-old-big-bang-against-expansion-in-18-holes" class="level2">
+<h2 class="anchored" data-anchor-id="the-failure-of-the-old-big-bang-against-expansion-in-18-holes">The failure of the old Big-Bang against expansion in 18 holes</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis7.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>We measure distances by measuring the travel of light, the fastest speed allowed. But how fast is the expansion? I mentioned earlier that the further away an object is from us, the faster it recedes: is there a distance after which it could be faster than light? No.&nbsp;Expansion doesn’t change the velocity of galaxies but rather makes the journey longer between them. That still means that light sent from us or some far neighbour might have to compete with an increasing distance, and sometimes expansion wins. Can you imagine playing golf on an expanding green… Sometimes communication (i.e., light reaching from one area to another) is impossible between two regions of the universe. That’s the reason why even with powerful tools we can’t see the whole universe.</p>
+<p>We still manage to receive microwave signals from the Big-Bang plasma, still travelling today, coming from all directions. The analysis of this signal suggested that places that were too far away from each other to have ever been in contact at that time, had actually interacted (for instance with the same light). From that discovery in the 60s, people decided we needed a pre-Big-Bang (or an extension) to allow a ‘contact’ time and called it inflation.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="hands-on-inflation" class="level2">
+<h2 class="anchored" data-anchor-id="hands-on-inflation">Hands-on Inflation</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis8.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>There isn’t really a shared way to imagine what inflation is like: all particles and forces we’re aware of today aren’t there. As it is mainly described by GR, its descriptions can’t go without mathematics. The role of many researchers is to propose a mathematical model for inflation and calculate what it gives at later times, at the plasma time and even until today. Finally, you compare your prediction with the measured signal: you score models, and you keep the best (the closest to measurements): that’s what modern science is.</p>
+<p>The imprints of inflation on the microwave signal are subtle but tell a lot about the properties of ‘what’ was there during inflation. We now know that Inflation mainly saw a type of dark energy – called inflaton- dominating, a type of negative pressure. Again, such a fluid triggers expansion, here the fastest in the universe’s history: size multiplied by 1[insert 138 zeros], in approximately 0.[insert at least 32 zeros]1 seconds. Similarly, to today’s universe expansion, it is like being on a 2D sheet of spacetime: it feels like some higher dimensional being was stretching the sheet everywhere around you. The main difference with today’s expansion is that the universe was small and so subjected to quantum effects.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="to-be-or-not-to-be-quantum" class="level2">
+<h2 class="anchored" data-anchor-id="to-be-or-not-to-be-quantum">To be or not to be quantum</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis9.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>Matter and other fluids of the present and the past, and so particles they’re made of, must have had a slightly different history depending on the location because today’s sky observation says so; the universe is not homogeneous when you zoom enough, e.g., there are different number of galaxies for different locations. The origin (in time) of that inhomogeneity is thought to be quantum physics during Inflation. Backward in time, the universe might reach scales below what we cannot see with our eyeballs and even smaller. But in that case, things no longer follow what is called classical physics.</p>
+<p>Classical physics is the pre-determined science of what we see everyday; knowing enough details about a system at a given time (mass, position, velocity…), you can predict the evolution of the system in time and what you will measure. Sometimes, you are missing information about the system, and you must assume different scenarios for the start and so the evolution. Each scenario has a probability; here for instance an unprecise or incomplete measure of the initial position and velocity gives a lack of knowledge also later.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="feeling-quantum" class="level2">
+<h2 class="anchored" data-anchor-id="feeling-quantum">Feeling quantum</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis10.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>The easiest way to represent it is, again, by suggesting that there is something at play in an extra-dimension. We usually introduce extra features for the probability in space and time; allowing probabilities to have an angular dimension called ‘phase’. Two particles’ can thus interact like waves, but with more complexity, e.g., their interference (sum) depends a lot on their angle and can annihilate each other’s probability or strengthen it.</p>
+<p>For a given quantum probability wave, some equations and principles dictate which shapes are allowed in space and time. For instance, a wave can have a concentrated probability in space (2nd sketch) but implies a super spread probability for all allowed velocities (3rd sketch). The opposite is also allowed, but both positions and velocity probabilities too precisely simultaneously known is impossible: quantum uncertainty at play.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="no-such-thing-as-empty" class="level2">
+<h2 class="anchored" data-anchor-id="no-such-thing-as-empty">No such thing as empty</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis11.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>Back to the tiny but inflating universe, quantum physics at play. Physicists think that, far enough in the past, the universe made of inflaton could be in its lowest energy level, called vacuum. However, quantum vacuum doesn’t strictly mean ‘0’ of anything, as opposed to classical physics, because even at the lowest level quantum physics show energy fluctuations in that vacuum.</p>
+<p>Theoretically, quantum vacuum cannot have a strict 0 energy, otherwise it would contradict the quantum uncertainty. If we define vacuum as the absence of any measured particle; unmeasurable particles pairs are allowed to emerge from nothing and annihilate before you have time to measure them. Those particles are called ‘virtual’, but it doesn’t mean they don’t exist; they can be measured indirectly by measuring other real particles interacting with them. In all cases, we know for sure that there is some energetic process down there bringing fluctuations to the young universe, which will today give fluctuations in the sky (e.g.&nbsp;number of galaxies).</p>
+</div>
+</div>
+</div>
+</section>
+<section id="mind-the-gap-between-the-world-and-the-sub-world" class="level2">
+<h2 class="anchored" data-anchor-id="mind-the-gap-between-the-world-and-the-sub-world">Mind the gap between the world and the sub-world</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis12.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>The last piece of the puzzle is about scaling. As I explained, there are everyday situations where we miss information and must consider all possible outcomes with probabilities. That classical uncertainty is due to a lack of information about the system. The worst type comes from a scale smaller than the scale of study. Searching for mathematics or general descriptions of; the shape of France, the grass and plants cycle, the evolution of your weight or bitcoins or of a molecule; all of those might require the consideration of what is happening at smaller scales; Normandie, worms as organic recyclers, measure noise, all individuals in a market, random collisions with other particles etc. Some of them can be modeled as random background noise with defined probabilities, it’s called stochastic modeling.</p>
+<p>Most of times, there is a scale at which you can stop zooming because it has a negligible influence compared to your desired precision. What if we were doing that just before zooming into Quantum Physics to study cosmic inflation?</p>
+</div>
+</div>
+</div>
+</section>
+<section id="non-linear-general-relativity-for-stochastic-inflation" class="level2">
+<h2 class="anchored" data-anchor-id="non-linear-general-relativity-for-stochastic-inflation">“Non-linear general relativity for stochastic inflation”</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img src="thesis13.png" class="img-fluid" style="padding-right:2%;"></p>
+</div><div class="column" style="width:60%;">
+<div class="justify">
+<p>You now have everything you need to understand my PhD. Because General Relativity and Quantum Physics are not compatible but exchanging phenomena, I want to study the propagation in time of the initial quantum fluctuations of inflation by treating it as a stochastic noise when it becomes classical and so compatible with General Relativity. If this works, that will allow me to predict the distribution of today’s types of matter in the universe, for instance the patterns of clusters and galaxies, but also to validate or rule out certain types of starts for the universe.</p>
+<p>If it is still blurry, contact me for questions or meditate with those chatGPT-generated illustrations of my thesis’ keywords! Thanks for reading.</p>
+</div>
+</div>
+</div>
+<hr>
+<p><a href="../../posts/mythesis/mythesis_fr.html">Click here for the french version <img src="../../images/france.png" class="img-fluid" style="width:3.0%"></a></p>
+<p>Many thanks to A. McWhinnie for precious advice.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Yoann L. Launay • PhD Student in Quantum Cosmology • University of Cambridge</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

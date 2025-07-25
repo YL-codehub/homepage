@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts/famelab/famelab.html",
+      "/posts/mythesis/mythesis.html",
+      "/posts/mythesis/mythesis_fr.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/posterGR24/posterGR24.html",
+      "/posts/famelab/famelab.html",
+      "/posts/mythesis/mythesis.html",
+      "/posts/mythesis/mythesis_fr.html"
+    ]
+  }
+]

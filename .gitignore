@@ -1,7 +1,6 @@
 demos/
 *.quarto
 /.quarto/
-docs/
 
 # Quarto output folders
 _site/

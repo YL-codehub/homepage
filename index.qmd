@@ -29,6 +29,33 @@ On this website, you will be able to find out more about:
 - Material/Information if you are one of my students. 
 - My everyday Physics if you bother.
 - More Physics if you're starting from scratches. 
+- Curiosity.
+
+## News
+
+- (16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at [Featurespace](https://www.featurespace.com/) from April and for six months! 
+- (12/02/2025) My third PhD article and first with spacetime simulations is out! see [preprint](https://arxiv.org/abs/2502.06783pre-print).
+- (11/02/2025) [An interesting article](https://www.intel.com/content/www/us/en/developer/articles/technical/university-cambridge-oneapi-cosmology.html) where my simulations are featured. 
+- (05/01/2025) My second PhD article is out! see [preprint](https://arxiv.org/abs/2412.16143pre-print).  
+- (02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients! 
+- (16/01/2024) I published my first article in cosmology! see [preprint](https://arxiv.org/abs/2401.08530pre-print).
+- (1/11/2023) My first feature article for Bluesci, see issue n°58 [here](https://www.bluesci.co.uk/issue/article) (page 26). 
+- (1/11/2023) New book review article in Bluesci, see issue n°57 [here](https://www.bluesci.co.uk/issue/article) (page 5). 
+- (7/04/2023) G-research grant obtained! see [article](https://www.gresearch.co.uk/blog/article/g-research-march-2023-grant-winners/). 
+
+## They financed my work and gave me support
+
+- [Featurespace 🌐](https://www.featurespace.com/)
+- [DiRAC UK 🌐](https://dirac.ac.uk/)
+- [DAMTP 🌐](https://www.damtp.cam.ac.uk/)
+- [G-Research 🌐](https://www.gresearch.co.uk/)
+- [Data-intensive CDT Program 🌐](https://cdtdis.bigdata.cam.ac.uk/)
+- [UKRI 🌐](https://www.ukri.org/)
+- [Wolfson College 🌐](https://www.wolfson.cam.ac.uk/)
 
 
----
+## Contact
+
+Email: yl844@cam.ac.uk
+
+Office: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom.

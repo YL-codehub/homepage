@@ -4,64 +4,35 @@ title: "Teaching & Student Resources"
 
 ## Current Teaching
 
-### [Course Name] - [Academic Year]
-**Role:** Teaching Assistant/Supervisor
+Cambridge Maths Tripos: Part II Cosmology, Part II General Relativity.
 
-- **Lecture Notes:** [Link to notes]
-- **Problem Sets:** [Link to problems]
-- **Solutions:** [Link to solutions - password protected if needed]
-- **Office Hours:** [Days and times]
+Cambridge Data-intensive science MPhil: Machine learning.
 
-### [Another Course] - [Academic Year]
-**Role:** [Your role]
+## Supervision
+If you have been assigned to me for supervision, please wait for my instructions by emails.
 
-Brief description of the course and your contributions.
+If you're interested in undergraduate projects or have questions about graduate studies in theoretical physics, feel free to reach out.
+
 
 ## Resources for Students
-
-### General Physics Resources
 
 ::: {.resource-grid}
 
 ::: {.resource-item}
+#### Physics
+TBD
+:::
+
+::: {.resource-item}
 #### Mathematical Methods
-- [Linear Algebra Review](files/linear-algebra-review.pdf)
-- [Complex Analysis Notes](files/complex-analysis.pdf)
-- [Differential Equations Guide](files/diff-eq-guide.pdf)
+TBD
 :::
 
 ::: {.resource-item}
 #### Computational Tools
-- [Python for Physics](files/python-physics.pdf)
-- [Mathematica Tutorials](files/mathematica-guide.pdf)
-- [LaTeX Template](files/latex-template.zip)
-:::
-
-::: {.resource-item}
-#### Research Skills
-- [How to Read Papers](files/reading-papers.pdf)
-- [Presentation Guidelines](files/presentation-guide.pdf)
-- [Academic Writing Tips](files/writing-tips.pdf)
+TBD
 :::
 
 :::
-
-## Supervision
-
-If you're interested in undergraduate projects or have questions about graduate studies in theoretical physics, feel free to reach out.
-
-### Current Projects
-- [Project 1 Title] - [Student Name]
-- [Project 2 Title] - [Student Name]
-
-### Past Projects
-- [Completed Project 1] - [Year]
-- [Completed Project 2] - [Year]
-
-## Office Hours
-
-**When:** [Days and times]  
-**Where:** [Your office location]  
-**How:** Drop by or email to schedule
 
 For urgent questions, email is usually the fastest way to reach me.

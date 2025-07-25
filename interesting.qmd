@@ -1,5 +1,5 @@
 ---
-title: "AI knows everything unlike us but what I want to know is what makes me."
+title: "Interesting facts."
 format:
   dashboard:
     orientation: rows
@@ -7,22 +7,22 @@ format:
 bibliography: references.bib
 # csl: ieee.csl
 ---
-
+# I collect here some interesting facts encountered in various museums, experiences, books, etc.
 
 ## Row 
 
 ::: {.card fill=false expandable="false"}
-The US victory against english, french, mecixans was stopped by native americans in Montana.
+The US victory against english, french, mexicans was stopped by native americans in Montana.
 :::
 
 
 ::: {.card fill=false expandable="false"}
-![Sand dunes on Arrakis](images/dune.png)
+<!-- ![Sand dunes on Arrakis](images/dune.png) -->
 Dune is the first science-fiction book to make ecology a central theme.
 :::
 
 ::: {.card fill=false expandable="false"}
-From 1912 to 1948, competitions in literature, music, architecture, painting, sculpture part of the Olympics. Like in Ancient Greece
+From 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.
 :::
 
 
@@ -63,7 +63,7 @@ Polynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to g
 :::
 
 ::: {.card fill=false expandable="false"}
-Toasts taste stronger upside down 😂
+Toasts taste stronger upside down.
 :::
 
 ## Row

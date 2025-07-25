@@ -18,29 +18,36 @@ website:
         text: Teaching
       - href: research.qmd
         text: Research
-      - href: news.qmd
-        text: News
-      - href: demo.qmd
-        text: Dashboard
+      - href: blog.qmd
+        text: Blog
+      - href: plots.qmd
+        text: Plots
+      - href: interesting.qmd
+        text: Interesting
       - href: gallery.qmd
         text: Gallery
+      - href: media.qmd
+        text: Media
+      - href: carbon.qmd
+        text: Carbon
+ 
     right:
       - icon: github
         href: https://github.com/YL-codehub
         aria-label: GitHub
+      - href: https://inspirehep.net/authors/2750519
+        text: "<img src='images/hep_inspire.png' alt='' style='height: 20px;' />"
+        aria-label: HEP Inspire
       - icon: file-earmark-text-fill
         href: https://scholar.google.com/citations?user=ppZtojkAAAAJ&hl=en
         aria-label: Google Scholar
       - icon: linkedin
         href: https://www.linkedin.com/in/yoann-launay-926687192/
         aria-label: LinkedIn
-      - icon: envelope
-        href: yoann.launay@outlook.com  # Replace with your email
-        aria-label: Email
 
   page-footer:
     center: |
-      Yoann L. Launay • PhD Student in Quantum Cosmology • University of Cambridge
+      Yoann L. Launay • PhD Student in Quantum Cosmology • Cambridge
     
 format:
   html:

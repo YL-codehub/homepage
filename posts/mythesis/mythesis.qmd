@@ -6,9 +6,10 @@ format:
   html: 
     css: ../../styles.css
 page-layout: full
+date: 2024-02-15
+categories: [open science]
+image: thesis8.png
 ---
-
-[Click here for the french version ![](../../images/france.png){width=3%}](mythesis_fr.qmd)
 
 ## Long live the travellers
 ::: {.columns}
@@ -235,4 +236,6 @@ If it is still blurry, contact me for questions or meditate with those chatGPT-g
 :::
 
 ---
+[Click here for the french version ![](../../images/france.png){width=3%}](mythesis_fr.qmd)
+
 Many thanks to A. McWhinnie for precious advice.

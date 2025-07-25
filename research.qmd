@@ -1,95 +1,118 @@
 ---
-title: "Research & Everyday Physics"
+title: "Research"
+toc: true
 ---
 
-## Current Research
+A more semi-detailed page on my different interests of the past or today.
 
-My PhD research focuses on understanding the quantum nature of cosmological spacetimes. 
-I'm particularly interested in how quantum effects might resolve classical singularities 
-and influence the dynamics of the early universe.
+## Non-Linear General Relativity for Stochastic Inflation (Quantum Cosmology)
 
-### Active Projects
+PhD, 2022-2026, DAMTP, University of Cambridge.
 
-#### Quantum Cosmological Models
-Investigating the behavior of quantum fields in expanding spacetimes, with particular 
-attention to:
-- Semiclassical gravity corrections
-- Backreaction effects
-- Observable signatures
+### Abstract for professionals
 
-#### Numerical Relativity Applications
-Developing computational methods for:
-- Solving Einstein's field equations numerically
-- Modeling black hole spacetimes
-- Analyzing gravitational wave signatures
+::: {.justify}
+My PhD project will advance the early universe theory of inflation, 
+which explains the origin of galaxies and large-scale structure in the Universe,
+by developing stochastic methods with nonlinear evolution to make quantitative 
+statistical predictions from inflationary models. Non-Gaussian signatures are 
+inherently present in primordial fluctuations due to the non-linearities produced 
+by both general relativity and the fact that the inflaton potential responsible for 
+driving inflation may be interacting. 
 
-#### Loop Quantum Cosmology
-Exploring discrete quantum geometry approaches to cosmology:
-- Bounce scenarios replacing big bang singularities
-- Phenomenological implications
-- Connection to observations
+The goal of this project is to analytically and 
+numerically model nonlinear inflationary dynamics in order to make bispectrum and 
+higher-order correlator predictions which encompass a much broader range of 
+inflationary scenarios, including those with multiple fields. This is an important 
+discriminant between competing inflation models that can be used to distinguish them
+observationally. 
 
-## Publications & Preprints
+An important element of the project will be to exploit the new 
+GRChombo numerical relativity pipeline to model these nonlinear effects using full 3D
+general relativistic simulations, comparing the results with perturbative analytic 
+expectations from effective field theory. In the last years, consequent insights 
+have been made by the DAMTP cosmology group lead by Dr. Paul Shellard, now able to 
+constrain a wide range of these models by using innovative separable techniques to
+extract and reconstruct the bispectrum (three-point correlator) from Planck 
+satellite maps of the cosmic microwave background (CMB). Direct confrontation with
+  new observational data sets, from both CMB experiments (Simons Observatory) and 
+  galaxy surveys (SDSS, DES etc), will guide and constrain the understanding of 
+  inflation in fundamental physics.
+  Stochastic nonlinear methods have other 
+  wide-ranging applications, including the creation of primordial black holes and 
+  the generation of gravitational waves in the early universe.
+:::
 
-### Published Papers
+### Abstract for newcomers
 
-1. **Launay, Y.** et al. (2024). "Quantum corrections in cosmological models." 
-   *Physical Review D*, 109, 123456. [arXiv:2401.12345](https://arxiv.org/abs/2401.12345)
+::: {.justify}
+I work on the cosmology of the early universe. This means finding the best mathematical
+description of the first few seconds of the universe, considering it as a dynamic system, and testing the
+predictions of this model against real astrophysical data. In particular, I will predict the distribution in
+space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation.
+Inflationrefers to the first instants of the universe which allowed an exponential growth of its
+size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of
+the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum
+propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies
+against empty millions of light years.
 
-2. **Launay, Y.** & Collaborator, A. (2023). "Semiclassical gravity in expanding universes." 
-   *Classical and Quantum Gravity*, 40, 123456. [DOI](https://doi.org/10.1088/example)
+There is a time at which those perturbations are big enough to be accounted for with the rival theory of
+quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive
+objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these
+growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By
+doing so, I hope to support the growing link between these two theories (Quantum Physics and General
+Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo
+collaboration which develops such code.
+:::
 
-### Preprints
+## Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Quantum Cosmology)
 
-1. **Launay, Y.** (2024). "Numerical approaches to quantum cosmology." 
-   arXiv:2404.56789 [Submitted to Journal Name]
+Master Thesis, 2021-2022, Cavendish Laboratory, University of Cambridge.    
 
-## Conference Presentations
+### Abstract for professionals
 
-### 2024
-- **"Quantum Effects in Early Universe Cosmology"**  
-  *International Conference on General Relativity and Gravitation*, July 2024, Location
+::: {.justify}
+Modern inflation theory is based on Mukhanov-Sasaki equations which give a perturbative framework to propagate initial quantum fluctuations as sources of the Cosmic Microwave Background (CMB) anisotropies encountered at the recombination epoch. Following previous work on initial conditions for the power spectrum, this work extends the kinetic pre-inflation model to the derivation of the primordial bispectrum, related to 3-point correlations. We derive here the main perturbations contributing to the bispectrum thanks to the In-In formalism for different initial conditions of a simple constant slow-roll and single-field inflation. In addition to an oscillating locally-shaped bispectrum, it is found that the dependence on the time and nature of the transition between pre-inflation and inflation is strong. As a main result, UV and IR divergences are encountered for the non-Gaussianities, showed to be independent of the choice of the vacuum and so treated within the assumption of an old transition time compared to the experimental cutoff.
+:::
 
-- **"Computational Methods in Quantum Gravity"**  
-  *UK Relativity Meeting*, April 2024, Location
+### Abstract for newcomers
 
-### 2023
-- **"Semiclassical Corrections to Cosmological Dynamics"**  
-  *Postgraduate Research Conference*, September 2023, Cambridge
+::: {.justify}
+This work studied a particular model of initial conditions for the universe, i.e. of a type of inflationary universe. While most models don't incorporate any origin and focus on the inflation process itself, this model combine both aspects by providing an initial singularity at the start and then propagates the subsequent universe into a "kinetic" era before transitioning to the usual models with a stable inflation of the apparent size of the universe.
 
-## Computational Work
+As this is quite a peculiar formulation, usual mathematical tools to compute post-inflation observable quantities need some careful study. This is what we did to compute the correlation between each 3 points of the sky at the time of the Hot Big-Bang following Inflation.
+:::
 
-### Code Repositories
+## Optimal combination of the spatial correlation function and galaxy cluster counts (Cosmology)
 
-All research code is available on [GitHub](https://github.com/YL-codehub):
+Undergraduate Summer Internship, CEA, Paris-Saclay.
 
-- **`quantum-cosmo-toolkit`**: Python package for quantum cosmological calculations
-- **`gr-numerics`**: Numerical relativity utilities
-- **`semiclassical-gravity`**: Tools for semiclassical gravity computations
+### Abstract
 
-### Software Skills
+::: {.justify}
+To understand the story of the universe, physicists have identified cosmological observables : the CMB, supernovae but
+also galaxy clusters hosting most of the matter in the universe.
+From these last ones, many direct and indirect observables can
+be reconstructed including galaxy clusters counts and space
+correlations. Between these two, correlations are expected
+and encourage the exploration of a unification of two distinct
+formalisms - at least in the refinement of cosmological parameters.
+:::
 
-**Languages:** Python, C++, Mathematica, MATLAB  
-**Specialized Tools:** Einstein Toolkit, Cadabra, GRTensorII  
-**HPC:** Experience with Cambridge HPC clusters, parallel computing
+## N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures (Quantum Cristallography)
 
-## Outreach & Communication
+Bachelor Thesis, 2019-2021, CentraleSupélec/CNRS, Paris-Saclay University.
 
-### Popular Science Writing
-- [Blog post title] - *Platform* (2024)
-- [Another article] - *Magazine* (2023)
+### Abstract
+::: {.justify}
+This article retraces different methods that have been explored to account for the atomic thermal motion in the reconstruction of one-electron reduced density matrices from experimental X-ray structure factors (XSF) and directional Compton profiles (DCP). Attention has been paid to propose the simplest possible model, which obeys the necessary N-representability conditions, while accurately reproducing all available experimental data. The deconvolution of thermal effects makes it possible to obtain an experimental static density matrix, which can directly be compared with theoretical 1-RDM (reduced density matrix). It is found that above a 1% statistical noise level, the role played by Compton scattering data becomes negligible and no accurate 1-RDM is reachable. Since no thermal 1-RDM is available as a reference, the quality of an experimentally derived temperature-dependent matrix is difficult to assess. However, the accuracy of the obtained static 1-RDM, through the performance of the refined observables, is strong evidence that the Semi-Definite Programming method is robust and well adapted to the reconstruction of an experimental dynamical 1-RDM.
+:::
 
-### Public Talks
-- **"The Quantum Universe"** - *Cambridge Science Festival* (2024)
-- **"Black Holes and Quantum Gravity"** - *Local Physics Society* (2023)
+## Nash equilibirum in network games (Game Theory)
 
-## Collaborations
+Undergraduate project, 2018-2019, Clemenceau Preparatory Classes.
 
-### Research Groups
-- Cambridge Relativity Group
-- UK Quantum Gravity Network
-- International Loop Quantum Gravity Community
-
-### Visiting Positions
-- [Institution Name] - [Duration] - [Year]
-- [Another Institution] - [Duration] - [Year]
+### Abstract
+::: {.justify}
+In this work, I studied games called 'Shapley Network Design' which model the passage from A to B with a fixed number of paths and travellers. I derived the general Nash equilibrium  for quadratic costs and compared it to the optimal equilibrium obtained thanks to a genetic algorithm.
+:::

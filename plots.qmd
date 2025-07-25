@@ -1,0 +1,7 @@
+---
+title: "Plots"
+---
+
+A place to make my scientific plots accessible (in progress...).
+
+![An example of energy density plot extracted from my simulations.](images/quad__cube_rho_N3-91.png){fig-align="center"}

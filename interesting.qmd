@@ -1,0 +1,77 @@
+---
+title: "Interesting facts."
+format:
+  dashboard:
+    orientation: rows
+    scrolling: true 
+bibliography: references.bib
+# csl: ieee.csl
+---
+# I collect here some interesting facts encountered in various museums, experiences, books, etc.
+
+## Row 
+
+::: {.card fill=false expandable="false"}
+The US victory against english, french, mexicans was stopped by native americans in Montana.
+:::
+
+
+::: {.card fill=false expandable="false"}
+<!-- ![Sand dunes on Arrakis](images/dune.png) -->
+Dune is the first science-fiction book to make ecology a central theme.
+:::
+
+::: {.card fill=false expandable="false"}
+From 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.
+:::
+
+
+::: {.card fill=false expandable="false"}
+Children outnumbered adults for most of human history @CamArcheo.
+:::
+
+## Row 
+
+::: {.card fill=false expandable="false"}
+For head trauma, Incas would make a hole in the skull to treat it @NatGeo.
+:::
+
+::: {.card fill=false expandable="false"}
+Scotland and England+Wales, used to be parts of different continents @CamGeo.
+:::
+
+::: {.card fill=false expandable="false"}
+There is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milkomeda but we won't feel it.
+:::
+
+::: {.card fill=false expandable="false"}
+John Von Neumann could have been the last polymath @wiki.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+Roxbourgh figs pollinisation is fascinating, so fine-tuned.
+:::
+
+::: {.card fill=false expandable="false"}
+New York was created by the English after trading a nutmeg island for New Amsterdam. 
+:::
+
+::: {.card fill=false expandable="false"}
+Polynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants @CamArcheo.
+:::
+
+::: {.card fill=false expandable="false"}
+Toasts taste stronger upside down.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+Pink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.
+:::
+
+::: {.card fill=false expandable="false"}
+Cambridge market used to be the biggest fair of Europe.
+:::

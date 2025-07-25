@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs  # For GitHub Pages compatibility
+
+website:
+  title: "Yoann Launay"
+  description: "PhD student in Quantum Cosmology at Cambridge DAMTP"
+  
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: blog.qmd
+        text: Blog
+      - href: plots.qmd
+        text: Plots
+      - href: interesting.qmd
+        text: Interesting
+      - href: gallery.qmd
+        text: Gallery
+      - href: media.qmd
+        text: Media
+      - href: carbon.qmd
+        text: Carbon
+ 
+    right:
+      - icon: github
+        href: https://github.com/YL-codehub
+        aria-label: GitHub
+      - href: https://inspirehep.net/authors/2750519
+        text: "<img src='images/hep_inspire.png' alt='' style='height: 20px;' />"
+        aria-label: HEP Inspire
+      - icon: file-earmark-text-fill
+        href: https://scholar.google.com/citations?user=ppZtojkAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yoann-launay-926687192/
+        aria-label: LinkedIn
+
+  page-footer:
+    center: |
+      Yoann L. Launay • PhD Student in Quantum Cosmology • Cambridge
+    
+format:
+  html:
+    theme: 
+      - minty  # Clean, minimal theme
+      # - styles.scss
+    toc: true
+    toc-location: right
+    code-copy: true
+    anchor-sections: true
+    smooth-scroll: true
+    mainfont: "Crimson Text"
+    monofont: "Fira Code"

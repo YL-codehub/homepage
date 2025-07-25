@@ -1,0 +1,765 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "I’m a PhD student in Quantum Cosmology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.\nThe essence of this website is multiple but mainly professional and functional — hence a deliberately minimalist pattern.\n\n\n\n\nOn this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity.\n\n\n\n\n\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article.\n\n\n\n\n\nFeaturespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐\n\n\n\n\nEmail: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "On this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Student Resources",
+    "section": "",
+    "text": "Cambridge Maths Tripos: Part II Cosmology, Part II General Relativity.\nCambridge Data-intensive science MPhil: Machine learning."
+  },
+  {
+    "objectID": "teaching.html#current-teaching",
+    "href": "teaching.html#current-teaching",
+    "title": "Teaching & Student Resources",
+    "section": "",
+    "text": "Cambridge Maths Tripos: Part II Cosmology, Part II General Relativity.\nCambridge Data-intensive science MPhil: Machine learning."
+  },
+  {
+    "objectID": "teaching.html#resources-for-students",
+    "href": "teaching.html#resources-for-students",
+    "title": "Teaching & Student Resources",
+    "section": "Resources for Students",
+    "text": "Resources for Students\n\n\nPhysics\nTBD\n\n\nMathematical Methods\nTBD\n\n\nComputational Tools\nTBD\n\n\nFor urgent questions, email is usually the fastest way to reach me."
+  },
+  {
+    "objectID": "teaching.html#supervision",
+    "href": "teaching.html#supervision",
+    "title": "Teaching & Student Resources",
+    "section": "Supervision",
+    "text": "Supervision\nIf you have been assigned to me for supervision, please wait for my instructions by emails.\nIf you’re interested in undergraduate projects or have questions about graduate studies in theoretical physics, feel free to reach out."
+  },
+  {
+    "objectID": "teaching.html#office-hours",
+    "href": "teaching.html#office-hours",
+    "title": "Teaching & Student Resources",
+    "section": "Office Hours",
+    "text": "Office Hours\nWhen: [Days and times]\nWhere: [Your office location]\nHow: Drop by or email to schedule\nFor urgent questions, email is usually the fastest way to reach me."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html",
+    "href": "posts/mythesis/mythesis_fr.html",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "",
+    "text": "La gravité est simple : les objets avec une masse s’attirent mutuellement. Plus ils sont proches ou plus leurs masses sont importantes, plus l’attraction est forte. Cependant, ce n’est qu’une approximation de la réalité. Il y a aussi un effet sur le temps : le temps ne passe pas de la même manière pour tout le monde. La Relativité Générale (RG) est la théorie qui calcule ces effets. Prenons le cas de ces trois humains : une seconde pour l’un d’entre eux (celui sur la montagne ou le satellite par rapport à celui au sol) pourrait être légèrement plus longue pour un autre.\nLa différence entre leurs horloges est due à la différence de leurs vitesses et à la force gravitationnelle qu’ils subissent (ralentissant tous deux la perception du temps). Ce n’est pas un effet perceptible sur notre planète, trop légère. Augmentez la masse de la planète et la différence de vitesses, l’effet deviendra plus important. Cependant, le GPS n’aurait pas la précision actuelle si ces effets n’étaient pas pris en compte."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#longue-vie-aux-voyageurs",
+    "href": "posts/mythesis/mythesis_fr.html#longue-vie-aux-voyageurs",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "",
+    "text": "La gravité est simple : les objets avec une masse s’attirent mutuellement. Plus ils sont proches ou plus leurs masses sont importantes, plus l’attraction est forte. Cependant, ce n’est qu’une approximation de la réalité. Il y a aussi un effet sur le temps : le temps ne passe pas de la même manière pour tout le monde. La Relativité Générale (RG) est la théorie qui calcule ces effets. Prenons le cas de ces trois humains : une seconde pour l’un d’entre eux (celui sur la montagne ou le satellite par rapport à celui au sol) pourrait être légèrement plus longue pour un autre.\nLa différence entre leurs horloges est due à la différence de leurs vitesses et à la force gravitationnelle qu’ils subissent (ralentissant tous deux la perception du temps). Ce n’est pas un effet perceptible sur notre planète, trop légère. Augmentez la masse de la planète et la différence de vitesses, l’effet deviendra plus important. Cependant, le GPS n’aurait pas la précision actuelle si ces effets n’étaient pas pris en compte."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#vies-effrénées",
+    "href": "posts/mythesis/mythesis_fr.html#vies-effrénées",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Vies effrénées",
+    "text": "Vies effrénées\n\n\n\n\n\nDonc, les gens peuvent avoir des rythmes différents pour leurs horloges : votre vitesse en RG est votre vitesse dans l’espace plus votre vitesse dans le temps. Cette vitesse est la rapidité avec laquelle vous ressentez le temps. Toutes les théories doivent supposer quelque chose qu’elles ne peuvent pas prouver : en RG, la vitesse de la lumière est supposée être toujours la même où que la mesure soit effectuée et la vitesse totale espace+temps de tout objet est égale à la vitesse de la lumière.\nLes mathématiques de la RG suggèrent que nous vivons sur une feuille de papier (mais en réalité 4 dimensions, pas 2) qui peut être pliée lorsqu’il y a un objet massif dessus. Lorsque vous tombez de l’espace vers une planète, c’est comme glisser le long d’un toboggan qui mène à la planète. En regardant la courbe du toboggan, vous pouvez voir que la notion d’espace et de temps dépend de l’endroit où vous êtes (mais aussi de quand). Une ligne courbe est en effet plus longue qu’une ligne droite : cela explique pourquoi différentes personnes vivent des temps de voyage différents dans l’espace et le temps. Vous ou n’importe quoi (planètes, trous noirs, gaz, etc., mais aussi lumière) subissez la courbure de l’espace-temps et en retour, la courbez également. Toujours là ? Bien."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#étoiles-mais-pas-célébrités",
+    "href": "posts/mythesis/mythesis_fr.html#étoiles-mais-pas-célébrités",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Étoiles mais pas célébrités",
+    "text": "Étoiles mais pas célébrités\n\n\n\n\n\nLa Terre est l’une des 8 planètes en orbite autour d’une étoile – notre soleil. Chacune d’elles a des mouvements supplémentaires : elles tournent autour d’un axe Nord-Sud et cet axe oscille légèrement. Les orbites sont presque toutes circulaires, dans la même direction (sauf Vénus et Uranus), et toutes dans le même plan. Comme toutes les planètes faisaient partie de la même nuée de matière en orbite autour du soleil, leurs nombreux traits communs ne sont pas surprenants !\nLa gravité n’est pas spécifique à notre système. Nos planètes et étoiles n’ont rien de spécial non plus. Le même agencement pourrait exister pour les ~100 milliards d’étoiles de notre galaxie, la Voie lactée. Les astronomes ont calculé qu’il y a en moyenne au moins 1 planète par étoile : beaucoup de possibilités pour les colonies spatiales. Cependant, il nous faudrait 100 000 ans pour traverser même dans le meilleur des cas (à la vitesse de la lumière !), en ajoutant les détours autour du trou noir supermassif au centre de notre galaxie : Sagittarius A*. Les trous noirs supermassifs sont également des caractéristiques typiques des galaxies, à leur centre où la matière s’effondre."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#moïse-dans-une-mer-cosmique",
+    "href": "posts/mythesis/mythesis_fr.html#moïse-dans-une-mer-cosmique",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Moïse dans une mer cosmique ?",
+    "text": "Moïse dans une mer cosmique ?\n\n\n\n\n\nContinuons de dé-zoomer, nous n’avons pas encore atteint l’échelle de la cosmologie, mais nous sommes sur le point d’y arriver. La Voie lactée appartient à un super-amas de galaxies appelé ‘Virgo’, un million de fois plus grand. Certains mouvements de ces galaxies ont été mesurés depuis la Terre. En 1929, Edwin Hubble a mesuré que certaines galaxies s’éloignent de nous et du super-amas, plus elles sont loin, plus elles s’éloignent rapidement. Il semble que les distances augmentent partout : c’est une preuve que l’univers est en expansion.\nCependant, à une certaine distance de nous, les galaxies restent avec nous et le cluster et pourraient même se rapprocher. Nous verrons que cela provient de la compétition entre deux forces : la gravité et l’expansion, toutes deux décrites par la RG. Si l’expansion continue, il est difficile de prédire exactement combien de galaxies resteront dans Virgo ; il sera probablement séparé en une centaine de sous-amas de galaxies, qui pourraient se regrouper davantage jusqu’à fusionner en super galaxies."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#toile-cosmique",
+    "href": "posts/mythesis/mythesis_fr.html#toile-cosmique",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Toile Cosmique",
+    "text": "Toile Cosmique\n\n\n\n\n\nL’échelle la plus grande que nous pouvons sonder par observations est appelée la ‘toile cosmique’, 10 millions de super-amas comme Virgo. Leur distribution dans l’espace a un schéma de toile clair : les super-amas se sont regroupés avec d’autres grâce à la gravité, mais aussi des bulles vides se sont formées grâce à l’expansion de l’univers.\nComment est-ce possible ? On a l’impression qu’il y a quelque chose qui pousse les choses au loin que nous ne pouvons pas voir. Mais nous pouvons le voir et c’est partout : la matière, la lumière, tout ce qui a de l’énergie dilate l’espace et c’est quelque chose que nous apprenons en écrivant l’équation de la RG pour l’univers. Cependant, il y a aussi quelque chose qui accélère cette expansion, ce qui explique pourquoi nous pensons que l’expansion ne s’arrêtera pas et ne s’inversera pas. Aucun des types habituels de matière, de lumière ou de forces ne permet cela : pouvez-vous imaginer quelque chose avec une pression négative ? Il y a autre chose là-bas, mais personne ne sait ce que c’est et c’est pourquoi on l’appelle maintenant l’énergie noire. Nous ne connaissons que certaines de ses propriétés et sa quantité dans l’univers (~70% !)."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#une-histoire-à-rebours-du-temps",
+    "href": "posts/mythesis/mythesis_fr.html#une-histoire-à-rebours-du-temps",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Une histoire à rebours du temps",
+    "text": "Une histoire à rebours du temps\n\n\n\n\n\nL’une des façons les plus simples de représenter l’expansion est d’utiliser un ballon qui se gonfle (inexact). Cela montre ce que vous voyez depuis le centre du ballon, vous (galaxie) et vos amis environnants (galaxies). Certains de vos amis sont assez loin pour se tenir à la surface du ballon : c’est l’expansion. Certains d’entre eux se connaissent et se tiennent par la main ou se font des câlins : c’est la gravité. Vous pouvez imaginer que l’expansion a empêché certains d’entre eux de saisir les mains des autres ou les vôtres, voire même a rompu certaines poignées de main.\nDonc, si l’univers est actuellement un gros ballon gonflé ; que se passe-t-il en remontant dans le temps ? Arrivez-vous à étreindre tous vos amis ? Qu’est-ce qu’un point qui s’embrasse lui-même ? Eh bien, c’est essentiellement l’origine des temps et c’est compliqué. Quelle est la bonne façon de remonter dans le temps ? C’est le travail des chercheurs de le découvrir et tout dépend du contenu de l’univers dans le temps. Pour l’instant, nous avons découvert que tous les types de matière, lumière et force habituels disparaissent dans un plasma chaud avant d’atteindre le ballon ponctuel. Les gens pensaient que le Big Bang était là : laissez-moi vous expliquer pourquoi ce n’est pas le cas."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#léchec-du-vieux-big-bang-contre-lexpansion-en-18-trous",
+    "href": "posts/mythesis/mythesis_fr.html#léchec-du-vieux-big-bang-contre-lexpansion-en-18-trous",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "L’échec du vieux Big-Bang contre l’expansion en 18 trous",
+    "text": "L’échec du vieux Big-Bang contre l’expansion en 18 trous\n\n\n\n\n\nNous mesurons les distances en mesurant le trajet de la lumière, la vitesse la plus rapide permise. Mais à quelle vitesse se produit l’expansion ? J’ai mentionné plus tôt que plus un objet est éloigné de nous, plus il s’éloigne rapidement : y a-t-il une distance après laquelle cela pourrait être plus rapide que la lumière ? Non. L’expansion ne change pas la vitesse des galaxies mais rend le trajet plus long entre elles. Cela signifie toujours que la lumière envoyée de nous ou d’un voisin lointain pourrait devoir rivaliser avec une distance croissante, et parfois l’expansion l’emporte. Imaginez faire du golf sur un green en expansion… Parfois, la communication (c’est-à-dire la lumière atteignant d’une zone à une autre) est impossible entre deux régions de l’univers. C’est la raison pour laquelle même avec des outils puissants, nous ne pouvons pas voir l’ensemble de l’univers.\nNous parvenons toujours à recevoir des signaux micro-ondes du plasma du Big-Bang, voyageant encore aujourd’hui, venant de toutes les directions. L’analyse de ce signal a suggéré que des endroits trop éloignés les uns des autres pour avoir jamais été en contact à cette époque avaient en fait interagi (par exemple avec la même lumière). À partir de cette découverte dans les années 60, les gens ont décidé qu’il fallait un pré-Big-Bang (ou une extension) pour permettre un temps de ‘contact’ et l’ont appelé inflation."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#linflation-en-pratique",
+    "href": "posts/mythesis/mythesis_fr.html#linflation-en-pratique",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "L’inflation en pratique",
+    "text": "L’inflation en pratique\n\n\n\n\n\nIl n’y a pas vraiment de façon partagée d’imaginer à quoi ressemble l’inflation : toutes les particules et forces que nous connaissons aujourd’hui étaient absentes. Comme elle est principalement décrite par la RG, ses descriptions ne peuvent pas se passer de mathématiques. Le rôle de nombreux chercheurs est de proposer un modèle mathématique pour l’inflation et de calculer ce qu’il donne à des moments ultérieurs, à l’époque du plasma et même jusqu’à aujourd’hui. Enfin, vous comparez votre prédiction avec le signal mesuré : vous notez les modèles, et vous gardez le meilleur (le plus proche des mesures) : c’est ce que fait la science moderne.\nLes empreintes de l’inflation sur le signal micro-onde sont subtiles mais en disent long sur les propriétés de ‘ce qui’ était présent pendant l’inflation. Nous savons maintenant que l’inflation a principalement vu un type d’énergie sombre – appelé inflaton – dominer, un type de pression négative. Encore une fois, un tel fluide déclenche l’expansion, ici la plus rapide de l’histoire de l’univers : taille multipliée par 1 [insérez 138 zéros], en environ 0. [insérez au moins 32 zéros] 1 seconde. De même que l’expansion de l’univers d’aujourd’hui, c’est comme être sur une feuille 2D d’espace-temps : c’est comme si un être de dimension supérieure étirait la feuille tout autour de vous. La principale différence avec l’expansion d’aujourd’hui est que l’univers était petit et donc soumis aux effets quantiques."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#être-ou-ne-pas-être-quantique",
+    "href": "posts/mythesis/mythesis_fr.html#être-ou-ne-pas-être-quantique",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Être ou ne pas être quantique",
+    "text": "Être ou ne pas être quantique\n\n\n\n\n\nLa matière et les autres fluides du présent et du passé, et donc les particules dont ils sont constitués, doivent avoir eu une histoire légèrement différente selon l’emplacement car l’observation du ciel d’aujourd’hui le dit ; l’univers n’est pas homogène lorsque vous zoomez suffisamment, par exemple, il y a un nombre différent de galaxies selon les emplacements. L’origine (dans le temps) de cette inhomogénéité est supposée être la physique quantique pendant l’inflation. En remontant dans le temps, l’univers pourrait atteindre des échelles inférieures à ce que nous ne pouvons pas voir avec nos yeux et même plus petites. Mais dans ce cas, les choses ne suivent plus ce que l’on appelle la physique classique.\nLa physique classique est la science prédéterminée de ce que nous voyons tous les jours ; connaissant suffisamment de détails sur un système à un moment donné (masse, position, vitesse…), vous pouvez prédire l’évolution du système dans le temps et ce que vous mesurerez. Parfois, il vous manque des informations sur le système, et vous devez supposer différents scénarios pour le début et donc l’évolution. Chaque scénario a une probabilité ; ici par exemple une mesure imprécise ou incomplète de la position initiale et de la vitesse donne un manque de connaissance également plus tard."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#se-sentir-quantique",
+    "href": "posts/mythesis/mythesis_fr.html#se-sentir-quantique",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Se sentir quantique",
+    "text": "Se sentir quantique\n\n\n\n\n\nLa physique quantique décrit également les particules avec des probabilités de présence dans l’espace et le temps, mais cela n’est pas dû à notre propre manque de connaissance, mais plutôt à une incertitude intrinsèque de l’objet qui apparaît lorsque l’on zoome. Un objet quantique peut être dans plusieurs états en même temps, comme s’il n’avait pas encore choisi d’état dans notre réalité jusqu’à ce que vous le mesuriez, alors que dans la physique classique, les choses existent déjà indépendamment de vous mais vous ne savez peut-être pas encore dans quel état. La façon la plus simple de le représenter est, encore une fois, de suggérer qu’il y a quelque chose en jeu dans une dimension supplémentaire. Nous introduisons généralement des fonctionnalités supplémentaires pour la probabilité dans l’espace et le temps ; permettant aux probabilités d’avoir une dimension angulaire appelée ‘phase’. Deux particules peuvent ainsi interagir comme des vagues, mais avec plus de complexité, par exemple, leur interférence (somme) dépend beaucoup de leur angle et peut annuler la probabilité de l’autre ou la renforcer.\nPour une onde de probabilité quantique donnée, certaines équations et principes dictent quelles formes sont autorisées dans l’espace et le temps. Par exemple, une onde peut avoir une probabilité concentrée dans l’espace (2ème esquisse) mais implique une probabilité super étendue pour toutes les vitesses autorisées (3ème esquisse). L’inverse est également autorisé, mais les probabilités de positions et de vitesses trop précisément connues simultanément sont impossibles : incertitude quantique en jeu."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#pas-de-vide-total",
+    "href": "posts/mythesis/mythesis_fr.html#pas-de-vide-total",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Pas de vide total",
+    "text": "Pas de vide total\n\n\n\n\n\nRetour à l’univers minuscule mais en expansion, la physique quantique en jeu. Les physiciens pensent que, suffisamment loin dans le passé, l’univers composé d’inflaton pourrait être dans son niveau d’énergie le plus bas, appelé vide. Cependant, le vide quantique ne signifie pas strictement ‘0’ de quoi que ce soit, contrairement à la physique classique, car même au niveau le plus bas, la physique quantique montre des fluctuations d’énergie dans ce vide.\nThéoriquement, le vide quantique ne peut pas avoir strictement 0 énergie, sinon cela contredirait l’incertitude quantique. Si nous définissons le vide comme l’absence de toute particule mesurée ; des paires de particules non mesurables sont autorisées à émerger de rien et à s’annihiler avant que vous ayez le temps de les mesurer. Ces particules sont appelées ‘virtuelles’, mais cela ne signifie pas qu’elles n’existent pas ; elles peuvent être mesurées indirectement en mesurant d’autres particules réelles interagissant avec elles. Dans tous les cas, nous savons avec certitude qu’il y a un processus énergétique en jeu apportant des fluctuations à l’univers jeune, ce qui donnera aujourd’hui des fluctuations dans le ciel (par exemple, le nombre de galaxies)."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#un-sous-monde-dans-chaque-monde",
+    "href": "posts/mythesis/mythesis_fr.html#un-sous-monde-dans-chaque-monde",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "Un sous-monde dans chaque monde",
+    "text": "Un sous-monde dans chaque monde\n\n\n\n\n\nLe dernier élément du puzzle concerne l’échelle. Comme je l’ai expliqué, il existe des situations quotidiennes où il nous manque des informations et où nous devons envisager tous les résultats possibles avec des probabilités. Cette incertitude classique est due à un manque d’informations sur le système. Le pire type provient d’une échelle plus petite que l’échelle d’étude. Rechercher des mathématiques ou des descriptions générales de ; la forme de la France, le cycle de l’herbe et des plantes, l’évolution de votre poids ou des bitcoins ou d’une molécule ; tout cela peut nécessiter de prendre en compte ce qui se passe à des échelles plus petites ; Normandie, vers en tant que recycleurs organiques, bruit de mesure, tous les individus sur un marché, collisions aléatoires avec d’autres particules, etc. Certains d’entre eux peuvent être modélisés comme un bruit de fond aléatoire avec des probabilités définies, cela s’appelle la modélisation stochastique.\nLa plupart du temps, il existe une échelle à laquelle vous pouvez arrêter de zoomer car elle a une influence négligeable par rapport à votre précision souhaitée. Et si nous faisions cela juste avant de zoomer sur la physique quantique pour étudier l’inflation cosmique ?"
+  },
+  {
+    "objectID": "posts/mythesis/mythesis_fr.html#relativité-générale-non-linéaire-pour-linflation-stochastique",
+    "href": "posts/mythesis/mythesis_fr.html#relativité-générale-non-linéaire-pour-linflation-stochastique",
+    "title": "Mon doctorat en 12 esquisses.",
+    "section": "“Relativité Générale non-Linéaire pour l’inflation stochastique”",
+    "text": "“Relativité Générale non-Linéaire pour l’inflation stochastique”\n\n\n\n\n\nVous avez maintenant tout ce dont vous avez besoin pour comprendre ma thèse de doctorat. Parce que la relativité générale et la physique quantique ne sont pas compatibles mais échangent des phénomènes, je veux étudier la propagation dans le temps des fluctuations quantiques initiales de l’inflation en les traitant comme un bruit stochastique lorsqu’elles deviennent classiques et donc compatibles avec la Relativité Générale. Si cela fonctionne, cela me permettra de prédire la distribution des types de matière d’aujourd’hui dans l’univers, par exemple les motifs des amas et des galaxies, mais aussi de valider ou d’invalider certains types de débuts pour l’univers.\nSi cela reste flou, contactez-moi pour des questions ou méditez avec ces illustrations générées par chatGPT à partir des mots-clés de ma thèse ! Merci de votre lecture.\n\n\n\n\nMany thanks to A. McWhinnie for precious advice."
+  },
+  {
+    "objectID": "posts/2022-12-31-previous-news/index.html",
+    "href": "posts/2022-12-31-previous-news/index.html",
+    "title": "Previous News 2021-2022",
+    "section": "",
+    "text": "As we migrate posts from 2021-2022, please find them here on the main openscapes.org website:\nhttps://openscapes.org/events#category=nasa-framework"
+  },
+  {
+    "objectID": "posts/2022-12-31-previous-news/index.html#were-migrating-previous-posts",
+    "href": "posts/2022-12-31-previous-news/index.html#were-migrating-previous-posts",
+    "title": "Previous News 2021-2022",
+    "section": "",
+    "text": "As we migrate posts from 2021-2022, please find them here on the main openscapes.org website:\nhttps://openscapes.org/events#category=nasa-framework"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "NEWS",
+    "section": "",
+    "text": "My PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nopen science\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nopen science\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nopen science\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "demos/demo.html",
+    "href": "demos/demo.html",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "",
+    "text": "The US victory against english, french, mecixans was stopped by native americans in Montana.\n\n\nDune is the first science-fiction book to make ecology a central theme.\n\n\nFrom 1912 to 1948, competitions in literature, music, architecture, painting, sculpture part of the Olympics. Like in Ancient Greece\n\n\nChildren outnumbered adults for most of human history [1]."
+  },
+  {
+    "objectID": "demos/demo.html#row",
+    "href": "demos/demo.html#row",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "",
+    "text": "The US victory against english, french, mecixans was stopped by native americans in Montana.\n\n\nDune is the first science-fiction book to make ecology a central theme.\n\n\nFrom 1912 to 1948, competitions in literature, music, architecture, painting, sculpture part of the Olympics. Like in Ancient Greece\n\n\nChildren outnumbered adults for most of human history [1]."
+  },
+  {
+    "objectID": "demos/demo.html#row-1",
+    "href": "demos/demo.html#row-1",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "Row",
+    "text": "Row\n\nFor head trauma, Incas would make a hole in the skull to treat it [2].\n\n\nScotland and England+Wales, used to be parts of different continents [3].\n\n\nThere is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milkomeda but we won’t feel it.\n\n\nJohn Von Neumann could have been the last polymath [4]."
+  },
+  {
+    "objectID": "demos/demo.html#row-2",
+    "href": "demos/demo.html#row-2",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "Row",
+    "text": "Row\n\nRoxbourgh figs pollinisation is fascinating, so fine-tuned.\n\n\nNew York was created by the English after trading a nutmeg island for New Amsterdam.\n\n\nPolynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants [1].\n\n\nToasts taste stronger upside down 😂"
+  },
+  {
+    "objectID": "demos/demo.html#row-3",
+    "href": "demos/demo.html#row-3",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "Row",
+    "text": "Row\n\nPink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.\n\n\nCambridge market used to be the biggest fair of Europe."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Personal Path",
+    "section": "",
+    "text": "Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
+  },
+  {
+    "objectID": "about.html#academic-journey",
+    "href": "about.html#academic-journey",
+    "title": "Personal Path",
+    "section": "",
+    "text": "PhD Student in Quantum Cosmology | 2021 - Present\nDepartment of Applied Mathematics and Theoretical Physics\nUniversity of Cambridge\n\nSupervisor: [Supervisor Name]\nResearch Focus: Quantum aspects of cosmological models\nExpected Completion: 2025\n\n\n\n\nMaster’s Degree | Institution | Year\nBrief description of your master’s work and achievements.\nBachelor’s Degree | Institution | Year\nBrief description of undergraduate studies and notable projects."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Personal Path",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research sits at the intersection of quantum mechanics and cosmology, exploring:\n\nQuantum field theory in curved spacetime\nEarly universe cosmology and inflation\nSemiclassical gravity\nBlack hole thermodynamics\nLoop quantum cosmology"
+  },
+  {
+    "objectID": "about.html#beyond-academia",
+    "href": "about.html#beyond-academia",
+    "title": "Personal Path",
+    "section": "Beyond Academia",
+    "text": "Beyond Academia\nWhen not contemplating the quantum nature of spacetime, I enjoy:\n\n[Your interests/hobbies]\n[Programming and computational physics]\n[Other activities]"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Personal Path",
+    "section": "Contact",
+    "text": "Contact\nOffice: [Your office location]\nEmail: [your.email@cam.ac.uk]\nPhone: [Optional phone number]\nPostal Address:\nDepartment of Applied Mathematics and Theoretical Physics\nCentre for Mathematical Sciences\nUniversity of Cambridge\nWilberforce Road\nCambridge CB3 0WA, UK"
+  },
+  {
+    "objectID": "demo.html",
+    "href": "demo.html",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "",
+    "text": "The US victory against english, french, mecixans was stopped by native americans in Montana.\n\n\n Dune is the first science-fiction book to make ecology a central theme.\n\n\nFrom 1912 to 1948, competitions in literature, music, architecture, painting, sculpture part of the Olympics. Like in Ancient Greece\n\n\nChildren outnumbered adults for most of human history Archaeology and Anthropology (n.d.)."
+  },
+  {
+    "objectID": "demo.html#row",
+    "href": "demo.html#row",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "",
+    "text": "The US victory against english, french, mecixans was stopped by native americans in Montana.\n\n\n Dune is the first science-fiction book to make ecology a central theme.\n\n\nFrom 1912 to 1948, competitions in literature, music, architecture, painting, sculpture part of the Olympics. Like in Ancient Greece\n\n\nChildren outnumbered adults for most of human history Archaeology and Anthropology (n.d.)."
+  },
+  {
+    "objectID": "demo.html#row-1",
+    "href": "demo.html#row-1",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "Row",
+    "text": "Row\n\nFor head trauma, Incas would make a hole in the skull to treat it Geographic (n.d.).\n\n\nScotland and England+Wales, used to be parts of different continents Earth Sciences (n.d.).\n\n\nThere is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milkomeda but we won’t feel it.\n\n\nJohn Von Neumann could have been the last polymath Wikipedia (n.d.)."
+  },
+  {
+    "objectID": "demo.html#row-2",
+    "href": "demo.html#row-2",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "Row",
+    "text": "Row\n\nRoxbourgh figs pollinisation is fascinating, so fine-tuned.\n\n\nNew York was created by the English after trading a nutmeg island for New Amsterdam.\n\n\nPolynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants Archaeology and Anthropology (n.d.).\n\n\nToasts taste stronger upside down 😂"
+  },
+  {
+    "objectID": "demo.html#row-3",
+    "href": "demo.html#row-3",
+    "title": "AI knows everything unlike us but what I want to know is what makes me.",
+    "section": "Row",
+    "text": "Row\n\nPink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.\n\n\nCambridge market used to be the biggest fair of Europe."
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Caius College hosting the traditional Christmas GR Dinner and Stephen’s room.\n\n\n\n\n\n The London Lego exhibition, contemplating the fundamental bricks of life.\n\n\n\n The Water Clock of Southwold, Suffolk. Time flows."
+  },
+  {
+    "objectID": "gallery.html#row",
+    "href": "gallery.html#row",
+    "title": "Gallery",
+    "section": "",
+    "text": "Caius College hosting the traditional Christmas GR Dinner and Stephen’s room.\n\n\n\n\n\n The London Lego exhibition, contemplating the fundamental bricks of life.\n\n\n\n The Water Clock of Southwold, Suffolk. Time flows."
+  },
+  {
+    "objectID": "gallery.html#row-1",
+    "href": "gallery.html#row-1",
+    "title": "Gallery",
+    "section": "Row",
+    "text": "Row\n\nJune 2024\n Somewhere lost in one of many great museums in Cambridge.\n\n\nMay 2024\n Boreals in Cambridge.\n\n\nApril 2024\n West End in London. Is it for work?"
+  },
+  {
+    "objectID": "gallery.html#row-2",
+    "href": "gallery.html#row-2",
+    "title": "Gallery",
+    "section": "Row",
+    "text": "Row\n\nMarch 2024\n Local wall of fame in Lyon, including André-Marie Ampère.\n\n\nJanuary 2024\n Time feels special in Greenwich.\n\n\nDecember 2023\n Christmasy Munich for a Cambridge/Max Planck Institute meeting and talk."
+  },
+  {
+    "objectID": "gallery.html#row-3",
+    "href": "gallery.html#row-3",
+    "title": "Gallery",
+    "section": "Row",
+    "text": "Row\n\nNovember 2023\n Visiting my supervisor and Newcastle.\n\n\nSeptember 14th, 2023\n A big man in Florence.\n\n\nAugust 30th, 2023\n Rock’n’Roll Physics at BUSSTEPP23 Summer School in Liverpool."
+  },
+  {
+    "objectID": "gallery.html#row-4",
+    "href": "gallery.html#row-4",
+    "title": "Gallery",
+    "section": "Row",
+    "text": "Row\n\nApril 23rd, 2023\n Whipple museum: big bible on the shield?\n\n\nMarch 27th, 2023\n Great St Mary’s church, spring activated.\n\n\nMarch 14th, 2023\n DAMTP on Pi/Hawking/Einstein day."
+  },
+  {
+    "objectID": "gallery.html#row-5",
+    "href": "gallery.html#row-5",
+    "title": "Gallery",
+    "section": "Row",
+    "text": "Row\n\nFebruary 25th, 2023\n Back in Faraday’s times at Trinity Buoy Wharf’s lighthouse, London.\n\n\nDecember 6th, 2022\n Christmas Oxford after my first GRChombo Meeting.\n\n\nDecember 1st, 2023\n Winter evening spot of DAMTP."
+  },
+  {
+    "objectID": "posts/2022-05-12-nasa-2022-champions/index.html",
+    "href": "posts/2022-05-12-nasa-2022-champions/index.html",
+    "title": "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up",
+    "section": "",
+    "text": "In Spring 2022 we led our first NASA Openscapes Champions Cohort for research teams that work with NASA EarthData. This cohort is funded by NASA and part of our NASA Openscapes Framework project. For this Cohort, we co-led the cohort with the NASA DAAC mentors and we focused on shifting toward Open science, collaborative, reproducible practices to support research teams as they transition from the download model to the Cloud. We also actively experimented with cloud data access through the Openscapes 2i2c-hosted JupyterHub.\nQuick links:"
+  },
+  {
+    "objectID": "posts/2022-05-12-nasa-2022-champions/index.html#nasa-champions-cohort-overview",
+    "href": "posts/2022-05-12-nasa-2022-champions/index.html#nasa-champions-cohort-overview",
+    "title": "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up",
+    "section": "NASA Champions Cohort overview",
+    "text": "NASA Champions Cohort overview\nThe NASA Openscapes Framework project is a 3-year project to support scientists using NASA Earthdata from NASA’s Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs), as they migrate workflows to the cloud. We are just wrapping up Year 1 and amazed at how much we have collectively accomplished this year with the DAAC mentors and participating DAACs as well as all the researchers and research teams we have worked with. You can read more about our first year in our 2021 annual report. \nAs part of this work, with the DAAC mentors, we co-led our first NASA Openscapes Champions cohort. Based on Openscapes’ flagship program, Openscapes Champions, theNASA Openscapes Champions Cohort was a professional development and mentorship opportunity for early adopter, science teams that use NASA Earthdata and were interested in migrating their existing workflows to the cloud through collaborative open data science practices. The Openscapes Champions Cohort ran formally in March - April 2022. \nThe ten research teams who participated were interested in a wide variety of NASA Earthdata and various stages of cloud technology familiarity. You can learn more about their research below. Together as a Champions cohort they discussed what worked and didn’t work as they migrated workflows to the cloud, with a focus on collaboration and open science. We met as a cohort five times over two months, on alternating Fridays. Each cohort call included a welcome and code of conduct reminder, two teaching sessions with time for reflection in small groups or silent journaling and group discussion, before closing with suggestions for future team meeting topics (“Seaside Chats”), Efficiency Tips, and Tips. Additional hands-on clinics and coworking sessions were scheduled within this period and will extend for the next two months to support these teams as they continue to work on the cloud workflow migration. In addition, the teams were supported by the Openscapes DAAC mentors and staff and Element84 and had access to Openscapes’ 2i2c Jupyter Hub, which will continue for the next year.\n\n\n\nZoomie class photo of NASA Champions"
+  },
+  {
+    "objectID": "posts/2022-05-12-nasa-2022-champions/index.html#what-did-participants-achieve",
+    "href": "posts/2022-05-12-nasa-2022-champions/index.html#what-did-participants-achieve",
+    "title": "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up",
+    "section": "What did participants achieve?",
+    "text": "What did participants achieve?\nJust like our DAAC mentors have built collaborative bridges across the distributed data centers to identify the common parts of cloud data access over the first year of our project, this cohort was an opportunity to connect NASA Earthdata users, building a community that is eager to use data in the cloud and provides a forum to discuss common techniques and challenges. The teams devoted at least 8 hours a month to focus on their workflows. In this time, they thought through and discussed their current NASA Earthdata workflows and planned and experimented with transitioning their workflows to the cloud using Openscapes’ 2i2c-hosted Jupyter Hub as a first step. As in other Openscapes Champions cohorts, teams also realized the power of onboarding to create more resilient labs and they explored creating collaborative spaces for their teams through Google Drive, Slack, and GitHub. \nThemes we revisited throughout the cohort included: \nThe Open science underpinnings of the Openscapes Champions program are important. During our last Champions session when the teams presented their pathways, it was amazing to hear how many times that teams were trying to use Github, Gitlab, or taking away other Open science practices in addition to the cloud-specific. It wasn’t all or nothing, they were taking small steps. It was also great to hear that a takeaway from this cohort is, working more openly and reproducibly provides for a more resilient workflow and team. \nWe intentionally focus on providing a kind welcome to technical topics. The kind space that we co-created with the teams and DAAC mentors provided an opportunity to collaborate as teams and ask questions that may in other settings go unasked because of fear that everyone else already knows. (Note: everyone else doesn’t know and will be glad you asked!)   \nThis also led to several challenges that consistently surfaced and still need more focused effort to resolve. The vocabulary to understand the Cloud needs to be clearly explained. For example, what is an S3 bucket or a “requester pays bucket” and why does a user need to know about AWS West-2? Cloud cost is another challenge. We lower the barrier by providing the 2i2c Jupyterhub, but teams don’t want to depend on our hub. They want their own workspace and want to be able to predict costs more effectively. Finally, our work has been focused on Python because that was the language of choice for DAAC mentors and it is a widely used open-source language in the broader Earth science community. In the Champions Cohort we had three teams using Matlab and one team using R; we need to think about how to expand our support and tutorial materials for these other languages."
+  },
+  {
+    "objectID": "posts/2022-05-12-nasa-2022-champions/index.html#closing-thoughts",
+    "href": "posts/2022-05-12-nasa-2022-champions/index.html#closing-thoughts",
+    "title": "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up",
+    "section": "Closing thoughts",
+    "text": "Closing thoughts\nAs we indicated at the beginning of this blog, this transition isn’t one that is completed in 2.5 months and so this is not the end for this Cohort. We are moving from the structured sessions of the Champions program into two additional months of coworking time and 1-1 interactions with DAAC mentors and staff and Element84 in order to make lasting changes with cloud data access. \nWe will focus on specific topics like: \n\nPracticing GitHub workflows and teaching others on your team \nCloud spatial subsetting \nEnvironment management for creating cloud computing space that is reproducible and scalable (e.g. docker images) \nDask/Pangeo software stack to enable scalable processing \nCloud costs and setup \nNetCDF to Zarr\nDocker containers \n\nFinally, we are grateful to this Champion Cohort’s early adopter spirit, their time and effort to make this migration, and all of the feedback and input they provided. They all participated in this cohort knowing that they were some of the first research teams to use NASA Earthdata in the cloud and that they were the first NASA Openscapes Champions cohort. This meant that there would be technical challenges as we work out migrating to the cloud, yet what they learn will make it easier for subsequent teams making this same shift. It also exhibited the reciprocal learning that happens; we will refine the NASA Openscapes Champions as we plan for our next cohort and our work with the DAAC mentors in year 2."
+  },
+  {
+    "objectID": "posts/2022-05-12-nasa-2022-champions/index.html#nasa-openscapes-champions-teams",
+    "href": "posts/2022-05-12-nasa-2022-champions/index.html#nasa-openscapes-champions-teams",
+    "title": "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up",
+    "section": "NASA Openscapes Champions Teams",
+    "text": "NASA Openscapes Champions Teams\nThe Cryosphere Geophysics and Remote Sensing (CryoGARS) Glaciology Team at Boise State University analyzes modern changes to the Earth’s cryosphere, with a focus on rapid changes in glacier flow, glacier-ocean interactions, iceberg melting, and seasonal snow accumulation and melt. Nearly all of our projects use Landsat imagery to map changes in glacier, iceberg, and/or snow extent. Several projects also use Landsat data to map glacier velocities or rely on NASA-produced glacier velocities computed from Landsat and Sentinel-2 data. We also use ICESat-2 data to map glacier volume change and seasonal snow in mountain regions. We look forward to using more cloud resources so that we can expand our analyses in space and time in order to advance our understanding of Cryosphere change!\nThe Mapes Team at the University of Miami studies atmospheric dynamics through multi-source data synthesis, with global grids as the glue. The global grids are huge, so downloading is out of the question. Fetching from aggregations (THREDDS, GDS) works for case studies, but sometimes we need to process it all (simplest example: make a multi-year climatology, to give context to actual fields as “anomalies”). So the data lake in the cloud will be a nice resource, and open new vistas like machine learning which always benefits from more data.\nThe Cornillon Team at the University of Rhode Island has several projects making use of MODIS and VIIRS sea surface temperature (SST). The project of focus for this cohort has been the statistical description of the location, strength, and temporal evolution of SST fronts. As part of this project, we developed an algorithm to unmask pixels improperly flagged as cloud contaminated in the standard MODIS SST products. The improved masks will be made available to the community at large as will the fronts identified by our edge detection algorithm. \nThe LoL Team has members from USGS, UCSB, and the University of Arizona. Kate uses dense time series of Landsat data to build harmonic models to predict land use cover and land use change and its links to climatological signals. Crista and Sarah research the human dimensions of earth observation data, such as Landsat. Nikki uses NASA drought models to map climate hazards in her Navajo Nation community. The research project “Power of the Pixel: Connecting Communities through Remote Sensing in the United States” combines the power of all three foci to use NASA/USGS Landsat data to build earth observation capacity in communities across the United States.\nThe SASSIE Team has members from the University of Washington, JPL, and APL. They are part of the NASA salinity and SWOT science teams, and regularly use satellite salinity, temperature, altimetry and sea ice data, as well as in situ holdings (SPURS-2, upcoming SASSIE experiment).\nThe Tandon Team at the University of Massachusetts Dartmouth uses remotely sensed data to setup the larger scale perspectives for our more in depth analysis and cruise based work for in-situ experimental data from initiatives in the Indian Ocean such as ASIRI and MISOBOB.\nThe Palter Team at the University of Rhode Island uses NASA data to compare with in-situ observations taken from ships and Uncrewed Surface Vehicles. NASA data provides additional parameters (like ocean surface topography) that are useful in the understanding of in-situ data (for example identifying fronts in the ACC). We have also used ocean color data from MODIS-Aqua to map distributions of ocean surface properties, such as chlorophyll concentration & sea surface salinity (region-specific algorithm), to analyze seasonal, annual, and decadal trends of key biogeochemical processes in the ocean.\nThe Just Team at the Icahn School of Medicine at Mount Sinai uses earth observations to reconstruct ground-level environmental exposures to fine particulate matter, air temperature, and humidity which we use in epidemiologic health studies with cohorts and large registries in the US and Mexico. In a project that started out by seeking to understand the pattern of error in Aerosol Optical Depth (AOD) retrievals, we have developed an R-based reproducible workflow using the targets package for collocating and correcting AOD from the MAIAC algorithm (product MCD19A2 for Aqua and Terra) versus ground stations using gradient-boosted machine learning. This workflow adds reproducibility and extensibility for further development and new applications, building on results we have published for AOD (https://doi.org/10.3390/rs10050803) and for column water vapor (https://doi.org/10.5194/amt-13-4669-2020; data/code in Zenodo: 10.5281/zenodo.3568449).\nThe Hain/SPoRT Team is a directly funded NASA activity and engages with operational stakeholders to transition unique NASA observations and capabilities to improve decision-making.\nThe Roberts Team supports evaluation of global energy and water budgets, develops retrieval algorithms and climate data records (e.g. SeaFlux V1), evaluates air-sea interaction and ocean winds, and downscales and bias corrects models for use in hydrologic and agricultural modeling)."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html",
+    "href": "posts/mythesis/mythesis.html",
+    "title": "My Thesis in 12 sketches.",
+    "section": "",
+    "text": "Gravity is simple: objects with a mass attract each other. The closer together they are or greater their masses, the stronger the attraction. However, this is only an approximation of reality. There is also an effect on time: time doesn’t pass the same way for everyone. General Relativity (GR) is the theory which calculates those effects. Take the case of these three humans: a second for one of them (the mountain or satellite guy vs the ground one) might be slightly longer for an another.\nThe difference between their clocks is due to the difference between their speeds and the gravitational force they endure (both slowing down time perception). This is not a noticeable effect on our planet, too light. Increase the mass of the planet and the difference of the speeds, the effect will become bigger. Still, GPS would not have today’s accuracy if those effects were not accounted for."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#long-live-the-travellers",
+    "href": "posts/mythesis/mythesis.html#long-live-the-travellers",
+    "title": "My Thesis in 12 sketches.",
+    "section": "",
+    "text": "Gravity is simple: objects with a mass attract each other. The closer together they are or greater their masses, the stronger the attraction. However, this is only an approximation of reality. There is also an effect on time: time doesn’t pass the same way for everyone. General Relativity (GR) is the theory which calculates those effects. Take the case of these three humans: a second for one of them (the mountain or satellite guy vs the ground one) might be slightly longer for an another.\nThe difference between their clocks is due to the difference between their speeds and the gravitational force they endure (both slowing down time perception). This is not a noticeable effect on our planet, too light. Increase the mass of the planet and the difference of the speeds, the effect will become bigger. Still, GPS would not have today’s accuracy if those effects were not accounted for."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#fast-lives",
+    "href": "posts/mythesis/mythesis.html#fast-lives",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Fast Lives",
+    "text": "Fast Lives\n\n\n\n\n\nSo, people can have different beating rate for their clocks: your GR speed is your speed through space plus your speed through time. This speed is how fast you feel time. All theories have to pre-suppose something they can’t prove: in GR the speed of light is assumed to be always the same wherever the measure is done and the total time+space speed of any object is equal to the speed of light.\nGR’s Maths suggest that we live on a sheet of paper (but 4 dimensions in reality, not 2) that can be bent when there is a massive object on it. When you fall from space to a planet, it is the same as going along a slide that leads to the planet. When you look at the curve of the slide, you can see that the notion of space and time depends on where you are (but also when). A curved line is indeed longer than a straight one: that explains why different people experience different travel times in space and time. You or anything (planets, blackholes, gas etc, but also light) undergo the curve of spacetime and in return also bend it. Still here? Good."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#stars-but-not-celebrities",
+    "href": "posts/mythesis/mythesis.html#stars-but-not-celebrities",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Stars but not celebrities",
+    "text": "Stars but not celebrities\n\n\n\n\n\nThe Earth is one of the 8 planets orbiting around a star – our sun. Each of them has additional movements: they rotate around a North-South axis and this axis also slightly oscillates. The orbits are all almost circles, towards the same direction (except Venus and Uranus), and all in the same plane. Since all planets used to be part of the same cloud of matter orbiting around the sun, their numerous common traits are not surprising!\nGravity is not specific to our system. Our planet(s) and star have nothing special either. The same setup could exist for the ~100 billion stars in our galaxy, the Milky Way. Astronomists calculated at least 1 planet per star on average: a lot of possibilities for space colonies. However, it would take 100 000 years for us to travel across even in the best case (at light speed!), to which you add detours around the supermassive blackhole in the middle of our galaxy: Sagittarius A*. Supermassive black holes are also typical features of galaxies, at their center where matter collapses."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#moses-in-a-cosmic-sea",
+    "href": "posts/mythesis/mythesis.html#moses-in-a-cosmic-sea",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Moses in a cosmic sea?",
+    "text": "Moses in a cosmic sea?\n\n\n\n\n\nLet’s keep zooming out, we haven’t reached the scale of Cosmology yet, but we’re about to. The Milky Way belongs to a supercluster of galaxies called ‘Virgo’; a million times bigger. Some movements of those galaxies have been measured from Earth. In 1929, Edwin Hubble measured that some galaxies are moving away from us and the supercluster, the further, the fastest. It seems that distances everywhere become bigger: this is a proof that the universe is expanding.\nHowever, within a certain distance to us, galaxies stick with us and the cluster and might even get closer. We will see that it comes from the competition between two forces: gravity and expansion, both described with GR. If the expansion continues, it is difficult to predict exactly how many galaxies will stay within Virgo; it probably will be separated into a hundred subclusters of galaxies, which could cluster more until merging into super galaxies."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#cosmic-web",
+    "href": "posts/mythesis/mythesis.html#cosmic-web",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Cosmic Web",
+    "text": "Cosmic Web\n\n\n\n\n\nThe biggest scale we can probe from observations is called the ‘cosmic web’, 10 million of Virgo-like superclusters. Their distribution in space has a clear web pattern: superclusters have clustered with others thanks to gravity, but also empty bubbles have formed thanks to the expansion of the universe.\nHow is this possible? It feels like there is something growing or pushing things away that we can’t see. But we can see it and it’s everywhere: matter, light, anything with an energy dilates space and this is something we learn by writing the GR equation for the universe. However, there is also something accelerating that expansion, which is why we think that expansion won’t stop and reverse. None of the usual types of matter, light or forces allow that: can you imagine something with a negative pressure? something else is out there but nobody knows what it is and that’s why it is now called dark energy. We only know some of its properties and its quantity in the universe (~70%!)."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#a-backward-history-of-time",
+    "href": "posts/mythesis/mythesis.html#a-backward-history-of-time",
+    "title": "My Thesis in 12 sketches.",
+    "section": "A backward history of time",
+    "text": "A backward history of time\n\n\n\n\n\nOne of the simplest ways to represent expansion is by using an (inaccurate) inflating balloon. It shows what you see from the center of the balloon, you (galaxy) and your surrounding friends (galaxies). Some of your friends are far enough to stand on the surface of the balloon: that’s the expansion. Some of them know each other and hold their hands or hug: that’s gravity. You can imagine that expansion hampered some of them to grab the hands of others or yours, or even broke some handshakes.\nSo, if the universe is currently a big, inflated balloon; what happens when going back in time? Do you get to hug all your friends? Can points hug? Well, that’s basically the origin of times and it’s complicated. What is even the right way to go back in time? This is researcher’s work to find out and it all depends on the content of the universe in time. For now, we discovered that all types of usual matter, light and force disappear into a hot plasma before we reach the point-like balloon. People thought the Big-Bang was there: let me explain you why it’s not."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#the-failure-of-the-old-big-bang-against-expansion-in-18-holes",
+    "href": "posts/mythesis/mythesis.html#the-failure-of-the-old-big-bang-against-expansion-in-18-holes",
+    "title": "My Thesis in 12 sketches.",
+    "section": "The failure of the old Big-Bang against expansion in 18 holes",
+    "text": "The failure of the old Big-Bang against expansion in 18 holes\n\n\n\n\n\nWe measure distances by measuring the travel of light, the fastest speed allowed. But how fast is the expansion? I mentioned earlier that the further away an object is from us, the faster it recedes: is there a distance after which it could be faster than light? No. Expansion doesn’t change the velocity of galaxies but rather makes the journey longer between them. That still means that light sent from us or some far neighbour might have to compete with an increasing distance, and sometimes expansion wins. Can you imagine playing golf on an expanding green… Sometimes communication (i.e., light reaching from one area to another) is impossible between two regions of the universe. That’s the reason why even with powerful tools we can’t see the whole universe.\nWe still manage to receive microwave signals from the Big-Bang plasma, still travelling today, coming from all directions. The analysis of this signal suggested that places that were too far away from each other to have ever been in contact at that time, had actually interacted (for instance with the same light). From that discovery in the 60s, people decided we needed a pre-Big-Bang (or an extension) to allow a ‘contact’ time and called it inflation."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#hands-on-inflation",
+    "href": "posts/mythesis/mythesis.html#hands-on-inflation",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Hands-on Inflation",
+    "text": "Hands-on Inflation\n\n\n\n\n\nThere isn’t really a shared way to imagine what inflation is like: all particles and forces we’re aware of today aren’t there. As it is mainly described by GR, its descriptions can’t go without mathematics. The role of many researchers is to propose a mathematical model for inflation and calculate what it gives at later times, at the plasma time and even until today. Finally, you compare your prediction with the measured signal: you score models, and you keep the best (the closest to measurements): that’s what modern science is.\nThe imprints of inflation on the microwave signal are subtle but tell a lot about the properties of ‘what’ was there during inflation. We now know that Inflation mainly saw a type of dark energy – called inflaton- dominating, a type of negative pressure. Again, such a fluid triggers expansion, here the fastest in the universe’s history: size multiplied by 1[insert 138 zeros], in approximately 0.[insert at least 32 zeros]1 seconds. Similarly, to today’s universe expansion, it is like being on a 2D sheet of spacetime: it feels like some higher dimensional being was stretching the sheet everywhere around you. The main difference with today’s expansion is that the universe was small and so subjected to quantum effects."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#to-be-or-not-to-be-quantum",
+    "href": "posts/mythesis/mythesis.html#to-be-or-not-to-be-quantum",
+    "title": "My Thesis in 12 sketches.",
+    "section": "To be or not to be quantum",
+    "text": "To be or not to be quantum\n\n\n\n\n\nMatter and other fluids of the present and the past, and so particles they’re made of, must have had a slightly different history depending on the location because today’s sky observation says so; the universe is not homogeneous when you zoom enough, e.g., there are different number of galaxies for different locations. The origin (in time) of that inhomogeneity is thought to be quantum physics during Inflation. Backward in time, the universe might reach scales below what we cannot see with our eyeballs and even smaller. But in that case, things no longer follow what is called classical physics.\nClassical physics is the pre-determined science of what we see everyday; knowing enough details about a system at a given time (mass, position, velocity…), you can predict the evolution of the system in time and what you will measure. Sometimes, you are missing information about the system, and you must assume different scenarios for the start and so the evolution. Each scenario has a probability; here for instance an unprecise or incomplete measure of the initial position and velocity gives a lack of knowledge also later."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#feeling-quantum",
+    "href": "posts/mythesis/mythesis.html#feeling-quantum",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Feeling quantum",
+    "text": "Feeling quantum\n\n\n\n\n\nThe easiest way to represent it is, again, by suggesting that there is something at play in an extra-dimension. We usually introduce extra features for the probability in space and time; allowing probabilities to have an angular dimension called ‘phase’. Two particles’ can thus interact like waves, but with more complexity, e.g., their interference (sum) depends a lot on their angle and can annihilate each other’s probability or strengthen it.\nFor a given quantum probability wave, some equations and principles dictate which shapes are allowed in space and time. For instance, a wave can have a concentrated probability in space (2nd sketch) but implies a super spread probability for all allowed velocities (3rd sketch). The opposite is also allowed, but both positions and velocity probabilities too precisely simultaneously known is impossible: quantum uncertainty at play."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#no-such-thing-as-empty",
+    "href": "posts/mythesis/mythesis.html#no-such-thing-as-empty",
+    "title": "My Thesis in 12 sketches.",
+    "section": "No such thing as empty",
+    "text": "No such thing as empty\n\n\n\n\n\nBack to the tiny but inflating universe, quantum physics at play. Physicists think that, far enough in the past, the universe made of inflaton could be in its lowest energy level, called vacuum. However, quantum vacuum doesn’t strictly mean ‘0’ of anything, as opposed to classical physics, because even at the lowest level quantum physics show energy fluctuations in that vacuum.\nTheoretically, quantum vacuum cannot have a strict 0 energy, otherwise it would contradict the quantum uncertainty. If we define vacuum as the absence of any measured particle; unmeasurable particles pairs are allowed to emerge from nothing and annihilate before you have time to measure them. Those particles are called ‘virtual’, but it doesn’t mean they don’t exist; they can be measured indirectly by measuring other real particles interacting with them. In all cases, we know for sure that there is some energetic process down there bringing fluctuations to the young universe, which will today give fluctuations in the sky (e.g. number of galaxies)."
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#mind-the-gap-between-the-world-and-the-sub-world",
+    "href": "posts/mythesis/mythesis.html#mind-the-gap-between-the-world-and-the-sub-world",
+    "title": "My Thesis in 12 sketches.",
+    "section": "Mind the gap between the world and the sub-world",
+    "text": "Mind the gap between the world and the sub-world\n\n\n\n\n\nThe last piece of the puzzle is about scaling. As I explained, there are everyday situations where we miss information and must consider all possible outcomes with probabilities. That classical uncertainty is due to a lack of information about the system. The worst type comes from a scale smaller than the scale of study. Searching for mathematics or general descriptions of; the shape of France, the grass and plants cycle, the evolution of your weight or bitcoins or of a molecule; all of those might require the consideration of what is happening at smaller scales; Normandie, worms as organic recyclers, measure noise, all individuals in a market, random collisions with other particles etc. Some of them can be modeled as random background noise with defined probabilities, it’s called stochastic modeling.\nMost of times, there is a scale at which you can stop zooming because it has a negligible influence compared to your desired precision. What if we were doing that just before zooming into Quantum Physics to study cosmic inflation?"
+  },
+  {
+    "objectID": "posts/mythesis/mythesis.html#non-linear-general-relativity-for-stochastic-inflation",
+    "href": "posts/mythesis/mythesis.html#non-linear-general-relativity-for-stochastic-inflation",
+    "title": "My Thesis in 12 sketches.",
+    "section": "“Non-linear general relativity for stochastic inflation”",
+    "text": "“Non-linear general relativity for stochastic inflation”\n\n\n\n\n\nYou now have everything you need to understand my PhD. Because General Relativity and Quantum Physics are not compatible but exchanging phenomena, I want to study the propagation in time of the initial quantum fluctuations of inflation by treating it as a stochastic noise when it becomes classical and so compatible with General Relativity. If this works, that will allow me to predict the distribution of today’s types of matter in the universe, for instance the patterns of clusters and galaxies, but also to validate or rule out certain types of starts for the universe.\nIf it is still blurry, contact me for questions or meditate with those chatGPT-generated illustrations of my thesis’ keywords! Thanks for reading.\n\n\n\n\nClick here for the french version \nMany thanks to A. McWhinnie for precious advice."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A more semi-detailed page on my different interests of the past or today."
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research & Everyday Physics",
+    "section": "",
+    "text": "My PhD research focuses on understanding the quantum nature of cosmological spacetimes. I’m particularly interested in how quantum effects might resolve classical singularities and influence the dynamics of the early universe.\n\n\n\n\nInvestigating the behavior of quantum fields in expanding spacetimes, with particular attention to: - Semiclassical gravity corrections - Backreaction effects - Observable signatures\n\n\n\nDeveloping computational methods for: - Solving Einstein’s field equations numerically - Modeling black hole spacetimes - Analyzing gravitational wave signatures\n\n\n\nExploring discrete quantum geometry approaches to cosmology: - Bounce scenarios replacing big bang singularities - Phenomenological implications - Connection to observations"
+  },
+  {
+    "objectID": "research.html#publications-preprints",
+    "href": "research.html#publications-preprints",
+    "title": "Research & Everyday Physics",
+    "section": "Publications & Preprints",
+    "text": "Publications & Preprints\n\nPublished Papers\n\nLaunay, Y. et al. (2024). “Quantum corrections in cosmological models.” Physical Review D, 109, 123456. arXiv:2401.12345\nLaunay, Y. & Collaborator, A. (2023). “Semiclassical gravity in expanding universes.” Classical and Quantum Gravity, 40, 123456. DOI\n\n\n\nPreprints\n\nLaunay, Y. (2024). “Numerical approaches to quantum cosmology.” arXiv:2404.56789 [Submitted to Journal Name]"
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research & Everyday Physics",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n2024\n\n“Quantum Effects in Early Universe Cosmology”\nInternational Conference on General Relativity and Gravitation, July 2024, Location\n“Computational Methods in Quantum Gravity”\nUK Relativity Meeting, April 2024, Location\n\n\n\n2023\n\n“Semiclassical Corrections to Cosmological Dynamics”\nPostgraduate Research Conference, September 2023, Cambridge"
+  },
+  {
+    "objectID": "research.html#computational-work",
+    "href": "research.html#computational-work",
+    "title": "Research & Everyday Physics",
+    "section": "Computational Work",
+    "text": "Computational Work\n\nCode Repositories\nAll research code is available on GitHub:\n\nquantum-cosmo-toolkit: Python package for quantum cosmological calculations\ngr-numerics: Numerical relativity utilities\nsemiclassical-gravity: Tools for semiclassical gravity computations\n\n\n\nSoftware Skills\nLanguages: Python, C++, Mathematica, MATLAB\nSpecialized Tools: Einstein Toolkit, Cadabra, GRTensorII\nHPC: Experience with Cambridge HPC clusters, parallel computing"
+  },
+  {
+    "objectID": "research.html#outreach-communication",
+    "href": "research.html#outreach-communication",
+    "title": "Research & Everyday Physics",
+    "section": "Outreach & Communication",
+    "text": "Outreach & Communication\n\nPopular Science Writing\n\n[Blog post title] - Platform (2024)\n[Another article] - Magazine (2023)\n\n\n\nPublic Talks\n\n“The Quantum Universe” - Cambridge Science Festival (2024)\n“Black Holes and Quantum Gravity” - Local Physics Society (2023)"
+  },
+  {
+    "objectID": "research.html#collaborations",
+    "href": "research.html#collaborations",
+    "title": "Research & Everyday Physics",
+    "section": "Collaborations",
+    "text": "Collaborations\n\nResearch Groups\n\nCambridge Relativity Group\nUK Quantum Gravity Network\nInternational Loop Quantum Gravity Community\n\n\n\nVisiting Positions\n\n[Institution Name] - [Duration] - [Year]\n[Another Institution] - [Duration] - [Year]"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Personal Path",
+    "section": "",
+    "text": "Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
+  },
+  {
+    "objectID": "about.html#talks-seminars-and-presentations",
+    "href": "about.html#talks-seminars-and-presentations",
+    "title": "Personal Path",
+    "section": "Talks, seminars and presentations",
+    "text": "Talks, seminars and presentations\n\nVacuum, quantum diffusion & non-perturbativity of inflaton using numerical relativity, Early Universe From Home 2025 (February 2025).\nStochastic inflation in numerical relativity, GRTL Collaboration Meeting (June 2024).\nStochastic inflation in full general relativity, UK Cosmology Meeting (May 2024).\nTowards reconciling cosmology, QFT, and general relativity through stochastic inflation, BritGrav24 (April 2024).\nTowards reconciling cosmology, QFT, and general relativity through stochastic inflation, GR seminar at DAMTP (February 2024).\nStochastic inflation in general and numerical relativity, Workshop talk at Cambridge-LMU meeting (December 2023).\nN-representable 1-electron RDM at non-zero temperatures, Conference speaker at IUCR25 congress (August 2021).\nSeminar speaker, Structures, Properties and Modeling of Solids Laboratory, Sept. 2020, CentraleSupélec.\nPoster, 2020 Quantum Crystallography Online Meeting.\n\nFind my slides here."
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "Personal Path",
+    "section": "Awards",
+    "text": "Awards\n\nScientific image selected for the 2024 DiRAC calendar (2025).\nSmith-Knight and Rayleigh-Knight Prize laureate (June 2024).\nG-research private grant (March 2023).\n4 years International Fees Bursary (UKRI, 2022-2026).\n4 years Department Award (DAMTP, KICC and CDT, 2022-2026).\nJennings prize (Wolfson College, 2022).\nCentraleSupélec Alumni prize for school community contribution (2021).\nBest poster prize (Quantum Crystallography Online Meeting, 2020 conference).\nBaccalauréat Highest Distinction (2017).\n7th Team Prize at the National French Tournament of Young Mathematicians (2017)."
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "Personal Path",
+    "section": "Teaching",
+    "text": "Teaching\n\nSupervisor, University of Cambridge\n\nPart II, General Relativity (by J. Evans): 4 pairs, 20h in total (2025).\nMPhil Data-intensive science, Machine Learning (by S. Krippendorf): 3 groups of 5, 16h in total (2024).\nPart II, Cosmology (by E.P.S. Shellard): 2 pairs, 10h in total (2024).\nPart II, General Relativity (by J. Evans): 3 pairs, 15h in total (2024).\nPart II, General Relativity (by A. Wall): 6 pairs, 24h in total (2023).\n\n\n\nPrivate independent teaching\n\nOlympic Maths prep. courses (2022)\nMaths courses for struggling pupils in highschool (2016-2021)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Personal Path",
+    "section": "Education",
+    "text": "Education\n\nPhD, Department of Applied Maths and Theoretical Physics, University of Cambridge (2022-2026)\nNon-linear General Relativity for Stochastic Inflation, supervised by E.P.S. Shellard (DAMTP) and G. Rigopoulos (Newcastle University), advised by E. Pajer (DAMTP).\nMember of the Stephen Hawking Center for Theoretical Cosmology.\n2022 cohort of Center for Doctoral Training in Data Intensive Science.\nMember of the GRChombo collaboration.\n\n\nMASt in Physics, University of Cambridge (2021-2022)\nPart III Physics passed with Distinction.\nOptions in Particle Physics and Astrophysics.\nMaster Thesis, Primordial Non-Gaussianity from kinetic initial conditions for Inflation, supervised by W. Handley, examined by Prof. D. Queloz.\n\n\nCentraleSupélec Graduate Engineering School, Paris-Saclay University (2019-2022)\nStrong background in Mathematics, Physics, Programming, Management and Leadership.\nOptions in Advanced Physics and Mathematics, e.g. Quantum Physics, Fluid dynamics, Financial Mathematics etc.\nRanked top 5% out of 860 students. School ranked 2nd in France.\n\n\nBachelor and Master 1 in Fundamental Physics, Paris-Saclay University (2019-2021)\nOrsay’s night school in Fundamental Physics in parallel of my engineering school.\nOptions in Plasmas Physics, Nuclear Physics, Applied Quantum Physics, Lasers.\nRanked 1st of the night cohort.\n\n\nPhilosophy, Sorbonne University (2020-2021)\nUnassessed night school bachelor in Philosophy in parallel of my engineering school.\nOptions Philosophy of science, Metaphysics and Logic.\n\n\nScientific Preparatory Classes, Lycée George Clemenceau Nantes (2017-2019)\nTwo-years intensive course to prepare for the competitive national entrance exam to Graduate Engineering Schools in France.\nMathematics, Physics and Computer Science options. Highest distinction cohort."
+  },
+  {
+    "objectID": "about.html#references",
+    "href": "about.html#references",
+    "title": "Personal Path",
+    "section": "References",
+    "text": "References\n\nProf. Paul Shellard, DAMTP, University of Cambridge. Website\nDr. Gerasimos Rigopoulos, Newcastle University. Profile\nDr. Will Handley, Kavli Institute for Cosmology, University of Cambridge. Website\nDr. Jean-Baptiste Melin, CEA Paris-Saclay. InspireHEP\nProf. Jean-Michel Gillet, CentraleSupélec, Paris-Saclay University. LinkedIn"
+  },
+  {
+    "objectID": "research.html#abstract-for-newcomers",
+    "href": "research.html#abstract-for-newcomers",
+    "title": "Research",
+    "section": "Abstract for newcomers",
+    "text": "Abstract for newcomers\nI work on the cosmology of the early universe. This means finding the best mathematical description of the first few seconds of the universe, considering it as a dynamic system, and testing the predictions of this model against real astrophysical data. In particular, I will predict the distribution in space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation. Inflationrefers to the first instants of the universe which allowed an exponential growth of its size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies against empty millions of light years.\nThere is a time at which those perturbations are big enough to be accounted for with the rival theory of quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By doing so, I hope to support the growing link between these two theories (Quantum Physics and General Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo collaboration which develops such code."
+  },
+  {
+    "objectID": "research.html#abstract-for-newcomers-1",
+    "href": "research.html#abstract-for-newcomers-1",
+    "title": "Research",
+    "section": "Abstract for newcomers",
+    "text": "Abstract for newcomers\nThis work studied a particular model of initial conditions for the universe, i.e. of a type of inflationary universe. While most models don’t incorporate any origin and focus on the inflation process itself, this model combine both aspects by providing an initial singularity at the start and then propagates the subsequent universe into a “kinetic” era before transitioning to the usual models with a stable inflation of the apparent size of the universe.\nAs this is quite a peculiar formulation, usual mathematical tools to compute post-inflation observable quantities need some careful study. This is what we did to compute the correlation between each 3 points of the sky at the time of the Hot Big-Bang following Inflation."
+  },
+  {
+    "objectID": "research.html#quantum-cosmology-non-linear-general-relativity-for-stochastic-inflation",
+    "href": "research.html#quantum-cosmology-non-linear-general-relativity-for-stochastic-inflation",
+    "title": "Research",
+    "section": "(Quantum Cosmology) Non-Linear General Relativity for Stochastic Inflation",
+    "text": "(Quantum Cosmology) Non-Linear General Relativity for Stochastic Inflation\nPhD, 2022-2026, DAMTP, University of Cambridge.\n\nAbstract for professionals\n\nMy PhD project will advance the early universe theory of inflation, which explains the origin of galaxies and large-scale structure in the Universe, by developing stochastic methods with nonlinear evolution to make quantitative statistical predictions from inflationary models. Non-Gaussian signatures are inherently present in primordial fluctuations due to the non-linearities produced by both general relativity and the fact that the inflaton potential responsible for driving inflation may be interacting.\nThe goal of this project is to analytically and numerically model nonlinear inflationary dynamics in order to make bispectrum and higher-order correlator predictions which encompass a much broader range of inflationary scenarios, including those with multiple fields. This is an important discriminant between competing inflation models that can be used to distinguish them observationally.\nAn important element of the project will be to exploit the new GRChombo numerical relativity pipeline to model these nonlinear effects using full 3D general relativistic simulations, comparing the results with perturbative analytic expectations from effective field theory. In the last years, consequent insights have been made by the DAMTP cosmology group lead by Dr. Paul Shellard, now able to constrain a wide range of these models by using innovative separable techniques to extract and reconstruct the bispectrum (three-point correlator) from Planck satellite maps of the cosmic microwave background (CMB). Direct confrontation with new observational data sets, from both CMB experiments (Simons Observatory) and galaxy surveys (SDSS, DES etc), will guide and constrain the understanding of inflation in fundamental physics. Stochastic nonlinear methods have other wide-ranging applications, including the creation of primordial black holes and the generation of gravitational waves in the early universe.\n\n\n\nAbstract for newcomers\n\nI work on the cosmology of the early universe. This means finding the best mathematical description of the first few seconds of the universe, considering it as a dynamic system, and testing the predictions of this model against real astrophysical data. In particular, I will predict the distribution in space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation. Inflationrefers to the first instants of the universe which allowed an exponential growth of its size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies against empty millions of light years.\nThere is a time at which those perturbations are big enough to be accounted for with the rival theory of quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By doing so, I hope to support the growing link between these two theories (Quantum Physics and General Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo collaboration which develops such code."
+  },
+  {
+    "objectID": "research.html#quantum-cosmology-slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe",
+    "href": "research.html#quantum-cosmology-slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe",
+    "title": "Research",
+    "section": "(Quantum Cosmology) Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe",
+    "text": "(Quantum Cosmology) Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe\nMaster Thesis, 2021-2022, Cavendish Laboratory, University of Cambridge.\n\nAbstract for professionals\n\nModern inflation theory is based on Mukhanov-Sasaki equations which give a perturbative framework to propagate initial quantum fluctuations as sources of the Cosmic Microwave Background (CMB) anisotropies encountered at the recombination epoch. Following previous work on initial conditions for the power spectrum, this work extends the kinetic pre-inflation model to the derivation of the primordial bispectrum, related to 3-point correlations. We derive here the main perturbations contributing to the bispectrum thanks to the In-In formalism for different initial conditions of a simple constant slow-roll and single-field inflation. In addition to an oscillating locally-shaped bispectrum, it is found that the dependence on the time and nature of the transition between pre-inflation and inflation is strong. As a main result, UV and IR divergences are encountered for the non-Gaussianities, showed to be independent of the choice of the vacuum and so treated within the assumption of an old transition time compared to the experimental cutoff.\n\n\n\nAbstract for newcomers\n\nThis work studied a particular model of initial conditions for the universe, i.e. of a type of inflationary universe. While most models don’t incorporate any origin and focus on the inflation process itself, this model combine both aspects by providing an initial singularity at the start and then propagates the subsequent universe into a “kinetic” era before transitioning to the usual models with a stable inflation of the apparent size of the universe.\nAs this is quite a peculiar formulation, usual mathematical tools to compute post-inflation observable quantities need some careful study. This is what we did to compute the correlation between each 3 points of the sky at the time of the Hot Big-Bang following Inflation."
+  },
+  {
+    "objectID": "research.html#cosmology-optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts",
+    "href": "research.html#cosmology-optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts",
+    "title": "Research",
+    "section": "(Cosmology) Optimal combination of the spatial correlation function and galaxy cluster counts",
+    "text": "(Cosmology) Optimal combination of the spatial correlation function and galaxy cluster counts\nUndergraduate Summer Internship, CEA, Paris-Saclay.\n\nAbstract\n\nTo understand the story of the universe, physicists have identified cosmological observables : the CMB, supernovae but also galaxy clusters hosting most of the matter in the universe. From these last ones, many direct and indirect observables can be reconstructed including galaxy clusters counts and space correlations. Between these two, correlations are expected and encourage the exploration of a unification of two distinct formalisms - at least in the refinement of cosmological parameters."
+  },
+  {
+    "objectID": "research.html#quantum-cristallography-n-representable-one-electron-reduced-density-matrices-reconstruction-at-non-zero-temperatures",
+    "href": "research.html#quantum-cristallography-n-representable-one-electron-reduced-density-matrices-reconstruction-at-non-zero-temperatures",
+    "title": "Research",
+    "section": "(Quantum Cristallography) N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures",
+    "text": "(Quantum Cristallography) N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures\nBachelor Thesis, 2019-2021, CentraleSupélec/CNRS, Paris-Saclay University.\n\nAbstract\n\nThis article retraces different methods that have been explored to account for the atomic thermal motion in the reconstruction of one-electron reduced density matrices from experimental X-ray structure factors (XSF) and directional Compton profiles (DCP). Attention has been paid to propose the simplest possible model, which obeys the necessary N-representability conditions, while accurately reproducing all available experimental data. The deconvolution of thermal effects makes it possible to obtain an experimental static density matrix, which can directly be compared with theoretical 1-RDM (reduced density matrix). It is found that above a 1% statistical noise level, the role played by Compton scattering data becomes negligible and no accurate 1-RDM is reachable. Since no thermal 1-RDM is available as a reference, the quality of an experimentally derived temperature-dependent matrix is difficult to assess. However, the accuracy of the obtained static 1-RDM, through the performance of the refined observables, is strong evidence that the Semi-Definite Programming method is robust and well adapted to the reconstruction of an experimental dynamical 1-RDM."
+  },
+  {
+    "objectID": "research.html#game-theory-nash-equilibirum-in-network-games",
+    "href": "research.html#game-theory-nash-equilibirum-in-network-games",
+    "title": "Research",
+    "section": "(Game Theory) Nash equilibirum in network games",
+    "text": "(Game Theory) Nash equilibirum in network games\nUndergraduate project, 2018-2019, Clemenceau Preparatory Classes.\n\nAbstract\n\nIn this work, I studied games called ‘Shapley Network Design’ which model the passage from A to B with a fixed number of paths and travellers. I derived the general Nash equilibrium for quadratic costs and compared it to the optimal equilibrium obtained thanks to a genetic algorithm."
+  },
+  {
+    "objectID": "research.html#QuantumCosmology",
+    "href": "research.html#QuantumCosmology",
+    "title": "Research",
+    "section": "Non-Linear General Relativity for Stochastic Inflation",
+    "text": "Non-Linear General Relativity for Stochastic Inflation\nPhD, 2022-2026, DAMTP, University of Cambridge.\n\nAbstract for professionals\n\nMy PhD project will advance the early universe theory of inflation, which explains the origin of galaxies and large-scale structure in the Universe, by developing stochastic methods with nonlinear evolution to make quantitative statistical predictions from inflationary models. Non-Gaussian signatures are inherently present in primordial fluctuations due to the non-linearities produced by both general relativity and the fact that the inflaton potential responsible for driving inflation may be interacting.\nThe goal of this project is to analytically and numerically model nonlinear inflationary dynamics in order to make bispectrum and higher-order correlator predictions which encompass a much broader range of inflationary scenarios, including those with multiple fields. This is an important discriminant between competing inflation models that can be used to distinguish them observationally.\nAn important element of the project will be to exploit the new GRChombo numerical relativity pipeline to model these nonlinear effects using full 3D general relativistic simulations, comparing the results with perturbative analytic expectations from effective field theory. In the last years, consequent insights have been made by the DAMTP cosmology group lead by Dr. Paul Shellard, now able to constrain a wide range of these models by using innovative separable techniques to extract and reconstruct the bispectrum (three-point correlator) from Planck satellite maps of the cosmic microwave background (CMB). Direct confrontation with new observational data sets, from both CMB experiments (Simons Observatory) and galaxy surveys (SDSS, DES etc), will guide and constrain the understanding of inflation in fundamental physics. Stochastic nonlinear methods have other wide-ranging applications, including the creation of primordial black holes and the generation of gravitational waves in the early universe.\n\n\n\nAbstract for newcomers\n\nI work on the cosmology of the early universe. This means finding the best mathematical description of the first few seconds of the universe, considering it as a dynamic system, and testing the predictions of this model against real astrophysical data. In particular, I will predict the distribution in space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation. Inflationrefers to the first instants of the universe which allowed an exponential growth of its size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies against empty millions of light years.\nThere is a time at which those perturbations are big enough to be accounted for with the rival theory of quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By doing so, I hope to support the growing link between these two theories (Quantum Physics and General Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo collaboration which develops such code."
+  },
+  {
+    "objectID": "research.html#non-linear-general-relativity-for-stochastic-inflation-quantum-cosmology",
+    "href": "research.html#non-linear-general-relativity-for-stochastic-inflation-quantum-cosmology",
+    "title": "Research",
+    "section": "Non-Linear General Relativity for Stochastic Inflation (Quantum Cosmology)",
+    "text": "Non-Linear General Relativity for Stochastic Inflation (Quantum Cosmology)\nPhD, 2022-2026, DAMTP, University of Cambridge.\n\nAbstract for professionals\n\nMy PhD project will advance the early universe theory of inflation, which explains the origin of galaxies and large-scale structure in the Universe, by developing stochastic methods with nonlinear evolution to make quantitative statistical predictions from inflationary models. Non-Gaussian signatures are inherently present in primordial fluctuations due to the non-linearities produced by both general relativity and the fact that the inflaton potential responsible for driving inflation may be interacting.\nThe goal of this project is to analytically and numerically model nonlinear inflationary dynamics in order to make bispectrum and higher-order correlator predictions which encompass a much broader range of inflationary scenarios, including those with multiple fields. This is an important discriminant between competing inflation models that can be used to distinguish them observationally.\nAn important element of the project will be to exploit the new GRChombo numerical relativity pipeline to model these nonlinear effects using full 3D general relativistic simulations, comparing the results with perturbative analytic expectations from effective field theory. In the last years, consequent insights have been made by the DAMTP cosmology group lead by Dr. Paul Shellard, now able to constrain a wide range of these models by using innovative separable techniques to extract and reconstruct the bispectrum (three-point correlator) from Planck satellite maps of the cosmic microwave background (CMB). Direct confrontation with new observational data sets, from both CMB experiments (Simons Observatory) and galaxy surveys (SDSS, DES etc), will guide and constrain the understanding of inflation in fundamental physics. Stochastic nonlinear methods have other wide-ranging applications, including the creation of primordial black holes and the generation of gravitational waves in the early universe.\n\n\n\nAbstract for newcomers\n\nI work on the cosmology of the early universe. This means finding the best mathematical description of the first few seconds of the universe, considering it as a dynamic system, and testing the predictions of this model against real astrophysical data. In particular, I will predict the distribution in space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation. Inflationrefers to the first instants of the universe which allowed an exponential growth of its size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies against empty millions of light years.\nThere is a time at which those perturbations are big enough to be accounted for with the rival theory of quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By doing so, I hope to support the growing link between these two theories (Quantum Physics and General Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo collaboration which develops such code."
+  },
+  {
+    "objectID": "research.html#slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe-quantum-cosmology",
+    "href": "research.html#slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe-quantum-cosmology",
+    "title": "Research",
+    "section": "Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Quantum Cosmology)",
+    "text": "Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Quantum Cosmology)\nMaster Thesis, 2021-2022, Cavendish Laboratory, University of Cambridge.\n\nAbstract for professionals\n\nModern inflation theory is based on Mukhanov-Sasaki equations which give a perturbative framework to propagate initial quantum fluctuations as sources of the Cosmic Microwave Background (CMB) anisotropies encountered at the recombination epoch. Following previous work on initial conditions for the power spectrum, this work extends the kinetic pre-inflation model to the derivation of the primordial bispectrum, related to 3-point correlations. We derive here the main perturbations contributing to the bispectrum thanks to the In-In formalism for different initial conditions of a simple constant slow-roll and single-field inflation. In addition to an oscillating locally-shaped bispectrum, it is found that the dependence on the time and nature of the transition between pre-inflation and inflation is strong. As a main result, UV and IR divergences are encountered for the non-Gaussianities, showed to be independent of the choice of the vacuum and so treated within the assumption of an old transition time compared to the experimental cutoff.\n\n\n\nAbstract for newcomers\n\nThis work studied a particular model of initial conditions for the universe, i.e. of a type of inflationary universe. While most models don’t incorporate any origin and focus on the inflation process itself, this model combine both aspects by providing an initial singularity at the start and then propagates the subsequent universe into a “kinetic” era before transitioning to the usual models with a stable inflation of the apparent size of the universe.\nAs this is quite a peculiar formulation, usual mathematical tools to compute post-inflation observable quantities need some careful study. This is what we did to compute the correlation between each 3 points of the sky at the time of the Hot Big-Bang following Inflation."
+  },
+  {
+    "objectID": "research.html#optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts-quantum-cosmology",
+    "href": "research.html#optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts-quantum-cosmology",
+    "title": "Research",
+    "section": "Optimal combination of the spatial correlation function and galaxy cluster counts (Quantum Cosmology)",
+    "text": "Optimal combination of the spatial correlation function and galaxy cluster counts (Quantum Cosmology)\nUndergraduate Summer Internship, CEA, Paris-Saclay.\n\nAbstract\n\nTo understand the story of the universe, physicists have identified cosmological observables : the CMB, supernovae but also galaxy clusters hosting most of the matter in the universe. From these last ones, many direct and indirect observables can be reconstructed including galaxy clusters counts and space correlations. Between these two, correlations are expected and encourage the exploration of a unification of two distinct formalisms - at least in the refinement of cosmological parameters."
+  },
+  {
+    "objectID": "research.html#n-representable-one-electron-reduced-density-matrices-reconstruction-at-non-zero-temperatures-quantum-cristallography",
+    "href": "research.html#n-representable-one-electron-reduced-density-matrices-reconstruction-at-non-zero-temperatures-quantum-cristallography",
+    "title": "Research",
+    "section": "N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures (Quantum Cristallography)",
+    "text": "N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures (Quantum Cristallography)\nBachelor Thesis, 2019-2021, CentraleSupélec/CNRS, Paris-Saclay University.\n\nAbstract\n\nThis article retraces different methods that have been explored to account for the atomic thermal motion in the reconstruction of one-electron reduced density matrices from experimental X-ray structure factors (XSF) and directional Compton profiles (DCP). Attention has been paid to propose the simplest possible model, which obeys the necessary N-representability conditions, while accurately reproducing all available experimental data. The deconvolution of thermal effects makes it possible to obtain an experimental static density matrix, which can directly be compared with theoretical 1-RDM (reduced density matrix). It is found that above a 1% statistical noise level, the role played by Compton scattering data becomes negligible and no accurate 1-RDM is reachable. Since no thermal 1-RDM is available as a reference, the quality of an experimentally derived temperature-dependent matrix is difficult to assess. However, the accuracy of the obtained static 1-RDM, through the performance of the refined observables, is strong evidence that the Semi-Definite Programming method is robust and well adapted to the reconstruction of an experimental dynamical 1-RDM."
+  },
+  {
+    "objectID": "research.html#nash-equilibirum-in-network-games-game-theory",
+    "href": "research.html#nash-equilibirum-in-network-games-game-theory",
+    "title": "Research",
+    "section": "Nash equilibirum in network games (Game Theory)",
+    "text": "Nash equilibirum in network games (Game Theory)\nUndergraduate project, 2018-2019, Clemenceau Preparatory Classes.\n\nAbstract\n\nIn this work, I studied games called ‘Shapley Network Design’ which model the passage from A to B with a fixed number of paths and travellers. I derived the general Nash equilibrium for quadratic costs and compared it to the optimal equilibrium obtained thanks to a genetic algorithm."
+  },
+  {
+    "objectID": "research.html#optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts-cosmology",
+    "href": "research.html#optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts-cosmology",
+    "title": "Research",
+    "section": "Optimal combination of the spatial correlation function and galaxy cluster counts (Cosmology)",
+    "text": "Optimal combination of the spatial correlation function and galaxy cluster counts (Cosmology)\nUndergraduate Summer Internship, CEA, Paris-Saclay.\n\nAbstract\n\nTo understand the story of the universe, physicists have identified cosmological observables : the CMB, supernovae but also galaxy clusters hosting most of the matter in the universe. From these last ones, many direct and indirect observables can be reconstructed including galaxy clusters counts and space correlations. Between these two, correlations are expected and encourage the exploration of a unification of two distinct formalisms - at least in the refinement of cosmological parameters."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Theory of everything, including us, Bluesci n°59 (p20-21), Easter 2024.\nCosmic connections, Bluesci n°58 (p26-27), Lent 2023.\nBook review of On the Origin of Time by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023."
+  },
+  {
+    "objectID": "plots.html",
+    "href": "plots.html",
+    "title": "Plots",
+    "section": "",
+    "text": "A place to make my scientific plots accessible (in progress…).\n\n\n\nAn example of energy density plot extracted from my simulations."
+  },
+  {
+    "objectID": "interesting.html",
+    "href": "interesting.html",
+    "title": "Interesting facts.",
+    "section": "",
+    "text": "The US victory against english, french, mexicans was stopped by native americans in Montana.\n\n\n\nDune is the first science-fiction book to make ecology a central theme.\n\n\nFrom 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.\n\n\nChildren outnumbered adults for most of human history Archaeology and Anthropology (n.d.).\n\n\n\n\n\nFor head trauma, Incas would make a hole in the skull to treat it Geographic (n.d.).\n\n\nScotland and England+Wales, used to be parts of different continents Earth Sciences (n.d.).\n\n\nThere is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milkomeda but we won’t feel it.\n\n\nJohn Von Neumann could have been the last polymath Wikipedia (n.d.).\n\n\n\n\n\nRoxbourgh figs pollinisation is fascinating, so fine-tuned.\n\n\nNew York was created by the English after trading a nutmeg island for New Amsterdam.\n\n\nPolynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants Archaeology and Anthropology (n.d.).\n\n\nToasts taste stronger upside down.\n\n\n\n\n\nPink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.\n\n\nCambridge market used to be the biggest fair of Europe."
+  },
+  {
+    "objectID": "interesting.html#row",
+    "href": "interesting.html#row",
+    "title": "Interesting facts.",
+    "section": "",
+    "text": "The US victory against english, french, mexicans was stopped by native americans in Montana.\n\n\n\nDune is the first science-fiction book to make ecology a central theme.\n\n\nFrom 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.\n\n\nChildren outnumbered adults for most of human history Archaeology and Anthropology (n.d.)."
+  },
+  {
+    "objectID": "interesting.html#row-1",
+    "href": "interesting.html#row-1",
+    "title": "Interesting facts.",
+    "section": "",
+    "text": "For head trauma, Incas would make a hole in the skull to treat it Geographic (n.d.).\n\n\nScotland and England+Wales, used to be parts of different continents Earth Sciences (n.d.).\n\n\nThere is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milkomeda but we won’t feel it.\n\n\nJohn Von Neumann could have been the last polymath Wikipedia (n.d.)."
+  },
+  {
+    "objectID": "interesting.html#row-2",
+    "href": "interesting.html#row-2",
+    "title": "Interesting facts.",
+    "section": "",
+    "text": "Roxbourgh figs pollinisation is fascinating, so fine-tuned.\n\n\nNew York was created by the English after trading a nutmeg island for New Amsterdam.\n\n\nPolynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants Archaeology and Anthropology (n.d.).\n\n\nToasts taste stronger upside down."
+  },
+  {
+    "objectID": "interesting.html#row-3",
+    "href": "interesting.html#row-3",
+    "title": "Interesting facts.",
+    "section": "",
+    "text": "Pink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.\n\n\nCambridge market used to be the biggest fair of Europe."
+  },
+  {
+    "objectID": "media.html#articles-i-wrote",
+    "href": "media.html#articles-i-wrote",
+    "title": "Media",
+    "section": "",
+    "text": "Theory of everything, including us, Bluesci n°59 (p20-21), Easter 2024.\nCosmic connections, Bluesci n°58 (p26-27), Lent 2023.\nBook review of On the Origin of Time by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023."
+  },
+  {
+    "objectID": "media.html#articles-about-my-work",
+    "href": "media.html#articles-about-my-work",
+    "title": "Media",
+    "section": "Articles about my work",
+    "text": "Articles about my work\nArticle about our use of Intel tech for simulating the universe\nG-Research March 2023 Grant Winners where I am featured"
+  },
+  {
+    "objectID": "media.html#interviews",
+    "href": "media.html#interviews",
+    "title": "Media",
+    "section": "Interviews",
+    "text": "Interviews\nInterview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting."
+  },
+  {
+    "objectID": "posts/famelab/famelab.html",
+    "href": "posts/famelab/famelab.html",
+    "title": "My PhD in 3 minutes for the FameLab 2024 competition",
+    "section": "",
+    "text": "Video"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "Email: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nopen science\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nopen science\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nopen science\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/posterGR24/posterGR24.html",
+    "href": "posts/posterGR24/posterGR24.html",
+    "title": "24th International Conference on General Relativity and Gravitation",
+    "section": "",
+    "text": "I went to Glasgow and gave a talk on Stochastic Inflation in Numerical Relativity and presented a poster titled When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view.\n\n\n\n\n\n\n\n\nPdf not supported."
+  },
+  {
+    "objectID": "carbon.html",
+    "href": "carbon.html",
+    "title": "Carbon",
+    "section": "",
+    "text": "Where I will make myself carbon-transparent (pun intended)."
+  },
+  {
+    "objectID": "index.html#they-financed-my-work-and-gave-me-support",
+    "href": "index.html#they-financed-my-work-and-gave-me-support",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "Featurespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐"
+  }
+]

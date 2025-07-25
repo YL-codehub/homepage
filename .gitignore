@@ -1,1 +1,39 @@
-pictures/Famelab.mov
+demos/
+*.quarto
+/.quarto/
+
+# Quarto output folders
+_site/
+_book/
+_cache/
+_drafts/
+
+# Figures and generated images (optional, remove if you want to track them)
+figures/
+images/
+
+# Quarto auxiliary files
+.quarto/
+.quartoignore
+
+# RStudio project files (if applicable)
+.Rproj.user/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.aux
+*.out
+*.toc
+*.gz
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python cache files (if using Python)
+__pycache__/
+*.py[cod]
+*.quarto_ipynb

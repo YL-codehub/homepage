@@ -1,0 +1,38 @@
+---
+title: "Teaching & Student Resources"
+---
+
+## Current Teaching
+
+Cambridge Maths Tripos: Part II Cosmology, Part II General Relativity.
+
+Cambridge Data-intensive science MPhil: Machine learning.
+
+## Supervision
+If you have been assigned to me for supervision, please wait for my instructions by emails.
+
+If you're interested in undergraduate projects or have questions about graduate studies in theoretical physics, feel free to reach out.
+
+
+## Resources for Students
+
+::: {.resource-grid}
+
+::: {.resource-item}
+#### Physics
+TBD
+:::
+
+::: {.resource-item}
+#### Mathematical Methods
+TBD
+:::
+
+::: {.resource-item}
+#### Computational Tools
+TBD
+:::
+
+:::
+
+For urgent questions, email is usually the fastest way to reach me.

@@ -1,0 +1,134 @@
+---
+title: "Personal Path"
+---
+
+## Publications
+
+- [*Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,*](https://arxiv.org/abs/2502.06783)  
+  Launay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).
+
+- [*Quantitative classicality in cosmological interactions during inflation,*](https://arxiv.org/abs/2412.16143)  
+  Launay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).
+
+- [*Stochastic Inflation in General Relativity,*](https://arxiv.org/abs/2401.08530)  
+  Launay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.
+
+- [*Calculating non-Gaussianities from a kinetic pre-inflationary universe,*](https://zenodo.org/records/10149665)  
+  Launay Y. & Handley W., Master Thesis, June 22, University of Cambridge.
+
+- [*N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,*](https://doi.org/10.1107/S2052520621007228)  
+  Launay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694.
+
+## Talks, seminars and presentations
+
+- *Vacuum, quantum diffusion & non-perturbativity of inflaton using numerical relativity*, Early Universe From Home 2025 (February 2025).
+
+- *Stochastic inflation in numerical relativity*, GRTL Collaboration Meeting (June 2024).
+
+- *Stochastic inflation in full general relativity*, UK Cosmology Meeting (May 2024).
+
+- *Towards reconciling cosmology, QFT, and general relativity through stochastic inflation*, BritGrav24 (April 2024).
+
+- *Towards reconciling cosmology, QFT, and general relativity through stochastic inflation*, GR seminar at DAMTP (February 2024).
+
+- *Stochastic inflation in general and numerical relativity*, Workshop talk at Cambridge-LMU meeting (December 2023).
+
+- *N-representable 1-electron RDM at non-zero temperatures*, Conference speaker at IUCR25 congress (August 2021).
+
+- Seminar speaker, Structures, Properties and Modeling of Solids Laboratory, Sept. 2020, CentraleSupélec.
+
+- Poster, 2020 Quantum Crystallography Online Meeting.
+
+Find my slides [*here*](https://drive.google.com/drive/folders/1pCKKSztJ3ENJ_z2XcmSy9I_pnHx96HHF?usp=sharing).
+
+## Awards
+
+- Scientific image selected for the 2024 DiRAC calendar (2025).
+
+- Smith-Knight and Rayleigh-Knight Prize laureate (June 2024).
+
+- G-research private grant (March 2023).
+
+- 4 years International Fees Bursary (UKRI, 2022-2026).
+
+- 4 years Department Award (DAMTP, KICC and CDT, 2022-2026).
+
+- Jennings prize (Wolfson College, 2022).
+
+- CentraleSupélec Alumni prize for school community contribution (2021).
+
+- Best poster prize (Quantum Crystallography Online Meeting, 2020 conference).
+
+- Baccalauréat Highest Distinction (2017).
+
+- 7th Team Prize at the National French Tournament of Young Mathematicians (2017).
+
+## Teaching
+
+### Supervisor, University of Cambridge
+
+- Part II, General Relativity (by J. Evans): 4 pairs, 20h in total (2025).
+
+- MPhil Data-intensive science, Machine Learning (by S. Krippendorf): 3 groups of 5, 16h in total (2024).
+
+- Part II, Cosmology (by E.P.S. Shellard): 2 pairs, 10h in total (2024).
+
+- Part II, General Relativity (by J. Evans): 3 pairs, 15h in total (2024).
+
+- Part II, General Relativity (by A. Wall): 6 pairs, 24h in total (2023).
+
+### Private independent teaching
+
+- Olympic Maths prep. courses (2022)
+
+- Maths courses for struggling pupils in highschool (2016-2021)
+
+## Education
+
+### PhD, Department of Applied Maths and Theoretical Physics, University of Cambridge (2022-2026)
+
+*Non-linear General Relativity for Stochastic Inflation*, supervised by E.P.S. Shellard (DAMTP) and G. Rigopoulos (Newcastle University), advised by E. Pajer (DAMTP).  
+Member of the [Stephen Hawking Center for Theoretical Cosmology](https://www.ctc.cam.ac.uk/).  
+2022 cohort of [Center for Doctoral Training in Data Intensive Science](https://cdtdis.bigdata.cam.ac.uk/).  
+Member of the [GRChombo](https://www.grchombo.org/) collaboration.
+
+### MASt in Physics, University of Cambridge (2021-2022)
+
+Part III Physics passed with Distinction.  
+Options in Particle Physics and Astrophysics.  
+Master Thesis, *Primordial Non-Gaussianity from kinetic initial conditions for Inflation*, supervised by W. Handley, examined by Prof. D. Queloz.
+
+### CentraleSupélec Graduate Engineering School, Paris-Saclay University (2019-2022)
+
+Strong background in Mathematics, Physics, Programming, Management and Leadership.  
+Options in Advanced Physics and Mathematics, e.g. Quantum Physics, Fluid dynamics, Financial Mathematics etc.  
+Ranked top 5% out of 860 students. School ranked 2nd in France.
+
+### Bachelor and Master 1 in Fundamental Physics, Paris-Saclay University (2019-2021)
+
+Orsay's night school in Fundamental Physics in parallel of my engineering school.  
+Options in Plasmas Physics, Nuclear Physics, Applied Quantum Physics, Lasers.  
+Ranked 1st of the night cohort.
+
+### Philosophy, Sorbonne University (2020-2021)
+
+Unassessed night school bachelor in Philosophy in parallel of my engineering school.  
+Options Philosophy of science, Metaphysics and Logic.
+
+### Scientific Preparatory Classes, Lycée George Clemenceau Nantes (2017-2019)
+
+Two-years intensive course to prepare for the competitive national entrance exam to Graduate Engineering Schools in France.  
+Mathematics, Physics and Computer Science options. Highest distinction cohort.
+
+## References
+
+- Prof. Paul Shellard, DAMTP, University of Cambridge. [Website](http://www.damtp.cam.ac.uk/people/e.p.s.shellard/)
+
+- Dr. Gerasimos Rigopoulos, Newcastle University. [Profile](https://www.ncl.ac.uk/maths-physics/people/profile/gerasimosrigopoulos.html)
+
+- Dr. Will Handley, Kavli Institute for Cosmology, University of Cambridge. [Website](https://www.willhandley.co.uk/)
+
+- Dr. Jean-Baptiste Melin, CEA Paris-Saclay. [InspireHEP](https://inspirehep.net/authors/1029123)
+
+- Prof. Jean-Michel Gillet, CentraleSupélec, Paris-Saclay University. [LinkedIn](https://www.linkedin.com/in/jean-michel-gillet-814321107/?originalSubdomain=fr)
+

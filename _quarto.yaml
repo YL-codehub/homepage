@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # For GitHub Pages compatibility
+  output-dir: .  # For GitHub Pages compatibility
 
 website:
   title: "Yoann Launay"

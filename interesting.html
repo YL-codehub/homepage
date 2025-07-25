@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Media – Yoann Launay</title>
+<title>Interesting facts. – Yoann Launay</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -38,7 +58,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c106fe555190c1850ef46a8d5e044398.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7dda0bdf70b9b8039ec9acb61ed535a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-dashboard/quarto-dashboard.js"></script>
+<script src="site_libs/quarto-dashboard/stickythead.js"></script>
+<script src="site_libs/quarto-dashboard/datatables.min.js" kdttablesentinel="true"></script>
+<script src="site_libs/quarto-dashboard/pdfmake.min.js" kdttablesentinel="true"></script>
+<script src="site_libs/quarto-dashboard/vfs_fonts.js" kdttablesentinel="true"></script>
+<script src="site_libs/quarto-dashboard/web-components.js" type="module"></script>
+<script src="site_libs/quarto-dashboard/components.js"></script>
+<link href="site_libs/quarto-dashboard/datatables.min.css" rel="stylesheet" kdttablesentinel="true">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,12 +94,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<style>html{ scroll-behavior: smooth; }</style>
 
 
 </head>
 
-<body class="nav-fixed">
+<body class="quarto-dashboard nav-fixed fullcontent">
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -113,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Plots</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./interesting.html"> 
+    <a class="nav-link active" href="./interesting.html" aria-current="page"> 
 <span class="menu-text">Interesting</span></a>
   </li>  
   <li class="nav-item">
@@ -121,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Gallery</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./media.html" aria-current="page"> 
+    <a class="nav-link" href="./media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
@@ -135,6 +163,10 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://inspirehep.net/authors/2750519"> 
+<span class="menu-text"><img src="images/hep_inspire.png" alt="" style="height: 20px;"></span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://scholar.google.com/citations?user=ppZtojkAAAAJ&amp;hl=en"> <i class="bi bi-file-earmark-text-fill" role="img" aria-label="Google Scholar">
 </i> 
@@ -145,74 +177,121 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./yoann.launay@outlook.com"> <i class="bi bi-envelope" role="img" aria-label="Email">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-</header>
+<header id="quarto-dashboard-header">
+<nav class="navbar navbar-expand-md slim" data-bs-theme="dark">
+  <div class="navbar-container container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-controls="dashboard-collapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>    
+
+
+    <div class="navbar-brand-container">       
+
+      <div class="navbar-title">
+        <div class="navbar-title-text"><a href="#">Interesting facts.</a></div>
+        
+        
+      </div>
+    </div>
+<div id="dashboard-collapse" class="navbar-collapse collapse"><ul class="navbar-nav navbar-nav-scroll me-auto" role="tablist"><li class="nav-item" role="presentation"><a id="tab-i-collect-here-some-interesting-facts-encountered-in-various-museums-experiences-books-etc." class="nav-link active" data-bs-toggle="tab" role="tab" data-bs-target="#i-collect-here-some-interesting-facts-encountered-in-various-museums-experiences-books-etc." data-scrolling="true" href="#i-collect-here-some-interesting-facts-encountered-in-various-museums-experiences-books-etc." aria-controls="i-collect-here-some-interesting-facts-encountered-in-various-museums-experiences-books-etc." aria-selected="true"><span class="nav-link-text">I collect here some interesting facts encountered in various museums, experiences, books, etc.</span></a></li></ul></div></div>
+</nav>
+</header></header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar quarto-dashboard-content bslib-gap-spacing html-fill-container dashboard-scrolling quarto-dashboard-pages">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#articles-i-wrote" id="toc-articles-i-wrote" class="nav-link active" data-scroll-target="#articles-i-wrote">Articles I wrote</a></li>
-  <li><a href="#articles-about-my-work" id="toc-articles-about-my-work" class="nav-link" data-scroll-target="#articles-about-my-work">Articles about my work</a></li>
-  <li><a href="#interviews" id="toc-interviews" class="nav-link" data-scroll-target="#interviews">Interviews</a></li>
-  </ul>
-</nav>
-    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Media</h1>
+<div class="bslib-grid-item html-fill-item tab-content bslib-grid" data-layout="flow" style="display: grid; grid-template-rows: minmax(3em, 1fr); grid-auto-columns: minmax(0, 1fr);">
+<div id="i-collect-here-some-interesting-facts-encountered-in-various-museums-experiences-books-etc." class="dashboard-page tab-pane show active html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-i-collect-here-some-interesting-facts-encountered-in-various-museums-experiences-books-etc.">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content) minmax(3em, max-content) minmax(3em, max-content) minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr) minmax(3em, 1fr) minmax(3em, 1fr) minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>The US victory against english, french, mexicans was stopped by native americans in Montana.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<!-- ![Sand dunes on Arrakis](images/dune.png) -->
+<p>Dune is the first science-fiction book to make ecology a central theme.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>From 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Children outnumbered adults for most of human history <span class="citation" data-cites="CamArcheo">Archaeology and Anthropology (<a href="#ref-CamArcheo" role="doc-biblioref">n.d.</a>)</span>.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr) minmax(3em, 1fr) minmax(3em, 1fr) minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>For head trauma, Incas would make a hole in the skull to treat it <span class="citation" data-cites="NatGeo">Geographic (<a href="#ref-NatGeo" role="doc-biblioref">n.d.</a>)</span>.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Scotland and England+Wales, used to be parts of different continents <span class="citation" data-cites="CamGeo">Earth Sciences (<a href="#ref-CamGeo" role="doc-biblioref">n.d.</a>)</span>.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>There is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milkomeda but we won’t feel it.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>John Von Neumann could have been the last polymath <span class="citation" data-cites="wiki">Wikipedia (<a href="#ref-wiki" role="doc-biblioref">n.d.</a>)</span>.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr) minmax(3em, 1fr) minmax(3em, 1fr) minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Roxbourgh figs pollinisation is fascinating, so fine-tuned.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>New York was created by the English after trading a nutmeg island for New Amsterdam.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Polynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants <span class="citation" data-cites="CamArcheo">Archaeology and Anthropology (<a href="#ref-CamArcheo" role="doc-biblioref">n.d.</a>)</span>.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Toasts taste stronger upside down.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr) minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Pink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()">
+<div class="card-body html-fill-item html-fill-container">
+<p>Cambridge market used to be the biggest fair of Europe.</p>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden html-fill-item html-fill-container">
+
+</div>
+</div>
+</div>
+</div>
 </div>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="articles-i-wrote" class="level2">
-<h2 class="anchored" data-anchor-id="articles-i-wrote">Articles I wrote</h2>
-<p><a href="https://www.bluesci.co.uk/issue/"><em>Theory of everything, including us</em>, Bluesci n°59 (p20-21), Easter 2024.</a></p>
-<p><a href="https://www.bluesci.co.uk/issue/"><em>Cosmic connections</em>, Bluesci n°58 (p26-27), Lent 2023.</a></p>
-<p><a href="https://www.bluesci.co.uk/issue/">Book review of <em>On the Origin of Time</em> by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023.</a></p>
-</section>
-<section id="articles-about-my-work" class="level2">
-<h2 class="anchored" data-anchor-id="articles-about-my-work">Articles about my work</h2>
-<p><a href="https://www.intel.com/content/www/us/en/developer/articles/technical/university-cambridge-oneapi-cosmology.html">Article about our use of Intel tech for simulating the universe</a></p>
-<p><a href="https://www.gresearch.co.uk/blog/article/g-research-march-2023-grant-winners/">G-Research March 2023 Grant Winners where I am featured</a></p>
-</section>
-<section id="interviews" class="level2">
-<h2 class="anchored" data-anchor-id="interviews">Interviews</h2>
-<p><a href="https://x.com/centralesupelec/status/1302978895596134400?ref_src=twsrc%5Etfw">Interview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting.</a></p>
-
-
-</section>
-
-</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -630,14 +709,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+<div id="quarto-appendix" class="default bslib-grid-item html-fill-item"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-CamArcheo" class="csl-entry" role="listitem">
+Archaeology, The Museum of, and Anthropology. n.d. University of Cambridge, UK.
+</div>
+<div id="ref-CamGeo" class="csl-entry" role="listitem">
+Earth Sciences, Sedgwick Museum of. n.d. University of Cambridge, UK.
+</div>
+<div id="ref-NatGeo" class="csl-entry" role="listitem">
+Geographic, National. n.d.
+</div>
+<div id="ref-wiki" class="csl-entry" role="listitem">
+Wikipedia. n.d. <a href="https://en.wikipedia.org/">https://en.wikipedia.org/</a>.
+</div>
+</div></section></div></div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Yoann L. Launay • PhD Student in Quantum Cosmology • University of Cambridge</p>
+<p>Yoann L. Launay • PhD Student in Quantum Cosmology • Cambridge</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
@@ -645,8 +737,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </footer>
 
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (_event) {
+  if (window.bslib.Card) {
+    window.bslib.Card.initializeAllCards();
+  }
+}); 
+</script>
+  
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

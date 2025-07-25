@@ -5,7 +5,7 @@ author:
 page-layout: full
 date: 2024-02-15
 categories: [open science]
-image: thesis8.png
+image: ../../images/thesis8.png
 ---
 
 ![](Famelab.mov){width=70% title="Yoann Launay, Dec. 2022."}

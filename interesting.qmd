@@ -5,7 +5,7 @@ format:
     orientation: rows
     scrolling: true 
 bibliography: references.bib
-# csl: ieee.csl
+csl: ieee.csl
 ---
 # I collect here some interesting facts encountered in various museums, experiences, books, etc.
 
@@ -74,4 +74,10 @@ Pink is by far the oldest colour (pigment found in ancient fossil) because chlor
 
 ::: {.card fill=false expandable="false"}
 Cambridge market used to be the biggest fair of Europe.
+:::
+
+
+## References
+
+::: {#refs expandable="false"}
 :::

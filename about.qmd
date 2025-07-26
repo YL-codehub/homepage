@@ -1,8 +1,24 @@
 ---
-title: "Personal Path"
+title: "My academic record"
 ---
 
+
 ## Publications
+
+{\textcolor{emphasis}{\textit{}} [in prep.] \\
+\hfill {\small YL, G. Rigopoulos, P. Shellard, 2025.}}
+ \vspace{0.1cm}
+ 
+ {\textcolor{emphasis}{\textit{Fairness-aware entropy for test-time adaptation}}   \\
+\hfill{\small
+YL, P. Kamalaruban, 2025.}}
+  \vspace{0.1cm}
+  
+- [*Stochastic inflation in Numerical Relativity [in prep.],*]()  
+  Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.
+
+- [*Episodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],*]()  
+  Launay Y., Kamalaruban P. 2025.
 
 - [*Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,*](https://arxiv.org/abs/2502.06783)  
   Launay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).
@@ -20,6 +36,12 @@ title: "Personal Path"
   Launay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694.
 
 ## Talks, seminars and presentations
+
+- *Stochastic Inflation in Numerical Relativity*, GR24-Amaldi16 (July 2025).
+
+- *When to use semi-classical GR instead of QFT to probe cosmological correlation functions; a quantitative view* (Poster), GR24-Amaldi16 (July 2025).
+
+- *Stochastic Inflation beyond the analytic lamppost*, CoBALt (June 2025).
 
 - *Vacuum, quantum diffusion & non-perturbativity of inflaton using numerical relativity*, Early Universe From Home 2025 (February 2025).
 
@@ -121,6 +143,8 @@ Two-years intensive course to prepare for the competitive national entrance exam
 Mathematics, Physics and Computer Science options. Highest distinction cohort.
 
 ## References
+
+- Dr. Parameswaran Kamalaruban, Featurespace, Cambridge. [Website](https://scholar.google.com/citations?user=0ioRCikAAAAJ&hl=en)
 
 - Prof. Paul Shellard, DAMTP, University of Cambridge. [Website](http://www.damtp.cam.ac.uk/people/e.p.s.shellard/)
 

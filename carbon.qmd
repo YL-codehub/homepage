@@ -1,4 +1,69 @@
 ---
 title: Carbon
+jupyter: python3
 ---
-Where I will make myself carbon-transparent (pun intended).
+Where I make myself carbon-transparent.
+
+## Travels [work in progress]
+Flights in red, trains in blue.
+```{python}
+#| echo: false
+#| message: false
+#| warning: false
+import folium
+from folium.plugins import AntPath
+import pandas as pd
+
+# design
+icon_html = """
+<div style="font-size: 14px; color: black;">
+  <i class="fa fa-flag"></i>
+</div>
+"""
+icon=folium.DivIcon(
+        icon_size=(24, 24),
+        icon_anchor=(12, 12),
+        html=icon_html
+    )
+# icon=folium.Icon(icon="info-circle", color="black")
+# import destinations
+df = pd.read_csv("destinations.csv")
+# Create a map centered on Paris
+m = folium.Map(location=[48.8566, 2.3522], zoom_start=4)
+
+damtp  = df[df["name"]=="DAMTP"][["lat","lon"]].loc[0]
+
+# Add a few markers
+folium.Marker(
+    damtp,
+    tooltip="DAMTP",
+    popup="DAMTP, Cambridge, where I'm based!"
+).add_to(m)
+
+
+for _, row in df[df["name"]!="DAMTP"].iterrows():
+    dest_coords = [row['lat'], row['lon']]
+    
+    # Add destination marker
+    folium.Marker(
+        dest_coords,
+        tooltip=row['name'],
+        icon=icon,
+        popup=row["info"]
+    ).add_to(m)
+    
+    # AntPath from Cambridge to destination
+    AntPath(
+        locations=[damtp, dest_coords],
+        color="blue" if row["transport"]=="train" else "red",
+        weight=3
+        # delay=1000,
+        # dash_array=[10, 20],
+        # pulse_color="lime"
+    ).add_to(m)
+
+# Display the map
+m
+```
+
+## Supercomputing [work in progress]

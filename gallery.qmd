@@ -5,6 +5,7 @@ format:
     orientation: rows
     scrolling: true 
 ---
+# Pictures of my travels and wanderings
 
 ## Row
 ::: {.card fill=false expandable="false"}

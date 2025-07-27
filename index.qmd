@@ -34,11 +34,11 @@ On this website, you will be able to find out more about:
 ## News
 
 - (16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at [Featurespace](https://www.featurespace.com/) from April and for six months! 
-- (12/02/2025) My third PhD article and first with spacetime simulations is out! see [preprint](https://arxiv.org/abs/2502.06783pre-print).
+- (12/02/2025) My third PhD article and first with spacetime simulations is out! see [preprint](https://arxiv.org/abs/2502.06783).
 - (11/02/2025) [An interesting article](https://www.intel.com/content/www/us/en/developer/articles/technical/university-cambridge-oneapi-cosmology.html) where my simulations are featured. 
-- (05/01/2025) My second PhD article is out! see [preprint](https://arxiv.org/abs/2412.16143pre-print).  
+- (05/01/2025) My second PhD article is out! see [preprint](https://arxiv.org/abs/2412.16143).  
 - (02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients! 
-- (16/01/2024) I published my first article in cosmology! see [preprint](https://arxiv.org/abs/2401.08530pre-print).
+- (16/01/2024) I published my first article in cosmology! see [preprint](https://arxiv.org/abs/2401.08530).
 - (1/11/2023) My first feature article for Bluesci, see issue n°58 [here](https://www.bluesci.co.uk/issue/article) (page 26). 
 - (1/11/2023) New book review article in Bluesci, see issue n°57 [here](https://www.bluesci.co.uk/issue/article) (page 5). 
 - (7/04/2023) G-research grant obtained! see [article](https://www.gresearch.co.uk/blog/article/g-research-march-2023-grant-winners/). 

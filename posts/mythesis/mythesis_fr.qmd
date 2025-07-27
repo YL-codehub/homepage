@@ -7,15 +7,15 @@ format:
     css: ../../styles.css
 page-layout: full
 date: 2024-02-15
-categories: [open science]
-image: thesis8.png
+categories: [Outreach]
+image: ../../images/thesis8.png
 ---
 
 ##  Longue vie aux voyageurs
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis1.png){style="padding-right:2%;"}
+![](../../images/thesis1.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -32,7 +32,7 @@ La différence entre leurs horloges est due à la différence de leurs vitesses 
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis2.png){style="padding-right:2%;"}
+![](../../images/thesis2.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -50,7 +50,7 @@ Les mathématiques de la RG suggèrent que nous vivons sur une feuille de papier
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis3.png){style="padding-right:2%;"}
+![](../../images/thesis3.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -68,7 +68,7 @@ La gravité n'est pas spécifique à notre système. Nos planètes et étoiles n
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis4.png){style="padding-right:2%;"}
+![](../../images/thesis4.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -86,7 +86,7 @@ Cependant, à une certaine distance de nous, les galaxies restent avec nous et l
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis5.png){style="padding-right:2%;"}
+![](../../images/thesis5.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -104,7 +104,7 @@ Comment est-ce possible ? On a l'impression qu'il y a quelque chose qui pousse l
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis6.png){style="padding-right:2%;"}
+![](../../images/thesis6.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -122,7 +122,7 @@ Donc, si l'univers est actuellement un gros ballon gonflé ; que se passe-t-il e
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis7.png){style="padding-right:2%;"}
+![](../../images/thesis7.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -141,7 +141,7 @@ Nous parvenons toujours à recevoir des signaux micro-ondes du plasma du Big-Ban
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis8.png){style="padding-right:2%;"}
+![](../../images/thesis8.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -159,7 +159,7 @@ Les empreintes de l'inflation sur le signal micro-onde sont subtiles mais en dis
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis9.png){style="padding-right:2%;"}
+![](../../images/thesis9.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -177,7 +177,7 @@ La physique classique est la science prédéterminée de ce que nous voyons tous
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis10.png){style="padding-right:2%;"}
+![](../../images/thesis10.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -196,7 +196,7 @@ Pour une onde de probabilité quantique donnée, certaines équations et princip
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis11.png){style="padding-right:2%;"}
+![](../../images/thesis11.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -214,7 +214,7 @@ Théoriquement, le vide quantique ne peut pas avoir strictement 0 énergie, sino
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis12.png){style="padding-right:2%;"}
+![](../../images/thesis12.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -233,7 +233,7 @@ La plupart du temps, il existe une échelle à laquelle vous pouvez arrêter de 
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis13.png){style="padding-right:2%;"}
+![](../../images/thesis13.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 

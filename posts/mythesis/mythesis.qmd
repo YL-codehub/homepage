@@ -7,15 +7,15 @@ format:
     css: ../../styles.css
 page-layout: full
 date: 2024-02-15
-categories: [open science]
-image: thesis8.png
+categories: [Outreach]
+image: ../../images/thesis8.png
 ---
 
 ## Long live the travellers
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis1.png){style="padding-right:2%;"}
+![](../../images/thesis1.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -31,7 +31,7 @@ The difference between their clocks is due to the difference between their speed
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis2.png){style="padding-right:2%;"}
+![](../../images/thesis2.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -48,7 +48,7 @@ GR’s Maths suggest that we live on a sheet of paper (but 4 dimensions in reali
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis3.png){style="padding-right:2%;"}
+![](../../images/thesis3.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -65,7 +65,7 @@ GR’s Maths suggest that we live on a sheet of paper (but 4 dimensions in reali
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis4.png){style="padding-right:2%;"}
+![](../../images/thesis4.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -82,7 +82,7 @@ However, within a certain distance to us, galaxies stick with us and the cluster
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis5.png){style="padding-right:2%;"}
+![](../../images/thesis5.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -99,7 +99,7 @@ How is this possible? It feels like there is something growing or pushing things
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis6.png){style="padding-right:2%;"}
+![](../../images/thesis6.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -116,7 +116,7 @@ So, if the universe is currently a big, inflated balloon; what happens when goin
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis7.png){style="padding-right:2%;"}
+![](../../images/thesis7.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -134,7 +134,7 @@ We still manage to receive microwave signals from the Big-Bang plasma, still tra
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis8.png){style="padding-right:2%;"}
+![](../../images/thesis8.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -151,7 +151,7 @@ The imprints of inflation on the microwave signal are subtle but tell a lot abou
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis9.png){style="padding-right:2%;"}
+![](../../images/thesis9.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -169,7 +169,7 @@ Classical physics is the pre-determined science of what we see everyday; knowing
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis10.png){style="padding-right:2%;"}
+![](../../images/thesis10.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -186,7 +186,7 @@ For a given quantum probability wave, some equations and principles dictate whic
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis11.png){style="padding-right:2%;"}
+![](../../images/thesis11.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -204,7 +204,7 @@ Theoretically, quantum vacuum cannot have a strict 0 energy, otherwise it would 
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis12.png){style="padding-right:2%;"}
+![](../../images/thesis12.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 
@@ -222,7 +222,7 @@ Most of times, there is a scale at which you can stop zooming because it has a n
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](thesis13.png){style="padding-right:2%;"}
+![](../../images/thesis13.png){style="padding-right:2%;"}
 :::
 
 ::: {.column width="60%"} 

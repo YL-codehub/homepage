@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Yoann Launay">
+<meta name="dcterms.date" content="2025-02-28">
 
-<title>Blog – Yoann Launay</title>
+<title>Recorded talk at online conference Early Universe From Home – Yoann Launay</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c106fe555190c1850ef46a8d5e044398.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-c106fe555190c1850ef46a8d5e044398.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,66 +68,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -138,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Yoann Launay</span>
     </a>
   </div>
@@ -149,43 +91,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./plots.html"> 
+    <a class="nav-link" href="../../plots.html"> 
 <span class="menu-text">Plots</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./interesting.html"> 
+    <a class="nav-link" href="../../interesting.html"> 
 <span class="menu-text">Interesting</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./gallery.html"> 
+    <a class="nav-link" href="../../gallery.html"> 
 <span class="menu-text">Gallery</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./media.html"> 
+    <a class="nav-link" href="../../media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./carbon.html"> 
+    <a class="nav-link" href="../../carbon.html"> 
 <span class="menu-text">Carbon</span></a>
   </li>  
 </ul>
@@ -220,22 +162,38 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Q29uZmVyZW5jZQ==">Conference <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T3V0cmVhY2g=">Outreach <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(2)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
-</div>
+<h1 class="title">Recorded talk at online conference Early Universe From Home</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Research</div>
+    <div class="quarto-category">Conference</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Yoann Launay </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 28, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -245,189 +203,11 @@ window.Quarto = {
 </header>
 
 
-<p>Everything worth expanding on: outreach, conferences, news…</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/wGu9qHTjIGg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UmVzZWFyY2glMkNDb25mZXJlbmNl" data-listing-date-sort="1753138800000" data-listing-file-modified-sort="1753574167432" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
-<div class="thumbnail">
-<p><a href="./posts/posterGR24/posterGR24.html" class="no-external"></a></p><a href="./posts/posterGR24/posterGR24.html" class="no-external">
-<p><img loading="lazy" src="./images/gr24poster.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/posterGR24/posterGR24.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/posterGR24/posterGR24.html" class="no-external">24th International Conference on General Relativity and Gravitation</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/posterGR24/posterGR24.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZQ=='); return false;">
-Conference
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/posterGR24/posterGR24.html" class="no-external">I went to Glasgow and gave a talk on <em>Stochastic Inflation in Numerical Relativity</em> and presented a poster titled <em>When to use semi-classical GR instead of QFT to probe…</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/posterGR24/posterGR24.html" class="no-external">
-<div class="listing-date">
-Jul 22, 2025
-</div>
-<div class="listing-author">
-Yoann Launay
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="UmVzZWFyY2glMkNDb25mZXJlbmNl" data-listing-date-sort="1740700800000" data-listing-file-modified-sort="1753573702367" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
-<div class="thumbnail">
-<p><a href="./posts/EUFH25/eufh25.html" class="no-external"></a></p><a href="./posts/EUFH25/eufh25.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/EUFH25/eufh25.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/EUFH25/eufh25.html" class="no-external">Recorded talk at online conference Early Universe From Home</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/EUFH25/eufh25.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">
-Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZQ=='); return false;">
-Conference
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/EUFH25/eufh25.html" class="no-external"><iframe data-external="1" src="https://www.youtube.com/embed/wGu9qHTjIGg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/EUFH25/eufh25.html" class="no-external">
-<div class="listing-date">
-Feb 28, 2025
-</div>
-<div class="listing-author">
-Yoann Launay
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="T3V0cmVhY2g=" data-listing-date-sort="1707955200000" data-listing-file-modified-sort="1753574155050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
-<div class="thumbnail">
-<p><a href="./posts/famelab/famelab.html" class="no-external"></a></p><a href="./posts/famelab/famelab.html" class="no-external">
-<p><img loading="lazy" src="./images/famelab_logo.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/famelab/famelab.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/famelab/famelab.html" class="no-external">My PhD in 3 minutes for the FameLab 2024 competition</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/famelab/famelab.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('T3V0cmVhY2g='); return false;">
-Outreach
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/famelab/famelab.html" class="no-external"><video src="../../images/Famelab.mov" class="img-fluid" style="width:70.0%" title="Yoann Launay, Dec. 2022." controls="">Video</video></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/famelab/famelab.html" class="no-external">
-<div class="listing-date">
-Feb 15, 2024
-</div>
-<div class="listing-author">
-Yoann Launay
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="T3V0cmVhY2g=" data-listing-date-sort="1707955200000" data-listing-file-modified-sort="1753574142734" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2653">
-<div class="thumbnail">
-<p><a href="./posts/mythesis/mythesis.html" class="no-external"></a></p><a href="./posts/mythesis/mythesis.html" class="no-external">
-<p><img loading="lazy" src="./images/thesis8.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/mythesis/mythesis.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/mythesis/mythesis.html" class="no-external">My Thesis in 12 sketches.</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/mythesis/mythesis.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('T3V0cmVhY2g='); return false;">
-Outreach
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/mythesis/mythesis.html" class="no-external">Gravity is simple: objects with a mass attract each other. The closer together they are or greater their masses, the stronger the attraction. However, this is only an…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/mythesis/mythesis.html" class="no-external">
-<div class="listing-date">
-Feb 15, 2024
-</div>
-<div class="listing-author">
-Yoann Launay
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="T3V0cmVhY2g=" data-listing-date-sort="1707955200000" data-listing-file-modified-sort="1753574119030" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2763">
-<div class="thumbnail">
-<p><a href="./posts/mythesis/mythesis_fr.html" class="no-external"></a></p><a href="./posts/mythesis/mythesis_fr.html" class="no-external">
-<p><img loading="lazy" src="./images/thesis8.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/mythesis/mythesis_fr.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/mythesis/mythesis_fr.html" class="no-external">Mon doctorat en 12 esquisses.</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/mythesis/mythesis_fr.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('T3V0cmVhY2g='); return false;">
-Outreach
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/mythesis/mythesis_fr.html" class="no-external">La gravité est simple : les objets avec une masse s’attirent mutuellement. Plus ils sont proches ou plus leurs masses sont importantes, plus l’attraction est forte.…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/mythesis/mythesis_fr.html" class="no-external">
-<div class="listing-date">
-Feb 15, 2024
-</div>
-<div class="listing-author">
-Yoann Launay
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -863,5 +643,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

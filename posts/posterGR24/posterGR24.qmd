@@ -8,7 +8,7 @@ format:
 page-layout: full
 date: 2025-07-22
 categories: [Research, Conference]
-image: gr24poster.jpg
+image: ../../images/gr24poster.jpg
 ---
 
 I went to Glasgow and gave a talk on *Stochastic Inflation in Numerical Relativity* and presented a poster titled *When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view*.

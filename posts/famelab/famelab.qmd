@@ -4,8 +4,8 @@ author:
   - name: Yoann Launay
 page-layout: full
 date: 2024-02-15
-categories: [open science]
+categories: [Outreach]
 image: ../../images/famelab_logo.jpg
 ---
 
-![](Famelab.mov){width=70% title="Yoann Launay, Dec. 2022."}
+![](../../images/Famelab.mov){width=70% title="Yoann Launay, Dec. 2022."}

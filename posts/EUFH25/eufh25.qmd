@@ -1,0 +1,11 @@
+---
+title: Recorded talk at online conference Early Universe From Home
+author:
+  - name: Yoann Launay
+page-layout: full
+date: 2025-02-28
+categories: [Research, Conference]
+---
+{{< video
+https://www.youtube.com/embed/wGu9qHTjIGg
+>}}

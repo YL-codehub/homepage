@@ -4,15 +4,6 @@ title: "My academic record"
 
 
 ## Publications
-
-{\textcolor{emphasis}{\textit{}} [in prep.] \\
-\hfill {\small YL, G. Rigopoulos, P. Shellard, 2025.}}
- \vspace{0.1cm}
- 
- {\textcolor{emphasis}{\textit{Fairness-aware entropy for test-time adaptation}}   \\
-\hfill{\small
-YL, P. Kamalaruban, 2025.}}
-  \vspace{0.1cm}
   
 - [*Stochastic inflation in Numerical Relativity [in prep.],*]()  
   Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.

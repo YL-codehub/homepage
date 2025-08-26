@@ -9,7 +9,7 @@ page-layout: full
 ::: {.columns}
 
 ::: {.column width="30%"}
-![](images/photoWall.jpg){style="padding-right:10%;"}
+![](/images/photoWall.jpg){style="padding-right:10%;"}
 :::
 
 ::: {.column width="70%"}

@@ -13,10 +13,17 @@ image: ../../images/gr24poster.jpg
 
 I went to Glasgow and gave a talk on *Stochastic Inflation in Numerical Relativity* and presented a poster titled *When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view*.
 
+### Record of the talk
+{{< video
+https://youtu.be/nphstZUgH88?list=PL9DaMB7CQ0frL1Q5WaB6fZUD7tZnxLCs3&start=2059
+>}}
+
+### Poster
 ::: center
 ![](../../images/gr24poster.jpg){width=30% fig-align="center"}
 :::
 
-<iframe src="poster_YOANNLAUNAY.pdf" width = 100% height = 100%>
-Pdf not supported.
+<iframe 
+  src="poster_YOANNLAUNAY.pdf" 
+  style="width:100%; height:100vh; border:none;">
 </iframe>

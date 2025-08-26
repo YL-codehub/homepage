@@ -36,7 +36,7 @@ website:
         href: https://github.com/YL-codehub
         aria-label: GitHub
       - href: https://inspirehep.net/authors/2750519
-        text: "<img src='images/hep_inspire.png' alt='' style='height: 20px;' />"
+        text: "<img src='/images/hep_inspire.png' alt='' style='height: 20px;' />"
         aria-label: HEP Inspire
       - icon: file-earmark-text-fill
         href: https://scholar.google.com/citations?user=ppZtojkAAAAJ&hl=en

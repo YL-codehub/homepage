@@ -17,7 +17,7 @@ The US victory against english, french, mexicans was stopped by native americans
 
 
 ::: {.card fill=false expandable="false"}
-<!-- ![Sand dunes on Arrakis](images/dune.png) -->
+<!-- ![Sand dunes on Arrakis](/images/dune.png) -->
 Dune is the first science-fiction book to make ecology a central theme.
 :::
 

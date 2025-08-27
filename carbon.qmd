@@ -67,3 +67,38 @@ m
 ```
 
 ## Supercomputing [work in progress]
+My work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still!
+
+```{python}
+#| echo: false
+#| message: false
+#| warning: false
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+
+df = pd.read_csv('carbon.csv')
+
+# Convert Date column to datetime if possible
+df["date"] = pd.to_datetime(df["date"], errors="coerce").fillna(df["date"])
+
+# Group emissions by year
+df["year"] = df["date"].dt.year
+yearly = df.groupby("year")["emissions_kg"].sum().reset_index()
+# Convert to tCO2
+yearly["emissions_tons"] = yearly["emissions_kg"] /1000
+
+norm = plt.Normalize(yearly["emissions_tons"].min(), 2)
+colors = plt.cm.Reds(norm(yearly["emissions_tons"]))
+
+
+# Plot bar chart
+sns.set_theme(palette="pastel")
+sns.barplot(x="year", y="emissions_tons", data=yearly, palette=colors)
+plt.xlabel("Year")
+plt.ylabel("Emissions (CO2 tons)")
+plt.title("Carbon Emissions [temporary fake data]")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+```

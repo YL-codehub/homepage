@@ -1,1 +1,1 @@
-notebook jupyter folium 
+notebook jupyter folium seaborn

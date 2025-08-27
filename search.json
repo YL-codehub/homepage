@@ -140,102 +140,32 @@
     "text": "MIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
-    "href": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
+    "href": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
+    "title": "NCSA Open Source License",
+    "section": "",
+    "text": "This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
+  },
+  {
+    "objectID": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Media",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Some appearances out there"
-  },
-  {
-    "objectID": "media.html#articles-i-wrote",
-    "href": "media.html#articles-i-wrote",
-    "title": "Media",
-    "section": "Articles I wrote",
-    "text": "Articles I wrote\nTheory of everything, including us, Bluesci n°59 (p20-21), Easter 2024.\nCosmic connections, Bluesci n°58 (p26-27), Lent 2023.\nBook review of On the Origin of Time by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023."
-  },
-  {
-    "objectID": "media.html#articles-about-my-work",
-    "href": "media.html#articles-about-my-work",
-    "title": "Media",
-    "section": "Articles about my work",
-    "text": "Articles about my work\nArticle about our use of Intel tech for simulating the universe\nG-Research March 2023 Grant Winners where I am featured"
-  },
-  {
-    "objectID": "media.html#interviews",
-    "href": "media.html#interviews",
-    "title": "Media",
-    "section": "Interviews",
-    "text": "Interviews\nInterview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "I’m a PhD student in Quantum Cosmology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.\nThe essence of this website is multiple but mainly professional and functional — hence a deliberately minimalist pattern.\n\n\n\n\nOn this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity.\n\n\n\n\n\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article.\n\n\n\n\n\nFeaturespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐\n\n\n\n\nEmail: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
-  },
-  {
-    "objectID": "index.html#what-youll-find-here",
-    "href": "index.html#what-youll-find-here",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "On this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article."
-  },
-  {
-    "objectID": "index.html#they-financed-my-work-and-gave-me-support",
-    "href": "index.html#they-financed-my-work-and-gave-me-support",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "Featurespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "Email: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
-  },
-  {
-    "objectID": "carbon.html",
-    "href": "carbon.html",
-    "title": "Carbon",
-    "section": "",
-    "text": "Where I make myself carbon-transparent."
-  },
-  {
-    "objectID": "carbon.html#travels-work-in-progress",
-    "href": "carbon.html#travels-work-in-progress",
-    "title": "Carbon",
-    "section": "Travels [work in progress]",
-    "text": "Travels [work in progress]\nFlights in red, trains in blue.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
-  },
-  {
-    "objectID": "carbon.html#supercomputing-work-in-progress",
-    "href": "carbon.html#supercomputing-work-in-progress",
-    "title": "Carbon",
-    "section": "Supercomputing [work in progress]",
-    "text": "Supercomputing [work in progress]"
+    "text": "Everything worth expanding on: outreach, conferences, news…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nRecorded talk at online conference Early Universe From Home\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -287,32 +217,109 @@
     "text": "References\n\nDr. Parameswaran Kamalaruban, Featurespace, Cambridge. Website\nProf. Paul Shellard, DAMTP, University of Cambridge. Website\nDr. Gerasimos Rigopoulos, Newcastle University. Profile\nDr. Will Handley, Kavli Institute for Cosmology, University of Cambridge. Website\nDr. Jean-Baptiste Melin, CEA Paris-Saclay. InspireHEP\nProf. Jean-Michel Gillet, CentraleSupélec, Paris-Saclay University. LinkedIn"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "carbon.html",
+    "href": "carbon.html",
+    "title": "Carbon",
     "section": "",
-    "text": "Everything worth expanding on: outreach, conferences, news…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nRecorded talk at online conference Early Universe From Home\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
+    "text": "Where I make myself carbon-transparent."
   },
   {
-    "objectID": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "objectID": "carbon.html#travels-work-in-progress",
+    "href": "carbon.html#travels-work-in-progress",
+    "title": "Carbon",
+    "section": "Travels [work in progress]",
+    "text": "Travels [work in progress]\nFlights in red, trains in blue.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
+  },
+  {
+    "objectID": "carbon.html#supercomputing-work-in-progress",
+    "href": "carbon.html#supercomputing-work-in-progress",
+    "title": "Carbon",
+    "section": "Supercomputing [work in progress]",
+    "text": "Supercomputing [work in progress]\nMy work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "I’m a PhD student in Quantum Cosmology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.\nThe essence of this website is multiple but mainly professional and functional — hence a deliberately minimalist pattern.\n\n\n\n\nOn this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity.\n\n\n\n\n\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article.\n\n\n\n\n\nFeaturespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐\n\n\n\n\nEmail: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "On this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article."
+  },
+  {
+    "objectID": "index.html#they-financed-my-work-and-gave-me-support",
+    "href": "index.html#they-financed-my-work-and-gave-me-support",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "Featurespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome to my personal website",
+    "section": "",
+    "text": "Email: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Some appearances out there"
+  },
+  {
+    "objectID": "media.html#articles-i-wrote",
+    "href": "media.html#articles-i-wrote",
+    "title": "Media",
+    "section": "Articles I wrote",
+    "text": "Articles I wrote\nTheory of everything, including us, Bluesci n°59 (p20-21), Easter 2024.\nCosmic connections, Bluesci n°58 (p26-27), Lent 2023.\nBook review of On the Origin of Time by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023."
+  },
+  {
+    "objectID": "media.html#articles-about-my-work",
+    "href": "media.html#articles-about-my-work",
+    "title": "Media",
+    "section": "Articles about my work",
+    "text": "Articles about my work\nArticle about our use of Intel tech for simulating the universe\nG-Research March 2023 Grant Winners where I am featured"
+  },
+  {
+    "objectID": "media.html#interviews",
+    "href": "media.html#interviews",
+    "title": "Media",
+    "section": "Interviews",
+    "text": "Interviews\nInterview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting."
+  },
+  {
+    "objectID": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
-    "href": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
-    "title": "NCSA Open Source License",
-    "section": "",
-    "text": "This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
-  },
-  {
-    "objectID": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "href": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "BSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
+    "href": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
+    "title": "Yoann Launay",
+    "section": "",
+    "text": "Copyright (c) 2012-2023, Michael L. Waskom All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
     "objectID": "plots.html",

@@ -9,19 +9,12 @@ page-layout: full
 ::: {.columns}
 
 ::: {.column width="30%"}
-![](/images/photoWall.jpg){style="padding-right:10%;"}
+![](/images/photo_medamtp.jpg){style="padding-right:10%;"}
 :::
 
 ::: {.column width="70%"}
 I'm a PhD student in **Quantum Cosmology** at the Department of Applied Mathematics 
 and Theoretical Physics at the **University of Cambridge**.
-
-The essence of this website is multiple but mainly professional and functional — 
-hence a deliberately minimalist pattern.
-:::
-:::
-
-## What you'll find here
 
 On this website, you will be able to find out more about:
 
@@ -30,6 +23,10 @@ On this website, you will be able to find out more about:
 - My everyday Physics if you bother.
 - More Physics if you're starting from scratches. 
 - Curiosity.
+
+:::
+:::
+
 
 ## News
 

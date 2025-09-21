@@ -9,6 +9,11 @@ format:
 
 ## Row
 ::: {.card fill=false expandable="false"}
+### September 2025
+![Cambridge-LMU meeting, with hotel randomly next to Einstein's youth house...](/images/einstein_munich.jpg){width=50% title="Yoann Launay, Dec. 2022."}
+:::
+
+::: {.card fill=false expandable="false"}
 ### July 2025
 ![International GR24-Amaldi16 conference in Glasgow](/images/gr24.jpg){width=50% title="Yoann Launay, Dec. 2022."}
 :::

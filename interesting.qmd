@@ -7,7 +7,41 @@ format:
 bibliography: references.bib
 csl: ieee.csl
 ---
-# I collect here some interesting facts encountered in various museums, experiences, books, etc.
+# I collect here my favourite facts encountered in various museums, experiences, books, or from people etc.
+
+
+## Row
+
+::: {.card fill=false expandable="false"}
+A significant fraction of Earth’s water likely formed before the Sun, originating in interstellar space, although not all of it predates the Solar System.
+:::
+
+
+::: {.card fill=false expandable="false"}
+Neither animal nor fungus, the blob (*Physarum polycephalum*) can solve shortest-path problems by optimizing nutrient networks.
+:::
+
+::: {.card fill=false expandable="false"}
+A lot of animals have roughly the same number of heartbeats over a lifetime. Of course, many species (including humans and birds) do not follow it.
+:::
+
+::: {.card fill=false expandable="false"}
+One of the earliest British historical heroes is Boudica, a woman who led a major rebellion against Roman rule in the 1st century CE.
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+The English title “earl” derives from the Old Norse word *jarl*, reflecting Scandinavian influence in early medieval England.
+:::
+
+::: {.card fill=false expandable="false"}
+Bluetooth technology is named after Harald “Bluetooth” Gormsson, a Viking king who unified Denmark and Norway.
+:::
+
+::: {.card fill=false expandable="false"}
+During the last Ice Age, megafauna included giant ground sloths that lived across the Americas until around 10,000 years ago.
+:::
 
 ## Row 
 
@@ -76,8 +110,15 @@ Pink is by far the oldest colour (pigment found in ancient fossil) because chlor
 Cambridge market used to be the biggest fair of Europe.
 :::
 
-
 ## References
 
+<!-- - Cleeves et al. *Science* (2014). “The ancient heritage of water ice in the solar system.”
+- Nakagaki et al. *Nature* (2000). “Intelligence: Maze-solving by an amoeboid organism.”
+- Scientific American. “Heartbeats and Longevity.”
+- Encyclopaedia Britannica. “Boudica.”
+- Etymology Online. “Earl.”
+- Bluetooth SIG. “The Origin of Bluetooth.”
+- Encyclopaedia Britannica. “Normandy.”
+- Smithsonian National Museum of Natural History. “Giant Ground Sloth.” -->
 ::: {#refs expandable="false"}
 :::

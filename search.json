@@ -126,144 +126,46 @@
     "text": "“Relativité Générale non-Linéaire pour l’inflation stochastique”\n\n\n\n\n\nVous avez maintenant tout ce dont vous avez besoin pour comprendre ma thèse de doctorat. Parce que la relativité générale et la physique quantique ne sont pas compatibles mais échangent des phénomènes, je veux étudier la propagation dans le temps des fluctuations quantiques initiales de l’inflation en les traitant comme un bruit stochastique lorsqu’elles deviennent classiques et donc compatibles avec la Relativité Générale. Si cela fonctionne, cela me permettra de prédire la distribution des types de matière d’aujourd’hui dans l’univers, par exemple les motifs des amas et des galaxies, mais aussi de valider ou d’invalider certains types de débuts pour l’univers.\nSi cela reste flou, contactez-moi pour des questions ou méditez avec ces illustrations générées par chatGPT à partir des mots-clés de ma thèse ! Merci de votre lecture.\n\n\n\n\nMany thanks to A. McWhinnie for precious advice."
   },
   {
-    "objectID": "posts/GR24/GR24.html",
-    "href": "posts/GR24/GR24.html",
-    "title": "24th International Conference on General Relativity and Gravitation",
+    "objectID": "posts/Inflation25/Inflation25.html",
+    "href": "posts/Inflation25/Inflation25.html",
+    "title": "Inflation 2025, IAP’s 41st symposium",
     "section": "",
-    "text": "I went to Glasgow and gave a talk on Stochastic Inflation in Numerical Relativity and presented a poster titled When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view.\n\nRecord of the talk\n\n\n\nPoster"
+    "text": "I went to the Institute of Astrophysics of Paris and gave a talk on Stochastic Inflation in Numerical Relativity. The conference’s amphitheater was absolutely amazing and a lot of experts were attending! A lot of great discussions there for a whole week. Many thanks to the organisers!\n\n\n\n\n\n\n\n\nRecord of the talk"
   },
   {
-    "objectID": "myenv/Lib/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
+    "objectID": "posts/famelab/famelab.html",
+    "href": "posts/famelab/famelab.html",
+    "title": "My PhD in 3 minutes for the FameLab 2024 competition",
+    "section": "",
+    "text": "Video"
+  },
+  {
+    "objectID": "plots.html",
+    "href": "plots.html",
+    "title": "Plots",
+    "section": "",
+    "text": "(in progress) A place to make my scientific plots accessible to everyone\n\n\n\nAn example of energy density plot extracted from my simulations."
+  },
+  {
+    "objectID": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
+    "href": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "MIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "text": "Copyright (c) 2012-2023, Michael L. Waskom All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "href": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "BSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
-    "href": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
-    "title": "NCSA Open Source License",
-    "section": "",
-    "text": "This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
-  },
-  {
-    "objectID": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Everything worth expanding on: outreach, conferences, news…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nRecorded talk at online conference Early Universe From Home\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "My academic record",
-    "section": "",
-    "text": "Stochastic inflation in Numerical Relativity [in prep.],\nLaunay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "My academic record",
-    "section": "",
-    "text": "Stochastic inflation in Numerical Relativity [in prep.],\nLaunay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
-  },
-  {
-    "objectID": "about.html#talks-seminars-and-presentations",
-    "href": "about.html#talks-seminars-and-presentations",
-    "title": "My academic record",
-    "section": "Talks, seminars and presentations",
-    "text": "Talks, seminars and presentations\n\nStochastic Inflation in Numerical Relativity, GR24-Amaldi16 (July 2025).\nWhen to use semi-classical GR instead of QFT to probe cosmological correlation functions; a quantitative view (Poster), GR24-Amaldi16 (July 2025).\nStochastic Inflation beyond the analytic lamppost, CoBALt (June 2025).\nVacuum, quantum diffusion & non-perturbativity of inflaton using numerical relativity, Early Universe From Home 2025 (February 2025).\nStochastic inflation in numerical relativity, GRTL Collaboration Meeting (June 2024).\nStochastic inflation in full general relativity, UK Cosmology Meeting (May 2024).\nTowards reconciling cosmology, QFT, and general relativity through stochastic inflation, BritGrav24 (April 2024).\nTowards reconciling cosmology, QFT, and general relativity through stochastic inflation, GR seminar at DAMTP (February 2024).\nStochastic inflation in general and numerical relativity, Workshop talk at Cambridge-LMU meeting (December 2023).\nN-representable 1-electron RDM at non-zero temperatures, Conference speaker at IUCR25 congress (August 2021).\nSeminar speaker, Structures, Properties and Modeling of Solids Laboratory, Sept. 2020, CentraleSupélec.\nPoster, 2020 Quantum Crystallography Online Meeting.\n\nFind my slides here."
-  },
-  {
-    "objectID": "about.html#awards",
-    "href": "about.html#awards",
-    "title": "My academic record",
-    "section": "Awards",
-    "text": "Awards\n\nScientific image selected for the 2024 DiRAC calendar (2025).\nSmith-Knight and Rayleigh-Knight Prize laureate (June 2024).\nG-research private grant (March 2023).\n4 years International Fees Bursary (UKRI, 2022-2026).\n4 years Department Award (DAMTP, KICC and CDT, 2022-2026).\nJennings prize (Wolfson College, 2022).\nCentraleSupélec Alumni prize for school community contribution (2021).\nBest poster prize (Quantum Crystallography Online Meeting, 2020 conference).\nBaccalauréat Highest Distinction (2017).\n7th Team Prize at the National French Tournament of Young Mathematicians (2017)."
-  },
-  {
-    "objectID": "about.html#teaching",
-    "href": "about.html#teaching",
-    "title": "My academic record",
-    "section": "Teaching",
-    "text": "Teaching\n\nSupervisor, University of Cambridge\n\nPart II, General Relativity (by J. Evans): 4 pairs, 20h in total (2025).\nMPhil Data-intensive science, Machine Learning (by S. Krippendorf): 3 groups of 5, 16h in total (2024).\nPart II, Cosmology (by E.P.S. Shellard): 2 pairs, 10h in total (2024).\nPart II, General Relativity (by J. Evans): 3 pairs, 15h in total (2024).\nPart II, General Relativity (by A. Wall): 6 pairs, 24h in total (2023).\n\n\n\nPrivate independent teaching\n\nOlympic Maths prep. courses (2022)\nMaths courses for struggling pupils in highschool (2016-2021)"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "My academic record",
-    "section": "Education",
-    "text": "Education\n\nPhD, Department of Applied Maths and Theoretical Physics, University of Cambridge (2022-2026)\nNon-linear General Relativity for Stochastic Inflation, supervised by E.P.S. Shellard (DAMTP) and G. Rigopoulos (Newcastle University), advised by E. Pajer (DAMTP).\nMember of the Stephen Hawking Center for Theoretical Cosmology.\n2022 cohort of Center for Doctoral Training in Data Intensive Science.\nMember of the GRChombo collaboration.\n\n\nMASt in Physics, University of Cambridge (2021-2022)\nPart III Physics passed with Distinction.\nOptions in Particle Physics and Astrophysics.\nMaster Thesis, Primordial Non-Gaussianity from kinetic initial conditions for Inflation, supervised by W. Handley, examined by Prof. D. Queloz.\n\n\nCentraleSupélec Graduate Engineering School, Paris-Saclay University (2019-2022)\nStrong background in Mathematics, Physics, Programming, Management and Leadership.\nOptions in Advanced Physics and Mathematics, e.g. Quantum Physics, Fluid dynamics, Financial Mathematics etc.\nRanked top 5% out of 860 students. School ranked 2nd in France.\n\n\nBachelor and Master 1 in Fundamental Physics, Paris-Saclay University (2019-2021)\nOrsay’s night school in Fundamental Physics in parallel of my engineering school.\nOptions in Plasmas Physics, Nuclear Physics, Applied Quantum Physics, Lasers.\nRanked 1st of the night cohort.\n\n\nPhilosophy, Sorbonne University (2020-2021)\nUnassessed night school bachelor in Philosophy in parallel of my engineering school.\nOptions Philosophy of science, Metaphysics and Logic.\n\n\nScientific Preparatory Classes, Lycée George Clemenceau Nantes (2017-2019)\nTwo-years intensive course to prepare for the competitive national entrance exam to Graduate Engineering Schools in France.\nMathematics, Physics and Computer Science options. Highest distinction cohort."
-  },
-  {
-    "objectID": "about.html#references",
-    "href": "about.html#references",
-    "title": "My academic record",
-    "section": "References",
-    "text": "References\n\nDr. Parameswaran Kamalaruban, Featurespace, Cambridge. Website\nProf. Paul Shellard, DAMTP, University of Cambridge. Website\nDr. Gerasimos Rigopoulos, Newcastle University. Profile\nDr. Will Handley, Kavli Institute for Cosmology, University of Cambridge. Website\nDr. Jean-Baptiste Melin, CEA Paris-Saclay. InspireHEP\nProf. Jean-Michel Gillet, CentraleSupélec, Paris-Saclay University. LinkedIn"
-  },
-  {
-    "objectID": "carbon.html",
-    "href": "carbon.html",
-    "title": "Carbon",
-    "section": "",
-    "text": "Where I make myself carbon-transparent."
-  },
-  {
-    "objectID": "carbon.html#travels-work-in-progress",
-    "href": "carbon.html#travels-work-in-progress",
-    "title": "Carbon",
-    "section": "Travels [work in progress]",
-    "text": "Travels [work in progress]\nFlights in red, trains in blue.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
-  },
-  {
-    "objectID": "carbon.html#supercomputing-work-in-progress",
-    "href": "carbon.html#supercomputing-work-in-progress",
-    "title": "Carbon",
-    "section": "Supercomputing [work in progress]",
-    "text": "Supercomputing [work in progress]\nMy work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "I’m a PhD student in Quantum Cosmology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.\nOn this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nCuriosity.\n\n\n\n\n\n\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article.\n\n\n\n\n\nFeaturespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐\n\n\n\n\nEmail: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article."
-  },
-  {
-    "objectID": "index.html#they-financed-my-work-and-gave-me-support",
-    "href": "index.html#they-financed-my-work-and-gave-me-support",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "Featurespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Welcome to my personal website",
-    "section": "",
-    "text": "Email: yl844@cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
     "objectID": "media.html",
@@ -294,39 +196,144 @@
     "text": "Interviews\nInterview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting."
   },
   {
-    "objectID": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Doctor who?",
+    "section": "",
+    "text": "Hi! I’m Yoann and I’m a PhD student in Early Universe Cosmology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.\nOn this website, you will be able to find out more about:\n\nMy personal path if you wonder or prospect.\nMaterial/Information if you are one of my students.\nMy everyday Physics if you bother.\nMore Physics if you’re starting from scratches.\nMy own curiosities.\n\n\n\n\n\n\n\n\nIn front of DAMTP, Cambridge.\n\n\n\n\n\n\n\n\nPresenting my work in Paris.\n\n\n\nAs a Norman born in Brittany and raised in a city with an undefined identity (is Nantes a Breton land? It is the millennium question), Yoann was perhaps fated for problems. His first encounter with space, and most importantly cosmology, was NOT while watching the stars, an apple falling from a tree, a rocket launching, or while reading A Brief History of Time. Yoann simply doesn’t remember, because he just likes to learn a lot and has limited storage space. You can identify him as a fraud French, self-proclaimed Viking, who doesn’t want to talk about croissants and Paris at the first occasion.\nAfter realising that zookeeper was not his destiny, that heart surgeon would take too long to study, and that politics… well, anyway, he decided to do something involving maths. (!Nerd alert!) Maths were comforting and felt right, until an existential overdose when he realised that maybe he liked it mainly as a tool to answer day-to-day questions. He had a great time doing Physics in a Grande École in Paris, followed by a master’s in Cambridge. He started his academic research journey at the former, where he worked on reconstructing the quantum structure of crystals. In Cambridge, he started looking into theoretical physics, and eventually his own series of ?why? questions converged (or diverged?) towards asking ?how? about the whole thing (more commonly called the Universe).\nIn the past 3+ years, Yoann has studied the early, fast-expanding universe by extending Einstein’s equations of General Relativity to fluctuations generated by the quantum vacuum. In this process, he has also looked at the classicalisation of spacetime correlations and has produced and run cutting-edge simulations of the inflating universe (and still does). Pen, paper and supercomputer is a lovely routine of his.\nAfter work, Yoann goes to sleep. But before that, cooking his meal is usually the highlight of the day, when not topped by learning guitar for the billionth time. As a standard STEM cliché, Yoann is also into hiking and bouldering. Beyond that, what is there to say, beyond the fact that entropy is non-decreasing."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Doctor who?",
+    "section": "News",
+    "text": "News\n\n(16/12/2025) My fourth PhD article is out! see preprint. The final proof of concept of my PhD project is now in the wild.\n(4/10/2025 to hopefully soon) Postdoc applications in progress…\n(3/10/2025) End of a great placement, closing with a paper sent to a Machine Learning conerence! see submission.\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue n°58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue n°57 here (page 5).\n(7/04/2023) G-research grant obtained! see article."
+  },
+  {
+    "objectID": "index.html#they-financed-or-supported-my-work",
+    "href": "index.html#they-financed-or-supported-my-work",
+    "title": "Doctor who?",
+    "section": "They financed or supported my work",
+    "text": "They financed or supported my work\n\nFeaturespace 🌐\nDiRAC UK 🌐\nDAMTP 🌐\nG-Research 🌐\nData-intensive CDT Program 🌐\nUKRI 🌐\nWolfson College 🌐"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Doctor who?",
+    "section": "Contact",
+    "text": "Contact\nEmail: yl844 at cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+  },
+  {
+    "objectID": "carbon.html",
+    "href": "carbon.html",
+    "title": "Carbon",
+    "section": "",
+    "text": "Where I make my professional self carbon-transparent. Beyond transports and supercomputing, it’s difficult to count precisely but also not as important."
+  },
+  {
+    "objectID": "carbon.html#travels",
+    "href": "carbon.html#travels",
+    "title": "Carbon",
+    "section": "Travels",
+    "text": "Travels\nFlights in red, trains in blue.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
+  },
+  {
+    "objectID": "carbon.html#supercomputing",
+    "href": "carbon.html#supercomputing",
+    "title": "Carbon",
+    "section": "Supercomputing",
+    "text": "Supercomputing\nMy work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still! Ideally, one citizen should be aiming for ~2 tons of CO2 emissions per year for day-to-day life."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My academic record",
+    "section": "",
+    "text": "Stochastic inflation in Numerical Relativity, Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "My academic record",
+    "section": "",
+    "text": "Stochastic inflation in Numerical Relativity, Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
+  },
+  {
+    "objectID": "about.html#talks-seminars-and-presentations",
+    "href": "about.html#talks-seminars-and-presentations",
+    "title": "My academic record",
+    "section": "Talks, seminars and presentations",
+    "text": "Talks, seminars and presentations\n\nStochastic Inflation in Numerical Relativity, Inflation 2025, 41st IAP symposium (December 2025).\nStochastic Inflation in Numerical Relativity, GR24-Amaldi16 (July 2025).\nWhen to use semi-classical GR instead of QFT to probe cosmological correlation functions; a quantitative view (Poster), GR24-Amaldi16 (July 2025).\nStochastic Inflation beyond the analytic lamppost, CoBALt (June 2025).\nVacuum, quantum diffusion & non-perturbativity of inflaton using numerical relativity, Early Universe From Home 2025 (February 2025).\nStochastic inflation in numerical relativity, GRTL Collaboration Meeting (June 2024).\nStochastic inflation in full general relativity, UK Cosmology Meeting (May 2024).\nTowards reconciling cosmology, QFT, and general relativity through stochastic inflation, BritGrav24 (April 2024).\nTowards reconciling cosmology, QFT, and general relativity through stochastic inflation, GR seminar at DAMTP (February 2024).\nStochastic inflation in general and numerical relativity, Workshop talk at Cambridge-LMU meeting (December 2023).\nN-representable 1-electron RDM at non-zero temperatures, Conference speaker at IUCR25 congress (August 2021).\nSeminar speaker, Structures, Properties and Modeling of Solids Laboratory, Sept. 2020, CentraleSupélec.\nPoster, 2020 Quantum Crystallography Online Meeting.\n\nFind my slides here."
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "My academic record",
+    "section": "Awards",
+    "text": "Awards\n\nScientific image selected for the 2024 DiRAC calendar (2025).\nSmith-Knight and Rayleigh-Knight Prize laureate (June 2024).\nG-research private grant (March 2023).\n4 years International Fees Bursary (UKRI, 2022-2026).\n4 years Department Award (DAMTP, KICC and CDT, 2022-2026).\nJennings prize (Wolfson College, 2022).\nCentraleSupélec Alumni prize for school community contribution (2021).\nBest poster prize (Quantum Crystallography Online Meeting, 2020 conference).\nBaccalauréat Highest Distinction (2017).\n7th Team Prize at the National French Tournament of Young Mathematicians (2017)."
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "My academic record",
+    "section": "Teaching",
+    "text": "Teaching\n\nSupervisor, University of Cambridge\n\nMPhil Data-intensive science, Machine Learning (by S. Krippendorf): 3 groups of 5, 16h in total (2025).\nPart II, General Relativity (by J. Evans): 4 pairs, 20h in total (2025).\nMPhil Data-intensive science, Machine Learning (by S. Krippendorf): 3 groups of 5, 16h in total (2024).\nPart II, Cosmology (by E.P.S. Shellard): 2 pairs, 10h in total (2024).\nPart II, General Relativity (by J. Evans): 3 pairs, 15h in total (2024).\nPart II, General Relativity (by A. Wall): 6 pairs, 24h in total (2023).\n\n\n\nPrivate independent teaching\n\nOlympic Maths prep. courses (2022)\nMaths courses for struggling pupils in highschool (2016-2021)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "My academic record",
+    "section": "Education",
+    "text": "Education\n\nPhD, Department of Applied Maths and Theoretical Physics, University of Cambridge (2022-2026)\nNon-linear General Relativity for Stochastic Inflation, supervised by E.P.S. Shellard (DAMTP) and G. Rigopoulos (Newcastle University), advised by E. Pajer (DAMTP).\nMember of the Stephen Hawking Center for Theoretical Cosmology.\n2022 cohort of Center for Doctoral Training in Data Intensive Science.\nMember of the GRChombo collaboration.\n\n\nMASt in Physics, University of Cambridge (2021-2022)\nPart III Physics passed with Distinction.\nOptions in Particle Physics and Astrophysics.\nMaster Thesis, Primordial Non-Gaussianity from kinetic initial conditions for Inflation, supervised by W. Handley, examined by Prof. D. Queloz.\n\n\nCentraleSupélec Graduate Engineering School, Paris-Saclay University (2019-2022)\nStrong background in Mathematics, Physics, Programming, Management and Leadership.\nOptions in Advanced Physics and Mathematics, e.g. Quantum Physics, Fluid dynamics, Financial Mathematics etc.\nRanked top 5% out of 860 students. School ranked 2nd in France.\n\n\nBachelor and Master 1 in Fundamental Physics, Paris-Saclay University (2019-2021)\nOrsay’s night school in Fundamental Physics in parallel of my engineering school.\nOptions in Plasmas Physics, Nuclear Physics, Applied Quantum Physics, Lasers.\nRanked 1st of the night cohort.\n\n\nPhilosophy, Sorbonne University (2020-2021)\nUnassessed night school bachelor in Philosophy in parallel of my engineering school.\nOptions Philosophy of science, Metaphysics and Logic.\n\n\nScientific Preparatory Classes, Lycée George Clemenceau Nantes (2017-2019)\nTwo-years intensive course to prepare for the competitive national entrance exam to Graduate Engineering Schools in France.\nMathematics, Physics and Computer Science options. Highest distinction cohort."
+  },
+  {
+    "objectID": "about.html#references",
+    "href": "about.html#references",
+    "title": "My academic record",
+    "section": "References",
+    "text": "References\n\nDr. Parameswaran Kamalaruban, Featurespace, Cambridge. Website\nProf. Paul Shellard, DAMTP, University of Cambridge. Website\nDr. Gerasimos Rigopoulos, Newcastle University. Profile\nDr. Will Handley, Kavli Institute for Cosmology, University of Cambridge. Website\nDr. Jean-Baptiste Melin, CEA Paris-Saclay. InspireHEP\nProf. Jean-Michel Gillet, CentraleSupélec, Paris-Saclay University. LinkedIn"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Everything worth expanding on: outreach, conferences, news…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInflation 2025, IAP’s 41st symposium\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nDec 6, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\n24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nRecorded talk at online conference Early Universe From Home\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
-    "href": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
+    "href": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
+    "title": "NCSA Open Source License",
+    "section": "",
+    "text": "This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
+  },
+  {
+    "objectID": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
   },
   {
-    "objectID": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
-    "href": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
+    "objectID": "myenv/Lib/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
+    "href": "myenv/Lib/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
     "title": "Yoann Launay",
     "section": "",
-    "text": "Copyright (c) 2012-2023, Michael L. Waskom All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "MIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "plots.html",
-    "href": "plots.html",
-    "title": "Plots",
+    "objectID": "posts/GR24/GR24.html",
+    "href": "posts/GR24/GR24.html",
+    "title": "24th International Conference on General Relativity and Gravitation",
     "section": "",
-    "text": "(in progress) A place to make my scientific plots accessible to everyone\n\n\n\nAn example of energy density plot extracted from my simulations."
-  },
-  {
-    "objectID": "posts/famelab/famelab.html",
-    "href": "posts/famelab/famelab.html",
-    "title": "My PhD in 3 minutes for the FameLab 2024 competition",
-    "section": "",
-    "text": "Video"
+    "text": "I went to Glasgow and gave a talk on Stochastic Inflation in Numerical Relativity and presented a poster titled When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view.\n\nRecord of the talk\n\n\n\nPoster"
   },
   {
     "objectID": "posts/mythesis/mythesis.html",
@@ -434,18 +441,18 @@
     "text": "A more semi-detailed page on my different interests of the past or today."
   },
   {
-    "objectID": "research.html#non-linear-general-relativity-for-stochastic-inflation-quantum-cosmology",
-    "href": "research.html#non-linear-general-relativity-for-stochastic-inflation-quantum-cosmology",
+    "objectID": "research.html#non-linear-general-relativity-for-stochastic-inflation-early-universe-cosmology",
+    "href": "research.html#non-linear-general-relativity-for-stochastic-inflation-early-universe-cosmology",
     "title": "Research",
-    "section": "Non-Linear General Relativity for Stochastic Inflation (Quantum Cosmology)",
-    "text": "Non-Linear General Relativity for Stochastic Inflation (Quantum Cosmology)\nPhD, 2022-2026, DAMTP, University of Cambridge.\n\nAbstract for professionals\n\nMy PhD project will advance the early universe theory of inflation, which explains the origin of galaxies and large-scale structure in the Universe, by developing stochastic methods with nonlinear evolution to make quantitative statistical predictions from inflationary models. Non-Gaussian signatures are inherently present in primordial fluctuations due to the non-linearities produced by both general relativity and the fact that the inflaton potential responsible for driving inflation may be interacting.\nThe goal of this project is to analytically and numerically model nonlinear inflationary dynamics in order to make bispectrum and higher-order correlator predictions which encompass a much broader range of inflationary scenarios, including those with multiple fields. This is an important discriminant between competing inflation models that can be used to distinguish them observationally.\nAn important element of the project will be to exploit the new GRChombo numerical relativity pipeline to model these nonlinear effects using full 3D general relativistic simulations, comparing the results with perturbative analytic expectations from effective field theory. In the last years, consequent insights have been made by the DAMTP cosmology group lead by Dr. Paul Shellard, now able to constrain a wide range of these models by using innovative separable techniques to extract and reconstruct the bispectrum (three-point correlator) from Planck satellite maps of the cosmic microwave background (CMB). Direct confrontation with new observational data sets, from both CMB experiments (Simons Observatory) and galaxy surveys (SDSS, DES etc), will guide and constrain the understanding of inflation in fundamental physics. Stochastic nonlinear methods have other wide-ranging applications, including the creation of primordial black holes and the generation of gravitational waves in the early universe.\n\n\n\nAbstract for newcomers\n\nI work on the cosmology of the early universe. This means finding the best mathematical description of the first few seconds of the universe, considering it as a dynamic system, and testing the predictions of this model against real astrophysical data. In particular, I will predict the distribution in space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation. Inflationrefers to the first instants of the universe which allowed an exponential growth of its size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies against empty millions of light years.\nThere is a time at which those perturbations are big enough to be accounted for with the rival theory of quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By doing so, I hope to support the growing link between these two theories (Quantum Physics and General Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo collaboration which develops such code."
+    "section": "Non-Linear General Relativity for Stochastic Inflation (Early Universe Cosmology)",
+    "text": "Non-Linear General Relativity for Stochastic Inflation (Early Universe Cosmology)\nPhD, 2022-2026, DAMTP, University of Cambridge.\n\nAbstract for professionals\n\nMy PhD project will advance the early universe theory of inflation, which explains the origin of galaxies and large-scale structure in the Universe, by developing stochastic methods with nonlinear evolution to make quantitative statistical predictions from inflationary models. Non-Gaussian signatures are inherently present in primordial fluctuations due to the non-linearities produced by both general relativity and the fact that the inflaton potential responsible for driving inflation may be interacting.\nThe goal of this project is to analytically and numerically model nonlinear inflationary dynamics in order to make bispectrum and higher-order correlator predictions which encompass a much broader range of inflationary scenarios, including those with multiple fields. This is an important discriminant between competing inflation models that can be used to distinguish them observationally.\nAn important element of the project will be to exploit the new GRChombo numerical relativity pipeline to model these nonlinear effects using full 3D general relativistic simulations, comparing the results with perturbative analytic expectations from effective field theory. In the last years, consequent insights have been made by the DAMTP cosmology group lead by Dr. Paul Shellard, now able to constrain a wide range of these models by using innovative separable techniques to extract and reconstruct the bispectrum (three-point correlator) from Planck satellite maps of the cosmic microwave background (CMB). Direct confrontation with new observational data sets, from both CMB experiments (Simons Observatory) and galaxy surveys (SDSS, DES etc), will guide and constrain the understanding of inflation in fundamental physics. Stochastic nonlinear methods have other wide-ranging applications, including the creation of primordial black holes and the generation of gravitational waves in the early universe.\n\n\n\nAbstract for newcomers\n\nI work on the cosmology of the early universe. This means finding the best mathematical description of the first few seconds of the universe, considering it as a dynamic system, and testing the predictions of this model against real astrophysical data. In particular, I will predict the distribution in space of the different types of energy and matter at any time using a promising theory called Stochastic Inflation. Inflationrefers to the first instants of the universe which allowed an exponential growth of its size – and since then, the universe kept expanding. Stochastic refers to the mathematical description of the early universe’s quantum fluctuations; random fluctuations of energy in the initial vacuum propagated in time and produced an inhomogeneous universe; e.g. today super cluster of galaxies against empty millions of light years.\nThere is a time at which those perturbations are big enough to be accounted for with the rival theory of quantum physics: the General Relativity of Albert Einstein, which describes gravity between massive objects (e.g.; solar system; you and the Earth). We can make predictions about the future of these growing quantum perturbations from an Inflation model by using a numerical simulation of gravity. By doing so, I hope to support the growing link between these two theories (Quantum Physics and General Relativity). This requires ambitious simulation software, and so I am a member of the GRChombo collaboration which develops such code."
   },
   {
-    "objectID": "research.html#slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe-quantum-cosmology",
-    "href": "research.html#slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe-quantum-cosmology",
+    "objectID": "research.html#slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe-early-universe-cosmology",
+    "href": "research.html#slow-roll-oscillating-non-gaussianities-from-singular-kinetic-pre-inflationary-universe-early-universe-cosmology",
     "title": "Research",
-    "section": "Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Quantum Cosmology)",
-    "text": "Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Quantum Cosmology)\nMaster Thesis, 2021-2022, Cavendish Laboratory, University of Cambridge.\n\nAbstract for professionals\n\nModern inflation theory is based on Mukhanov-Sasaki equations which give a perturbative framework to propagate initial quantum fluctuations as sources of the Cosmic Microwave Background (CMB) anisotropies encountered at the recombination epoch. Following previous work on initial conditions for the power spectrum, this work extends the kinetic pre-inflation model to the derivation of the primordial bispectrum, related to 3-point correlations. We derive here the main perturbations contributing to the bispectrum thanks to the In-In formalism for different initial conditions of a simple constant slow-roll and single-field inflation. In addition to an oscillating locally-shaped bispectrum, it is found that the dependence on the time and nature of the transition between pre-inflation and inflation is strong. As a main result, UV and IR divergences are encountered for the non-Gaussianities, showed to be independent of the choice of the vacuum and so treated within the assumption of an old transition time compared to the experimental cutoff.\n\n\n\nAbstract for newcomers\n\nThis work studied a particular model of initial conditions for the universe, i.e. of a type of inflationary universe. While most models don’t incorporate any origin and focus on the inflation process itself, this model combine both aspects by providing an initial singularity at the start and then propagates the subsequent universe into a “kinetic” era before transitioning to the usual models with a stable inflation of the apparent size of the universe.\nAs this is quite a peculiar formulation, usual mathematical tools to compute post-inflation observable quantities need some careful study. This is what we did to compute the correlation between each 3 points of the sky at the time of the Hot Big-Bang following Inflation."
+    "section": "Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Early Universe Cosmology)",
+    "text": "Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Early Universe Cosmology)\nMaster Thesis, 2021-2022, Cavendish Laboratory, University of Cambridge.\n\nAbstract for professionals\n\nModern inflation theory is based on Mukhanov-Sasaki equations which give a perturbative framework to propagate initial quantum fluctuations as sources of the Cosmic Microwave Background (CMB) anisotropies encountered at the recombination epoch. Following previous work on initial conditions for the power spectrum, this work extends the kinetic pre-inflation model to the derivation of the primordial bispectrum, related to 3-point correlations. We derive here the main perturbations contributing to the bispectrum thanks to the In-In formalism for different initial conditions of a simple constant slow-roll and single-field inflation. In addition to an oscillating locally-shaped bispectrum, it is found that the dependence on the time and nature of the transition between pre-inflation and inflation is strong. As a main result, UV and IR divergences are encountered for the non-Gaussianities, showed to be independent of the choice of the vacuum and so treated within the assumption of an old transition time compared to the experimental cutoff.\n\n\n\nAbstract for newcomers\n\nThis work studied a particular model of initial conditions for the universe, i.e. of a type of inflationary universe. While most models don’t incorporate any origin and focus on the inflation process itself, this model combine both aspects by providing an initial singularity at the start and then propagates the subsequent universe into a “kinetic” era before transitioning to the usual models with a stable inflation of the apparent size of the universe.\nAs this is quite a peculiar formulation, usual mathematical tools to compute post-inflation observable quantities need some careful study. This is what we did to compute the correlation between each 3 points of the sky at the time of the Hot Big-Bang following Inflation."
   },
   {
     "objectID": "research.html#optimal-combination-of-the-spatial-correlation-function-and-galaxy-cluster-counts-cosmology",

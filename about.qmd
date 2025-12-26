@@ -5,10 +5,10 @@ title: "My academic record"
 
 ## Publications
   
-- [*Stochastic inflation in Numerical Relativity [in prep.],*]()  
+- [*Stochastic inflation in Numerical Relativity*,](https://arxiv.org/abs/2512.14649)
   Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.
 
-- [*Episodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],*]()  
+- [*Episodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],*](https://openreview.net/forum?id=PSx10YdkYB&referrer=%5Bthe%20profile%20of%20Yoann%20Launay%5D(%2Fprofile%3Fid%3D~Yoann_Launay1))  
   Launay Y., Kamalaruban P. 2025.
 
 - [*Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,*](https://arxiv.org/abs/2502.06783)  
@@ -27,6 +27,8 @@ title: "My academic record"
   Launay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694.
 
 ## Talks, seminars and presentations
+
+- *Stochastic Inflation in Numerical Relativity*, Inflation 2025, 41st IAP symposium (December 2025).
 
 - *Stochastic Inflation in Numerical Relativity*, GR24-Amaldi16 (July 2025).
 
@@ -79,6 +81,8 @@ Find my slides [*here*](https://drive.google.com/drive/folders/1pCKKSztJ3ENJ_z2X
 ## Teaching
 
 ### Supervisor, University of Cambridge
+
+- MPhil Data-intensive science, Machine Learning (by S. Krippendorf): 3 groups of 5, 16h in total (2025).
 
 - Part II, General Relativity (by J. Evans): 4 pairs, 20h in total (2025).
 

@@ -2,9 +2,9 @@
 title: Carbon
 jupyter: python3
 ---
-Where I make myself carbon-transparent.
+Where I make my professional self carbon-transparent. Beyond transports and supercomputing, it's difficult to count precisely but also not as important.
 
-## Travels [work in progress]
+## Travels
 Flights in red, trains in blue.
 ```{python}
 #| echo: false
@@ -66,8 +66,8 @@ for _, row in df[df["name"]!="DAMTP"].iterrows():
 m
 ```
 
-## Supercomputing [work in progress]
-My work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still!
+## Supercomputing
+My work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still! Ideally, one citizen should be aiming for ~2 tons of CO2 emissions per year for day-to-day life.
 
 ```{python}
 #| echo: false
@@ -84,9 +84,8 @@ df["date"] = pd.to_datetime(df["date"], errors="coerce").fillna(df["date"])
 
 # Group emissions by year
 df["year"] = df["date"].dt.year
-yearly = df.groupby("year")["emissions_kg"].sum().reset_index()
-# Convert to tCO2
-yearly["emissions_tons"] = yearly["emissions_kg"] /1000
+df["emissions_tons"] = df["hours"]*df["kWh"]*df["gCO2perkWh"]*df["PUE"]/1e6 #units in tCO2
+yearly = df.groupby("year")["emissions_tons"].sum().reset_index()
 
 norm = plt.Normalize(yearly["emissions_tons"].min(), 2)
 colors = plt.cm.Reds(norm(yearly["emissions_tons"]))
@@ -97,8 +96,8 @@ sns.set_theme(palette="pastel")
 sns.barplot(x="year", y="emissions_tons", data=yearly, palette=colors)
 plt.xlabel("Year")
 plt.ylabel("Emissions (CO2 tons)")
-plt.title("Carbon Emissions [temporary fake data]")
 plt.xticks(rotation=45)
 plt.tight_layout()
+plt.gcf().set_dpi(200)
 plt.show()
 ```

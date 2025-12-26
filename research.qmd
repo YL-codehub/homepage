@@ -5,7 +5,7 @@ toc: true
 
 A more semi-detailed page on my different interests of the past or today.
 
-## Non-Linear General Relativity for Stochastic Inflation (Quantum Cosmology)
+## Non-Linear General Relativity for Stochastic Inflation (Early Universe Cosmology)
 
 PhD, 2022-2026, DAMTP, University of Cambridge.
 
@@ -65,7 +65,7 @@ Relativity). This requires ambitious simulation software, and so I am a member o
 collaboration which develops such code.
 :::
 
-## Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Quantum Cosmology)
+## Slow-roll oscillating non-Gaussianities from singular kinetic pre-inflationary universe (Early Universe Cosmology)
 
 Master Thesis, 2021-2022, Cavendish Laboratory, University of Cambridge.    
 

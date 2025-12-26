@@ -9,18 +9,34 @@ format:
 
 ## Row
 ::: {.card fill=false expandable="false"}
+### December 2025
+![Portsmouth from the ferry to France, bye 2025...](/images/portsmouth.jpg){width=100% title="Yoann Launay, Dec. 2025."}
+:::
+
+::: {.card fill=false expandable="false"}
+### December 2025
+![Inflation 2025 conference, Institut d'Astrophysique de Paris.](/images/inflation25.JPG){width=100% title="Yoann Launay, Dec. 2025."}
+:::
+
+::: {.card fill=false expandable="false"}
 ### September 2025
-![Cambridge-LMU meeting, with hotel randomly next to Einstein's youth house...](/images/einstein_munich.jpg){width=50% title="Yoann Launay, Dec. 2022."}
+![Cambridge-LMU meeting II, Universitäts-Sternwarte München](/images/observatory.jpg){width=100% title="Yoann Launay, june 2025."}
+:::
+
+## Row
+::: {.card fill=false expandable="false"}
+### September 2025
+![Cambridge-LMU meeting, with hotel randomly next to Einstein's youth house...](/images/einstein_munich.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 :::
 
 ::: {.card fill=false expandable="false"}
 ### July 2025
-![International GR24-Amaldi16 conference in Glasgow](/images/gr24.jpg){width=50% title="Yoann Launay, Dec. 2022."}
+![International GR24-Amaldi16 conference in Glasgow](/images/gr24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 :::
 
 ::: {.card fill=false expandable="false"}
 ### June 2025
-![CoBALt conference dinner in Paris.](/images/cobalt.MOV){width=40% title="Yoann Launay, june 2025."}
+![CoBALt conference dinner on the Seine.](/images/cobalt.MOV){width=75% title="Yoann Launay, june 2025."}
 :::
 
 

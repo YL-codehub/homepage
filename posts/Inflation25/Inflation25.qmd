@@ -14,7 +14,7 @@ image: ../../images/inflation25.jpg
 I went to the Institute of Astrophysics of Paris and gave a talk on *Stochastic Inflation in Numerical Relativity*. The conference's amphitheater was absolutely amazing and a lot of experts were attending! A lot of great discussions there for a whole week. Many thanks to the organisers!
 
 ::: center
-![](../../images/inflation25.JPG){width=30% fig-align="center"}
+![](../../images/inflation25.jpg){width=30% fig-align="center"}
 :::
 ### Record of the talk
 {{< video

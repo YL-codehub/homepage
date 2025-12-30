@@ -26,7 +26,7 @@ On this website, you will be able to find out more about:
 
 :::
 
-![Presenting my work in Paris.](/images/inflation25.JPG){style="padding-right:10%;"}
+![Presenting my work in Paris.](/images/inflation25.jpg){style="padding-right:10%;"}
 :::
 
 ::: {.column width="65%"}

@@ -5,6 +5,7 @@ project:
 website:
   title: "Yoann Launay"
   description: "PhD student in Quantum Cosmology at Cambridge DAMTP"
+  site-url: https://www.yoannlaunay.com
   
   navbar:
     background: light

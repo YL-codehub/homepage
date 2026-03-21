@@ -15,7 +15,7 @@ format:
 
 ::: {.card fill=false expandable="false"}
 ### December 2025
-![Inflation 2025 conference, Institut d'Astrophysique de Paris.](/images/inflation25.JPG){width=100% title="Yoann Launay, Dec. 2025."}
+![Inflation 2025 conference, Institut d'Astrophysique de Paris.](/images/inflation25.jpg){width=100% title="Yoann Launay, Dec. 2025."}
 :::
 
 ::: {.card fill=false expandable="false"}

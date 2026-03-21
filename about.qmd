@@ -2,6 +2,7 @@
 title: "My academic record"
 ---
 
+[Download my CV](Yoann_Levis_Launay_CV_latest.pdf){.btn .btn-outline-primary download="Yoann_Launay_CV.pdf"}
 
 ## Publications
   

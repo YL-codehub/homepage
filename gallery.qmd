@@ -9,6 +9,22 @@ format:
 
 ## Row
 ::: {.card fill=false expandable="false"}
+### March 2026 II
+![A sunny walk on my way to a talk for Queen Mary University](/images/london_mar26.jpeg){width=100% title="Yoann Launay, March 2026."}
+:::
+
+::: {.card fill=false expandable="false"}
+### March 2026
+![Talk at the London Institute for Mathematical Sciences, Faraday's ghost attending](/images/lims_mar26.JPG){width=100% title="Yoann Launay, March 2026."}
+:::
+
+::: {.card fill=false expandable="false"}
+### February 2026
+![Formal night at Peterhouse](/images/peterhouse_feb26.jpeg){width=100% title="Yoann Launay, Feb. 2026."}
+:::
+
+## Row
+::: {.card fill=false expandable="false"}
 ### December 2025
 ![Portsmouth from the ferry to France, bye 2025...](/images/portsmouth.jpg){width=100% title="Yoann Launay, Dec. 2025."}
 :::

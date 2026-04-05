@@ -1,7 +1,19 @@
 ---
 title: "Plots"
+format:
+  dashboard:
+    orientation: rows
+    scrolling: true 
 ---
+# A place to make my scientific plots accessible to everyone. More to come!
 
-(in progress) A place to make my scientific plots accessible to everyone
+## Row
 
-![An example of energy density plot extracted from my simulations.](/images/quad__cube_rho_N3-91.png){fig-align="center"}
+::: {.card fill=false expandable="false"}
+### A young patch of the universe
+<video autoplay loop muted playsinline width="100%">
+  <source src="/images/universe_box.mp4" type="video/mp4">
+</video>
+This is the output of one of my simulations, showing how quantum fluctuations of the vacuum emerge in time. In this representation, the physical distance of each pixel increases exponentially because of the expansion.
+:::
+

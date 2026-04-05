@@ -126,13 +126,6 @@
     "text": "“Relativité Générale non-Linéaire pour l’inflation stochastique”\n\n\n\n\n\nVous avez maintenant tout ce dont vous avez besoin pour comprendre ma thèse de doctorat. Parce que la relativité générale et la physique quantique ne sont pas compatibles mais échangent des phénomènes, je veux étudier la propagation dans le temps des fluctuations quantiques initiales de l’inflation en les traitant comme un bruit stochastique lorsqu’elles deviennent classiques et donc compatibles avec la Relativité Générale. Si cela fonctionne, cela me permettra de prédire la distribution des types de matière d’aujourd’hui dans l’univers, par exemple les motifs des amas et des galaxies, mais aussi de valider ou d’invalider certains types de débuts pour l’univers.\nSi cela reste flou, contactez-moi pour des questions ou méditez avec ces illustrations générées par chatGPT à partir des mots-clés de ma thèse ! Merci de votre lecture.\n\n\n\n\nMany thanks to A. McWhinnie for precious advice."
   },
   {
-    "objectID": "posts/Inflation25/Inflation25.html",
-    "href": "posts/Inflation25/Inflation25.html",
-    "title": "Inflation 2025, IAP’s 41st symposium",
-    "section": "",
-    "text": "I went to the Institute of Astrophysics of Paris and gave a talk on Stochastic Inflation in Numerical Relativity. The conference’s amphitheater was absolutely amazing and a lot of experts were attending! A lot of great discussions there for a whole week. Many thanks to the organisers!\n\n\n\n\n\n\n\n\nRecord of the talk"
-  },
-  {
     "objectID": "posts/famelab/famelab.html",
     "href": "posts/famelab/famelab.html",
     "title": "My PhD in 3 minutes for the FameLab 2024 competition",
@@ -140,123 +133,32 @@
     "text": "Video"
   },
   {
-    "objectID": "plots.html",
-    "href": "plots.html",
-    "title": "Plots",
+    "objectID": "posts/GR24/GR24.html",
+    "href": "posts/GR24/GR24.html",
+    "title": "24th International Conference on General Relativity and Gravitation",
     "section": "",
-    "text": "(in progress) A place to make my scientific plots accessible to everyone\n\n\n\nAn example of energy density plot extracted from my simulations."
+    "text": "I went to Glasgow and gave a talk on Stochastic Inflation in Numerical Relativity and presented a poster titled When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view.\n\nRecord of the talk\n\n\n\nPoster"
   },
   {
-    "objectID": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
-    "href": "myenv/Lib/site-packages/seaborn-0.13.2.dist-info/LICENSE.html",
-    "title": "Yoann Launay",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Copyright (c) 2012-2023, Michael L. Waskom All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
-  },
-  {
-    "objectID": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
-    "href": "myenv/Lib/site-packages/idna-3.10.dist-info/LICENSE.html",
-    "title": "Yoann Launay",
-    "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
-  },
-  {
-    "objectID": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
-    "title": "Yoann Launay",
-    "section": "",
-    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
-  },
-  {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Media",
-    "section": "",
-    "text": "Some appearances out there"
-  },
-  {
-    "objectID": "media.html#articles-i-wrote",
-    "href": "media.html#articles-i-wrote",
-    "title": "Media",
-    "section": "Articles I wrote",
-    "text": "Articles I wrote\nTheory of everything, including us, Bluesci n°59 (p20-21), Easter 2024.\nCosmic connections, Bluesci n°58 (p26-27), Lent 2023.\nBook review of On the Origin of Time by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023."
-  },
-  {
-    "objectID": "media.html#articles-about-my-work",
-    "href": "media.html#articles-about-my-work",
-    "title": "Media",
-    "section": "Articles about my work",
-    "text": "Articles about my work\nArticle about our use of Intel tech for simulating the universe\nG-Research March 2023 Grant Winners where I am featured"
-  },
-  {
-    "objectID": "media.html#interviews",
-    "href": "media.html#interviews",
-    "title": "Media",
-    "section": "Interviews",
-    "text": "Interviews\nInterview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Researcher in Theoretical Cosmology",
-    "section": "",
-    "text": "Outside DAMTP in Cambridge\n\n\n\n\n\n\n\n\nPresenting inflation research in Paris\n\n\n\nAs a Norman born in Brittany and raised in a city with an undefined identity (is Nantes a Breton land? It is the millennium question), Yoann was perhaps fated for problems. His first encounter with space, and most importantly cosmology, was NOT while watching the stars, an apple falling from a tree, a rocket launching, or while reading A Brief History of Time. Yoann simply doesn’t remember, because he just likes to learn a lot and has limited storage space. You can identify him as a fraud French, self-proclaimed Viking, who doesn’t want to talk about croissants and Paris at the first occasion.\nAfter realising that zookeeper was not his destiny, that heart surgeon would take too long to study, and that politics… well, anyway, he decided to do something involving maths. (!Nerd alert!) Maths were comforting and felt right, until an existential overdose when he realised that maybe he liked it mainly as a tool to answer day-to-day questions. He had a great time doing Physics in a Grande Ecole in Paris, followed by a master’s in Cambridge. He started his academic research journey at the former, where he worked on reconstructing the quantum structure of crystals. In Cambridge, he started looking into theoretical physics, and eventually his own series of why? questions converged (or diverged?) towards asking how? about the whole thing (more commonly called the Universe).\nIn the past 3+ years, Yoann has studied the early, fast-expanding universe by extending Einstein’s equations of General Relativity to fluctuations generated by the quantum vacuum. In this process, he has also looked at the classicalisation of spacetime correlations and has produced and run cutting-edge simulations of the inflating universe (and still does). Pen, paper and supercomputer is a lovely routine of his.\nAfter work, Yoann goes to sleep. But before that, cooking his meal is usually the highlight of the day, when not topped by learning guitar for the billionth time. As a standard STEM cliche, Yoann is also into hiking and bouldering. Beyond that, what is there to say, beyond the fact that entropy is non-decreasing."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Researcher in Theoretical Cosmology",
-    "section": "News",
-    "text": "News\n\n(16/12/2025) My fourth PhD article is out! see preprint. The final proof of concept of my PhD project is now in the wild.\n(4/10/2025 to hopefully soon) Postdoc applications in progress…\n(3/10/2025) End of a great placement, closing with a paper sent to a Machine Learning conference! see submission.\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue no. 58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue no. 57 here (page 5).\n(7/04/2023) G-Research grant obtained! see article."
-  },
-  {
-    "objectID": "index.html#they-financed-or-supported-my-work",
-    "href": "index.html#they-financed-or-supported-my-work",
-    "title": "Researcher in Theoretical Cosmology",
-    "section": "They financed or supported my work",
-    "text": "They financed or supported my work\n\nFeaturespace\nDiRAC UK\nDAMTP\nG-Research\nData-intensive CDT Program\nUKRI\nWolfson College"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Researcher in Theoretical Cosmology",
-    "section": "Contact",
-    "text": "Contact\nEmail: yl844 at cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
-  },
-  {
-    "objectID": "carbon.html",
-    "href": "carbon.html",
-    "title": "Carbon",
-    "section": "",
-    "text": "Where I make my professional self carbon-transparent. Beyond transports and supercomputing, it’s difficult to count precisely but also not as important."
-  },
-  {
-    "objectID": "carbon.html#travels",
-    "href": "carbon.html#travels",
-    "title": "Carbon",
-    "section": "Travels",
-    "text": "Travels\nFlights in red, trains in blue.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
-  },
-  {
-    "objectID": "carbon.html#supercomputing",
-    "href": "carbon.html#supercomputing",
-    "title": "Carbon",
-    "section": "Supercomputing",
-    "text": "Supercomputing\nMy work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still! Ideally, one citizen should be aiming for ~2 tons of CO2 emissions per year for day-to-day life."
+    "text": "Everything worth expanding on: outreach, conferences, news…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInflation 2025, IAP’s 41st symposium\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nDec 6, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\n24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nRecorded talk at online conference Early Universe From Home\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "My academic record",
     "section": "",
-    "text": "Stochastic inflation in Numerical Relativity, Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
+    "text": "Download my CV"
   },
   {
     "objectID": "about.html#publications",
     "href": "about.html#publications",
     "title": "My academic record",
-    "section": "",
-    "text": "Stochastic inflation in Numerical Relativity, Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
+    "section": "Publications",
+    "text": "Publications\n\nStochastic inflation in Numerical Relativity, Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.\nEpisodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],\nLaunay Y., Kamalaruban P. 2025.\nBunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D (TBC), arxiv preprint (Feb. 2025).\nQuantitative classicality in cosmological interactions during inflation,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, JCAP (TBC), arxiv preprint (Dec. 2024).\nStochastic Inflation in General Relativity,\nLaunay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.\nCalculating non-Gaussianities from a kinetic pre-inflationary universe,\nLaunay Y. & Handley W., Master Thesis, June 22, University of Cambridge.\nN-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,\nLaunay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694."
   },
   {
     "objectID": "about.html#talks-seminars-and-presentations",
@@ -294,46 +196,88 @@
     "text": "References\n\nDr. Parameswaran Kamalaruban, Featurespace, Cambridge. Website\nProf. Paul Shellard, DAMTP, University of Cambridge. Website\nDr. Gerasimos Rigopoulos, Newcastle University. Profile\nDr. Will Handley, Kavli Institute for Cosmology, University of Cambridge. Website\nDr. Jean-Baptiste Melin, CEA Paris-Saclay. InspireHEP\nProf. Jean-Michel Gillet, CentraleSupélec, Paris-Saclay University. LinkedIn"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "carbon.html",
+    "href": "carbon.html",
+    "title": "Carbon",
     "section": "",
-    "text": "Everything worth expanding on: outreach, conferences, news…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInflation 2025, IAP’s 41st symposium\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nDec 6, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\n24th International Conference on General Relativity and Gravitation\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nRecorded talk at online conference Early Universe From Home\n\n\n\n\n\n\nResearch\n\n\nConference\n\n\n\n\n\n\n\n\n\nFeb 28, 2025\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy PhD in 3 minutes for the FameLab 2024 competition\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMy Thesis in 12 sketches.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\n\n\n\n\n\n\nMon doctorat en 12 esquisses.\n\n\n\n\n\n\nOutreach\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nYoann Launay\n\n\n\n\n\n\nNo matching items"
+    "text": "Where I make my professional self carbon-transparent. Beyond transports and supercomputing, it’s difficult to count precisely but also not as important."
   },
   {
-    "objectID": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
-    "title": "Yoann Launay",
-    "section": "",
-    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "objectID": "carbon.html#travels",
+    "href": "carbon.html#travels",
+    "title": "Carbon",
+    "section": "Travels",
+    "text": "Travels\nFlights in red, trains in blue.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   },
   {
-    "objectID": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
-    "href": "myenv/Lib/site-packages/numpy/random/LICENSE.html",
-    "title": "NCSA Open Source License",
-    "section": "",
-    "text": "This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
+    "objectID": "carbon.html#supercomputing",
+    "href": "carbon.html#supercomputing",
+    "title": "Carbon",
+    "section": "Supercomputing",
+    "text": "Supercomputing\nMy work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still! Ideally, one citizen should be aiming for ~2 tons of CO2 emissions per year for day-to-day life."
   },
   {
-    "objectID": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/pyzmq-27.0.0.dist-info/licenses/LICENSE.html",
-    "title": "Yoann Launay",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Researcher in Theoretical Cosmology",
     "section": "",
-    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    "text": "Outside DAMTP in Cambridge\n\n\n\n\n\n\n\n\nPresenting inflation research in Paris\n\n\n\nAs a Norman born in Brittany and raised in a city with an undefined identity (is Nantes a Breton land? It is the millennium question), Yoann was perhaps fated for problems. His first encounter with space, and most importantly cosmology, was NOT while watching the stars, an apple falling from a tree, a rocket launching, or while reading A Brief History of Time. Yoann simply doesn’t remember, because he just likes to learn a lot and has limited storage space. You can identify him as a fraud French, self-proclaimed Viking, who doesn’t want to talk about croissants and Paris at the first occasion.\nAfter realising that zookeeper was not his destiny, that heart surgeon would take too long to study, and that politics… well, anyway, he decided to do something involving maths. (!Nerd alert!) Maths were comforting and felt right, until an existential overdose when he realised that maybe he liked it mainly as a tool to answer day-to-day questions. He had a great time doing Physics in a Grande Ecole in Paris, followed by a master’s in Cambridge. He started his academic research journey at the former, where he worked on reconstructing the quantum structure of crystals. In Cambridge, he started looking into theoretical physics, and eventually his own series of why? questions converged (or diverged?) towards asking how? about the whole thing (more commonly called the Universe).\nIn the past 3+ years, Yoann has studied the early, fast-expanding universe by extending Einstein’s equations of General Relativity to fluctuations generated by the quantum vacuum. In this process, he has also looked at the classicalisation of spacetime correlations and has produced and run cutting-edge simulations of the inflating universe (and still does). Pen, paper and supercomputer is a lovely routine of his.\nAfter work, Yoann goes to sleep. But before that, cooking his meal is usually the highlight of the day, when not topped by learning guitar for the billionth time. As a standard STEM cliche, Yoann is also into hiking and bouldering. Beyond that, what is there to say, beyond the fact that entropy is non-decreasing."
   },
   {
-    "objectID": "myenv/Lib/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
-    "href": "myenv/Lib/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.html",
-    "title": "Yoann Launay",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2018 - 2025 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Researcher in Theoretical Cosmology",
+    "section": "News",
+    "text": "News\n\n(16/12/2025) My fourth PhD article is out! see preprint. The final proof of concept of my PhD project is now in the wild.\n(4/10/2025 to hopefully soon) Postdoc applications in progress…\n(3/10/2025) End of a great placement, closing with a paper sent to a Machine Learning conference! see submission.\n(16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at Featurespace from April and for six months!\n(12/02/2025) My third PhD article and first with spacetime simulations is out! see preprint.\n(11/02/2025) An interesting article where my simulations are featured.\n(05/01/2025) My second PhD article is out! see preprint.\n\n(02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!\n(16/01/2024) I published my first article in cosmology! see preprint.\n(1/11/2023) My first feature article for Bluesci, see issue no. 58 here (page 26).\n(1/11/2023) New book review article in Bluesci, see issue no. 57 here (page 5).\n(7/04/2023) G-Research grant obtained! see article."
   },
   {
-    "objectID": "posts/GR24/GR24.html",
-    "href": "posts/GR24/GR24.html",
-    "title": "24th International Conference on General Relativity and Gravitation",
+    "objectID": "index.html#they-financed-or-supported-my-work",
+    "href": "index.html#they-financed-or-supported-my-work",
+    "title": "Researcher in Theoretical Cosmology",
+    "section": "They financed or supported my work",
+    "text": "They financed or supported my work\n\nFeaturespace\nDiRAC UK\nDAMTP\nG-Research\nData-intensive CDT Program\nUKRI\nWolfson College"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Researcher in Theoretical Cosmology",
+    "section": "Contact",
+    "text": "Contact\nEmail: yl844 at cam.ac.uk\nOffice: Center for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0WA, United Kingdom."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
     "section": "",
-    "text": "I went to Glasgow and gave a talk on Stochastic Inflation in Numerical Relativity and presented a poster titled When to use semi-classical GR instead of QFT to probe cosmological correlation functions: a quantitative view.\n\nRecord of the talk\n\n\n\nPoster"
+    "text": "Some appearances out there"
+  },
+  {
+    "objectID": "media.html#articles-i-wrote",
+    "href": "media.html#articles-i-wrote",
+    "title": "Media",
+    "section": "Articles I wrote",
+    "text": "Articles I wrote\nTheory of everything, including us, Bluesci n°59 (p20-21), Easter 2024.\nCosmic connections, Bluesci n°58 (p26-27), Lent 2023.\nBook review of On the Origin of Time by Thomas Hertog, Bluesci n°57 (p5), Michaelmas 2023."
+  },
+  {
+    "objectID": "media.html#articles-about-my-work",
+    "href": "media.html#articles-about-my-work",
+    "title": "Media",
+    "section": "Articles about my work",
+    "text": "Articles about my work\nArticle about our use of Intel tech for simulating the universe\nG-Research March 2023 Grant Winners where I am featured"
+  },
+  {
+    "objectID": "media.html#interviews",
+    "href": "media.html#interviews",
+    "title": "Media",
+    "section": "Interviews",
+    "text": "Interviews\nInterview at my engineering school after winning the poster prize of the 2020 Quantum Crystallography Online Meeting."
+  },
+  {
+    "objectID": "posts/Inflation25/Inflation25.html",
+    "href": "posts/Inflation25/Inflation25.html",
+    "title": "Inflation 2025, IAP’s 41st symposium",
+    "section": "",
+    "text": "I went to the Institute of Astrophysics of Paris and gave a talk on Stochastic Inflation in Numerical Relativity. The conference’s amphitheater was absolutely amazing and a lot of experts were attending! A lot of great discussions there for a whole week. Many thanks to the organisers!\n\n\n\n\n\n\n\n\nRecord of the talk"
   },
   {
     "objectID": "posts/mythesis/mythesis.html",

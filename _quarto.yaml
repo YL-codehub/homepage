@@ -1,6 +1,12 @@
 project:
   type: website
-  output-dir: .  # For GitHub Pages compatibility
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+  resources:
+    - CNAME
+    - google837f484c09df22b6.html
 
 website:
   title: "Yoann Launay"

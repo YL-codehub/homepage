@@ -16,18 +16,24 @@ metadata:
 
 ::: {.columns}
 
-::: {.column width="35%"}
+::: {.column width="40%"}
 ![Outside DAMTP in Cambridge](/images/photo_medamtp.jpg){style="padding-right:10%;"}
 
 ::: {.vspace}
 
 :::
 
-![Presenting inflation research in Paris](/images/inflation25.jpg){style="padding-right:10%;"}
+![Research Talk in Paris](/images/inflation25.jpg){style="padding-right:10%;"}
 :::
 
-::: {.column width="65%"}
+::: {.column width="60%"}
 As a Norman born in Brittany and raised in a city with an undefined identity (is Nantes a Breton land? It is the millennium question), Yoann was perhaps fated for problems. His first encounter with space, and most importantly cosmology, was NOT while watching the stars, an apple falling from a tree, a rocket launching, or while reading *A Brief History of Time*. Yoann simply doesn't remember, because he just likes to learn a lot and has limited storage space. You can identify him as a fraud French, self-proclaimed Viking, who doesn't want to talk about croissants and Paris at the first occasion.
+
+<div style="float: right; margin: 0 0 0 1.5em; text-align: center;">
+<img src="/images/drwho.gif" alt="" />
+<br>
+<small style="font-size: 0.6em; color: gray; display: block; line-height: 1; margin: 0; padding: 0;">Credit: <em>Doctor Who</em>. BBC, 2005–present.</small>
+</div>
 
 After realising that zookeeper was not his destiny, that heart surgeon would take too long to study, and that politics... well, anyway, he decided to do something involving maths. (*!Nerd alert!*) Maths were comforting and felt right, until an existential overdose when he realised that maybe he liked it mainly as a tool to answer day-to-day questions. He had a great time doing Physics in a Grande Ecole in Paris, followed by a master's in Cambridge. He started his academic research journey at the former, where he worked on reconstructing the quantum structure of crystals. In Cambridge, he started looking into theoretical physics, and eventually his own series of *why?* questions converged (or diverged?) towards asking *how?* about the whole thing (more commonly called *the Universe*).
 
@@ -38,7 +44,6 @@ After work, Yoann goes to sleep. But before that, cooking his meal is usually th
 :::
 :::
 :::
-
 
 ## News
 - (16/12/2025) My fourth PhD article is out! see [preprint](https://arxiv.org/abs/2512.14649). The final proof of concept of my PhD project is now in the wild.

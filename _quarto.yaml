@@ -58,9 +58,10 @@ website:
     
 format:
   html:
-    theme: 
+    theme:
       - minty  # Clean, minimal theme
       # - styles.scss
+    css: styles.css
     toc: true
     toc-location: right
     code-copy: true

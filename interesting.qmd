@@ -3,47 +3,94 @@ title: "Interesting facts."
 format:
   dashboard:
     orientation: rows
-    scrolling: true 
-bibliography: references.bib
-csl: ieee.csl
+    scrolling: true
 ---
-# I collect here my favourite facts encountered in various museums, experiences, books, or from people etc.
+# I collect here my favourite facts encountered in various museums, experiences, books, or from people.
+
+
+## Row
+
+
+::: {.card fill=false expandable="false"}
+Humans are better than dogs at smelling ripe bananas. <span class="ref" data-tippy-content="J. P. McGann, &lsquo;Poor human olfaction is a 19th-century myth&rsquo;, <em>Science</em> 356(6338), 2017. <a href='https://doi.org/10.1126/science.aam7263' target='_blank'>doi.org/10.1126/science.aam7263</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+Eucalyptus makes up 75% of Australian forests <span class="ref" data-tippy-content="Australian Government, Department of Agriculture, Fisheries and Forestry, &lsquo;Eucalypts&rsquo;. <a href='https://www.agriculture.gov.au/abares/forestsaustralia/australias-forests/profiles/eucalypt-2019' target='_blank'>agriculture.gov.au</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+7% of all people who ever existed are currently alive. <span class="ref" data-tippy-content="C. Haub, &lsquo;How Many People Have Ever Lived on Earth?&rsquo;, <em>Population Reference Bureau</em>, 2011. <a href='https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/' target='_blank'>prb.org</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+Humans weigh a third of all mammals on Earth — and 60% of all mammals are the ones we eat. <span class="ref" data-tippy-content="Y. M. Bar-On, R. Phillips, R. Milo, &lsquo;The biomass distribution on Earth&rsquo;, <em>PNAS</em> 115(25), 2018. <a href='https://doi.org/10.1073/pnas.1711842115' target='_blank'>doi.org/10.1073/pnas.1711842115</a>">[reference]</span>
+:::
 
 
 ## Row
 
 ::: {.card fill=false expandable="false"}
-A significant fraction of Earth’s water likely formed before the Sun, originating in interstellar space, although not all of it predates the Solar System. @Cleeves2014
-:::
-
-
-::: {.card fill=false expandable="false"}
-Neither animal nor fungus, the blob (*Physarum polycephalum*) can solve shortest-path problems by optimizing nutrient networks. @Nakagaki2000
+The Netherlands is the second largest food exporter in the world, despite ranking 130th+ in land area. <span class="ref" data-tippy-content="Wikipedia, &lsquo;Netherlands&rsquo;. <a href='https://en.wikipedia.org/wiki/Netherlands' target='_blank'>en.wikipedia.org</a>">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
-A lot of animals have roughly the same number of heartbeats over a lifetime. Of course, many species (including humans and birds) do not follow it. @West2017Scale
+The Latin root of the word 'salary' means 'related to salt'. Some say Roman soldiers were paid with it; others that the money was used to buy it. <span class="ref" data-tippy-content="Wikipedia, &lsquo;Salary&rsquo;. <a href='https://en.wikipedia.org/wiki/Salary' target='_blank'>en.wikipedia.org</a>">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
-One of the earliest British historical heroes is Boudica, a woman who led a major rebellion against Roman rule in the 1st century CE. @BritannicaBoudica
+After Nikola Tesla's death, his personal notes and research were examined and identified as harmless by John G. Trump — Donald Trump's uncle. <span class="ref" data-tippy-content="Wikipedia, &lsquo;John G. Trump&rsquo;. <a href='https://en.wikipedia.org/wiki/John_G._Trump' target='_blank'>en.wikipedia.org</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+Edison Studios employees filmed the electrocution of an elephant in 1903 and released as the first death animal film. It is sometimes wrongly said that Edison organised it to discredit the use of AC in the war of currents. <span class="ref" data-tippy-content="Wikipedia, &lsquo;Topsy (elephant)&rsquo;. <a href='https://en.wikipedia.org/wiki/Topsy_(elephant)' target='_blank'>en.wikipedia.org</a>">[reference]</span>
+:::
+
+
+## Row
+
+::: {.card fill=false expandable="false"}
+In 1797 Britain, for nine months, an act of parliament forced clock owners to pay a tax. As a result, most clocks were hidden and people got time at taverns, which were allowed to have free 'Act of Parliament clocks'. <span class="ref" data-tippy-content="There is one in Wolfson College, University of Cambridge. <a href='https://en.wikipedia.org/wiki/Act_of_Parliament_clock' target='_blank'>en.wikipedia.org</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+Gold is yellow because it is heavy enough that its electrons move at a significant fraction of the speed of light. Via Einstein's theory of relativity, this shifts the light it absorbs from the ultraviolet (where it would be in a lighter, grey metal) into the blue part of the visible spectrum — leaving the yellow behind. <span class="ref" data-tippy-content="P. Pyykkö, J.-P. Desclaux, &lsquo;Relativity and the Periodic System of Elements&rsquo;, <em>Accounts of Chemical Research</em> 12(8), 1979. <a href='https://doi.org/10.1021/ar50140a002' target='_blank'>doi.org/10.1021/ar50140a002</a>">[reference]</span>
 :::
 
 ## Row
 
 ::: {.card fill=false expandable="false"}
-The English title “earl” derives from the Old Norse word *jarl*, reflecting Scandinavian influence in early medieval England. @EtymonlineEarl
+A significant fraction of Earth's water likely formed before the Sun, originating in interstellar space, although not all of it predates the Solar System. <span class="ref" data-tippy-content="Cleeves et al., &lsquo;The Ancient Heritage of Water Ice in the Solar System&rsquo;, <em>Science</em> 345, 2014. <a href='https://doi.org/10.1126/science.1258055' target='_blank'>doi.org/10.1126/science.1258055</a>">[reference]</span>
+:::
+
+
+::: {.card fill=false expandable="false"}
+Neither animal nor fungus, the blob (*Physarum polycephalum*) can solve shortest-path problems by optimizing nutrient networks. <span class="ref" data-tippy-content="Nakagaki et al., &lsquo;Maze-Solving by an Amoeboid Organism&rsquo;, <em>Nature</em> 407, 2000. <a href='https://doi.org/10.1038/35035159' target='_blank'>doi.org/10.1038/35035159</a>">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
-Bluetooth technology is named after Harald “Bluetooth” Gormsson, a Viking king who unified Denmark and Norway. @BluetoothSIG
+A lot of animals have roughly the same number of heartbeats over a lifetime. Of course, many species (including humans and birds) do not follow it. <span class="ref" data-tippy-content="G. B. West, <em>Scale</em>. Penguin Press, 2017. ISBN 9781594205583">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
-During the last Ice Age, megafauna included giant ground sloths that lived across the Americas until around 10,000 years ago. @SmithsonianSloth
+One of the earliest British historical heroes is Boudica, a woman who led a major rebellion against Roman rule in the 1st century CE. <span class="ref" data-tippy-content="Encyclopaedia Britannica, &lsquo;Boudica: British Queen&rsquo;, 2024. <a href='https://www.britannica.com/biography/Boudica' target='_blank'>britannica.com</a>">[reference]</span>
 :::
 
-## Row 
+## Row
+
+::: {.card fill=false expandable="false"}
+The English title "earl" derives from the Old Norse word *jarl*, reflecting Scandinavian influence in early medieval England. <span class="ref" data-tippy-content="D. Harper, &lsquo;Earl (n.)&rsquo;, <em>Online Etymology Dictionary</em>. <a href='https://www.etymonline.com/word/earl' target='_blank'>etymonline.com</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+Bluetooth technology is named after Harald "Bluetooth" Gormsson, a Viking king who unified Denmark and Norway. <span class="ref" data-tippy-content="Bluetooth SIG, &lsquo;Where Does Bluetooth Come From?&rsquo; <a href='https://www.bluetooth.com/about-us/bluetooth-origin/' target='_blank'>bluetooth.com</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+During the last Ice Age, megafauna included giant ground sloths that lived across the Americas until around 10,000 years ago. <span class="ref" data-tippy-content="Smithsonian NMNH, &lsquo;Giant Ground Sloth&rsquo;. <a href='https://naturalhistory.si.edu/education/teaching-resources/written-stone/giant-ground-sloth' target='_blank'>naturalhistory.si.edu</a>">[reference]</span>
+:::
+
+## Row
 
 ::: {.card fill=false expandable="false"}
 The US victory against english, french, mexicans was stopped by native americans in Montana.
@@ -56,22 +103,22 @@ Dune is the first science-fiction book to make ecology a central theme.
 :::
 
 ::: {.card fill=false expandable="false"}
-From 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.
+From 1912 to 1948, competitions in literature, music, architecture, painting, sculpture were part of the Olympics, like in Ancient Greece.  <span class="ref" data-tippy-content="'Paris 1924: Sport, Art and the Body', Fitzwilliam Museum, University of Cambridge. <a href='https://fitzmuseum.cam.ac.uk/plan-your-visit/exhibitions/paris-1924-sport-art-and-the-body' target='_blank'>fitzmuseum.cam.ac.uk</a>">[reference]</span>
 :::
 
 
 ::: {.card fill=false expandable="false"}
-Children outnumbered adults for most of human history @CamArcheo.
+Children outnumbered adults for most of human history. <span class="ref" data-tippy-content="Museum of Archaeology and Anthropology, University of Cambridge. <a href='https://www.maa.cam.ac.uk' target='_blank'>maa.cam.ac.uk</a>">[reference]</span>
 :::
 
-## Row 
+## Row
 
 ::: {.card fill=false expandable="false"}
-For head trauma, Incas would make a hole in the skull to treat it @NatGeo.
+For head trauma, Incas would make a hole in the skull to treat it. <span class="ref" data-tippy-content="National Geographic, &lsquo;Trepanation: The Oldest Surgery&rsquo;. <a href='https://www.nationalgeographic.com' target='_blank'>nationalgeographic.com</a>">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
-Scotland and England+Wales, used to be parts of different continents @CamGeo.
+Scotland and England+Wales, used to be parts of different continents. <span class="ref" data-tippy-content="Sedgwick Museum of Earth Sciences, University of Cambridge. <a href='https://www.sedgwickmuseum.org' target='_blank'>sedgwickmuseum.org</a>">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
@@ -79,38 +126,51 @@ There is 3 to 4 billion years before Andromeda hits the Milky Way and makes Milk
 :::
 
 ::: {.card fill=false expandable="false"}
-John Von Neumann could have been the last polymath @wiki.
+John Von Neumann could have been the last polymath. <span class="ref" data-tippy-content="Wikipedia, &lsquo;John von Neumann&rsquo;. <a href='https://en.wikipedia.org/wiki/John_von_Neumann' target='_blank'>en.wikipedia.org</a>">[reference]</span>
+:::
+
+## Row
+
+
+::: {.card fill=false expandable="false"}
+New York was created by the English after trading a nutmeg island for New Amsterdam.
+:::
+
+::: {.card fill=false expandable="false"}
+Polynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants. <span class="ref" data-tippy-content="Museum of Archaeology and Anthropology, University of Cambridge. <a href='https://www.maa.cam.ac.uk' target='_blank'>maa.cam.ac.uk</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+Toasts taste stronger upside down. <span class="ref" data-tippy-content="Try it yourself!">[reference]</span>
 :::
 
 ## Row
 
 ::: {.card fill=false expandable="false"}
-Roxbourgh figs pollinisation is fascinating, so fine-tuned.
+Dioecious (coming in male and female trees) figs have tiny wasps crawling inside to lay their eggs, accidentally carrying pollen from male to female trees as they do so: a partnership so intertwined that the two species have co-evolved together for around 80 million years, each entirely dependent on the other's survival.
 :::
 
 ::: {.card fill=false expandable="false"}
-New York was created by the English after trading a nutmeg island for New Amsterdam. 
+Pink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of. <span class="ref" data-tippy-content="Sedgwick Museum of Earth Sciences, University of Cambridge. <a href='https://www.sedgwickmuseum.org' target='_blank'>sedgwickmuseum.org</a>">[reference]</span>
 :::
 
 ::: {.card fill=false expandable="false"}
-Polynesian tribes had a 2000miles canoe trip to Haiti back in the day, just to get plants @CamArcheo.
-:::
-
-::: {.card fill=false expandable="false"}
-Toasts taste stronger upside down.
+Cambridge market used to be the biggest fair of Europe. <span class="ref" data-tippy-content="Museum of Cambridge. <a href='https://www.museumofcambridge.org.uk/' target='_blank'>museumofcambridge.org.uk</a>">[reference]</span>
 :::
 
 ## Row
 
-::: {.card fill=false expandable="false"}
-Pink is by far the oldest colour (pigment found in ancient fossil) because chlorophyll, now green, used to be pink because of the bacteria it was made of.
-:::
-
-::: {.card fill=false expandable="false"}
-Cambridge market used to be the biggest fair of Europe.
-:::
-
-## References
-
-::: {#refs expandable=”false”}
-:::
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  if (!window.tippy) return;
+  window.tippy('.ref', {
+    trigger: 'mouseenter click',
+    interactive: true,
+    allowHTML: true,
+    placement: 'top',
+    maxWidth: 480,
+    appendTo: () => document.body,
+    popperOptions: { strategy: 'fixed' },
+  });
+});
+</script>

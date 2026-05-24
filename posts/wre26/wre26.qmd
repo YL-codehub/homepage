@@ -1,0 +1,38 @@
+---
+title: "Outreach Conference: Wolfson Research Event 2026"
+author:
+  - name: Yoann Launay
+format: 
+  html: 
+    css: ../../styles.css
+page-layout: full
+date: 2026-05-07
+categories: [Outreach, Conference]
+image: ../../images/WREpresentation_april26.jpg
+---
+
+I was invited to present my work at an interdisciplinary conference organised by my College, the Wolfson Research Event. 
+
+I thought that this was a great exercise, and really enjoyed how people managed to ask deep questions with simple words-- the best way to get research inspiration! Sometimes, I had to say that we simply don't know the answer.
+
+### Photos
+
+::: {layout-ncol=2}
+![](../../images/WREpresentation_april26.jpg)
+
+![](../../images/WREquestions_april26.jpg)
+:::
+
+
+### Record of the talk
+To be added when it's out.
+
+### Slides and sketches
+
+Slides are available [here](../../images/slides.html){target="_blank"}.
+
+And are based on the original sketches I made for the talk, which you can find [here](../mythesis/mythesis.html).
+
+<!-- {{< video
+https://youtu.be/voISqovztiI?si=1DuLHwmSAN0N_Zph
+>}} -->

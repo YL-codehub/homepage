@@ -1,0 +1,265 @@
+---
+title: Adventures
+jupyter: python3
+---
+
+## June 2026 --- Green Research Tour of Europe
+
+I have been awarded a travel grant specifically to undertake a low-carbon European research tour (train-only!!), visiting groups with whom I share research interests at a moment that matters; I am finishing my PhD and actively looking to build collaborations. I will be documenting the trip as an open resource for early-career researchers wanting to do something similar and argue to faculties that such travels should be more common and supported at least for the sake of sustainability.
+
+Pre-departure update: I will be logging my adventures on the map below (click to interact), which will be updated as I go.
+
+```{python}
+#| echo: false
+#| message: false
+#| warning: false
+#| column: page
+import folium
+import gpxpy
+import pandas as pd
+import base64
+from pathlib import Path
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
+import numpy as np
+
+# ── Current location ──────────────────────────────────────────────────
+CURRENT_LOCATION = True
+CURRENT_LAT      = 52.1942
+CURRENT_LON      = 0.1370
+
+def _parse_lines_file(path):
+    """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""
+    lines_data = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("|")]
+        if len(parts) < 3:
+            continue
+        label = parts[0]
+        lat1, lon1 = map(float, parts[1].split(","))
+        lat2, lon2 = map(float, parts[2].split(","))
+        color = "#3498db"
+        for extra in parts[3:]:
+            if extra.startswith("color="):
+                color = extra.split("=", 1)[1].strip()
+        lines_data.append({"label": label, "from": [lat1, lon1], "to": [lat2, lon2], "color": color})
+    return lines_data
+
+# ── Discover all GPX files ────────────────────────────────────────────
+gpx_files = sorted(Path("adventures").glob("*.gpx"))
+
+# ── Assign sharp colours via a qualitative colormap ──────────────────
+# tab10 gives 10 maximally-distinct vivid colours; fall back to hsv for >10
+N = len(gpx_files)
+if N <= 10:
+    cmap = plt.get_cmap("tab10")
+    track_colors = [mcolors.to_hex(cmap(i)) for i in range(N)]
+else:
+    cmap = plt.get_cmap("hsv")
+    track_colors = [mcolors.to_hex(cmap(i / N)) for i in range(N)]
+
+# ── Parse every GPX file ──────────────────────────────────────────────
+all_tracks = []
+for gpx_path, color in zip(gpx_files, track_colors):
+    with open(gpx_path, "r", encoding="utf-8") as f:
+        gpx = gpxpy.parse(f)
+
+    points = []
+    for track in gpx.tracks:
+        for segment in track.segments:
+            for pt in segment.points:
+                points.append([pt.latitude, pt.longitude])
+    for route in gpx.routes:
+        for pt in route.points:
+            points.append([pt.latitude, pt.longitude])
+
+    if points:
+        # Pretty label: replace hyphens/underscores with spaces, title-case
+        label = gpx_path.stem.replace("-", " ").replace("_", " ").title()
+        all_tracks.append({"name": label, "points": points, "color": color})
+
+# All GPX coords — used for fit_bounds
+all_coords = [pt for t in all_tracks for pt in t["points"]]
+
+# ── Create map ────────────────────────────────────────────────────────
+m = folium.Map(
+    tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
+    attr='&copy; OpenStreetMap contributors &copy; CARTO',
+    max_zoom=19,
+)
+
+# ── Draw each GPX track ───────────────────────────────────────────────
+for track in all_tracks:
+    folium.PolyLine(
+        track["points"],
+        color=track["color"],
+        weight=4,
+        opacity=0.95,
+        tooltip=track["name"],
+    ).add_to(m)
+
+# ── Draw .lines connections ───────────────────────────────────────────
+for lines_path in sorted(Path("adventures").glob("*.lines")):
+    for seg in _parse_lines_file(lines_path):
+        all_coords.extend([seg["from"], seg["to"]])
+        folium.PolyLine(
+            [seg["from"], seg["to"]],
+            color=seg["color"],
+            weight=2,
+            opacity=0.85,
+            tooltip=seg["label"],
+        ).add_to(m)
+
+# ── Photo markers ─────────────────────────────────────────────────────
+photos = pd.read_csv("adventures/photos.csv")
+
+def _encode(fname):
+    p = Path("adventures/photos") / fname
+    ext = p.suffix.lower().lstrip(".")
+    mime = "jpeg" if ext in ("jpg", "jpeg") else ext
+    b64 = base64.b64encode(p.read_bytes()).decode()
+    return mime, b64
+
+for _, row in photos.iterrows():
+    raw_image = str(row["image"]).strip() if pd.notna(row["image"]) else ""
+    images    = [s.strip() for s in raw_image.split("+")] if raw_image else []
+    captions  = [s.strip() for s in str(row["caption"]).split("+")] if pd.notna(row["caption"]) else []
+    desc      = row.get("description", "") or ""
+    cap0      = captions[0] if captions else ""
+
+    def _double_circle(lat, lon, color, tooltip_html, popup_html, popup_width):
+        folium.CircleMarker(
+            location=[lat, lon], radius=14,
+            color=color, weight=2, fill=False,
+            tooltip=folium.Tooltip(tooltip_html, max_width=220),
+            popup=folium.Popup(popup_html, max_width=popup_width),
+        ).add_to(m)
+        folium.CircleMarker(
+            location=[lat, lon], radius=6,
+            color=color, fill=True, fill_color=color, fill_opacity=0.9,
+            tooltip=folium.Tooltip(tooltip_html, max_width=220),
+            popup=folium.Popup(popup_html, max_width=popup_width),
+        ).add_to(m)
+
+    all_coords.append([row["lat"], row["lon"]])
+
+    if not images:
+        tooltip_html = f'<div style="font-size:13px;"><b>{cap0}</b></div>'
+        popup_html   = f"""
+        <div style="max-width:300px;text-align:center;padding:8px;">
+          <span style="font-size:13px;color:#999;font-style:italic;">Unavailable for the moment</span><br>
+          <b style="font-size:14px;">{cap0}</b>
+          {"<br><span style='font-size:12px;color:#666;'>" + desc + "</span>" if desc else ""}
+        </div>"""
+        _double_circle(row["lat"], row["lon"], "#95a5a6", tooltip_html, popup_html, 320)
+    else:
+        mime0, b640 = _encode(images[0])
+        tooltip_html = f"""
+        <div style="text-align:center;max-width:200px;">
+          <img src="data:image/{mime0};base64,{b640}"
+               style="width:180px;border-radius:4px;margin-bottom:4px;"><br>
+          <b>{cap0}</b>
+        </div>"""
+
+        slides = ""
+        for i, fname in enumerate(images):
+            mime_i, b64_i = _encode(fname) if i > 0 else (mime0, b640)
+            cap_i = captions[i] if i < len(captions) else ""
+            slides += f"""
+            <div style="text-align:center;min-width:300px;">
+              <img src="data:image/{mime_i};base64,{b64_i}"
+                   style="width:300px;border-radius:6px;margin-bottom:4px;"><br>
+              <b style="font-size:13px;">{cap_i}</b>
+            </div>"""
+
+        popup_html = f"""
+        <div style="max-width:320px;">
+          <div style="display:flex;overflow-x:auto;gap:10px;padding-bottom:6px;">
+            {slides}
+          </div>
+          {"<div style='font-size:12px;color:#666;margin-top:4px;'>" + desc + "</div>" if desc else ""}
+        </div>"""
+
+        _double_circle(row["lat"], row["lon"], "#5dade2", tooltip_html, popup_html, 340)
+
+# ── Food markers ──────────────────────────────────────────────────────
+food = pd.read_csv("adventures/food.csv")
+
+for _, row in food.iterrows():
+    desc = row.get("description", "") or ""
+    tooltip_html = f"""
+    <div style="font-size:13px;max-width:180px;">
+      🍽️ <b>{row['name']}</b>
+      {"<br><span style='color:#555;'>" + desc + "</span>" if desc else ""}
+    </div>"""
+    popup_html = f"""
+    <div style="max-width:260px;">
+      <b style="font-size:14px;">🍽️ {row['name']}</b><br>
+      <span style="font-size:12px;color:#555;">{desc}</span>
+    </div>"""
+    all_coords.append([row["lat"], row["lon"]])
+    folium.Marker(
+        location=[row["lat"], row["lon"]],
+        tooltip=folium.Tooltip(tooltip_html, max_width=200),
+        popup=folium.Popup(popup_html, max_width=280),
+        icon=folium.Icon(icon="cutlery", prefix="fa", color="red"),
+    ).add_to(m)
+
+# ── Stay markers ──────────────────────────────────────────────────────
+stays = pd.read_csv("adventures/stays.csv")
+
+for _, row in stays.iterrows():
+    desc = row.get("description", "") or ""
+    tooltip_html = f"""
+    <div style="font-size:13px;max-width:180px;">
+      🛏️ <b>{row['name']}</b>
+      {"<br><span style='color:#555;'>" + desc + "</span>" if desc else ""}
+    </div>"""
+    popup_html = f"""
+    <div style="max-width:260px;">
+      <b style="font-size:14px;">🛏️ {row['name']}</b><br>
+      <span style="font-size:12px;color:#555;">{desc}</span>
+    </div>"""
+    all_coords.append([row["lat"], row["lon"]])
+    folium.Marker(
+        location=[row["lat"], row["lon"]],
+        tooltip=folium.Tooltip(tooltip_html, max_width=200),
+        popup=folium.Popup(popup_html, max_width=280),
+        icon=folium.Icon(icon="bed", prefix="fa", color="purple"),
+    ).add_to(m)
+
+# ── Currently here marker ─────────────────────────────────────────────
+if CURRENT_LOCATION:
+    folium.CircleMarker(
+        location=[CURRENT_LAT, CURRENT_LON],
+        radius=14, color="#e74c3c", weight=2, fill=False,
+        tooltip="Currently here",
+    ).add_to(m)
+    folium.CircleMarker(
+        location=[CURRENT_LAT, CURRENT_LON],
+        radius=6, color="#e74c3c", fill=True,
+        fill_color="#e74c3c", fill_opacity=0.9,
+        tooltip="Currently here",
+    ).add_to(m)
+
+# ── Auto-zoom to fit all landmarks ────────────────────────────────────
+lats = [c[0] for c in all_coords]
+lons = [c[1] for c in all_coords]
+m.fit_bounds([[min(lats), min(lons)], [max(lats), max(lons)]], padding=(20, 20))
+
+m
+```
+
+
+*With thanks to...*
+
+*... my main sponsor: Wolfson College, University of Cambridge.*
+
+*... my hosts who helped me organise each venue; David Wands, Eemeli Tömberg, Christophe Ringeval, Matteo Braglia, Giovanni Marozzi, Amelia Drew, Matthew Elley, George Zahariade, Maxence Corman, Angelo Caravano.*
+
+*... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, Central European Institute for Cosmology and Fundamental Physics (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
+
+*... those who volunteered to help; Miguel Bezarès, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Panagiotis Giannadakis, Nadine Nussbaumer...*

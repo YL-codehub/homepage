@@ -1,0 +1,28 @@
+# European tour — consecutive train station pairs
+# label | lat1,lon1 | lat2,lon2 [| color=...]
+
+Cambridge → London King's Cross (8 June) | 52.1942,0.1370 | 51.5308,-0.1238 | color=#c0392b
+London King's Cross → London Paddington (8 June) | 51.5308,-0.1238 | 51.5154,-0.1755 | color=#c0392b
+London Paddington → Didcot (8 June) | 51.5154,-0.1755 | 51.6108,-1.2411 | color=#c0392b
+Didcot → Portsmouth (9 June) | 51.6108,-1.2411 | 50.7975,-1.1108 | color=#e67e22
+Portsmouth → London St Pancras (10 June) | 50.7975,-1.1108 | 51.5340,-0.1260 | color=#f39c12
+London St Pancras → Brussels (11 June) | 51.5340,-0.1260 | 50.8461,4.3567 | color=#27ae60
+Brussels → Louvain-la-Neuve (11 June) | 50.8461,4.3567 | 50.6700,4.6125 | color=#27ae60
+Louvain-la-Neuve → Brussels (13 June) | 50.6670,4.6095 | 50.8441,4.3567 | color=#e74c3c
+Brussels → Lyon Part-Dieu (13 June) | 50.8441,4.3567 | 45.7605,4.8597 | color=#e74c3c
+Lyon Part-Dieu → Geneva (13 June) | 45.7605,4.8597 | 46.2101,6.1427 | color=#e74c3c
+Geneva → Zurich (17 June) | 46.2101,6.1427 | 47.3784,8.5403 | color=#2980b9
+Zurich → Milan (17 June) | 47.3784,8.5403 | 45.4862,9.2048 | color=#2980b9
+Milan → Florence (17 June) | 45.4862,9.2048 | 43.7763,11.2484 | color=#2980b9
+Florence → Pisa (17 June) | 43.7763,11.2484 | 43.7085,10.3934 | color=#2980b9
+Pisa → Bologna (20 June) | 43.7085,10.3934 | 44.5065,11.3424 | color=#8e44ad
+Bologna → Trieste (20 June) | 44.5065,11.3424 | 45.6562,13.7664 | color=#8e44ad
+Trieste → Udine (23 June) | 45.6562,13.7664 | 46.0614,13.2349 | color=#d35400
+Udine → Linz (23/24 June) | 46.0614,13.2349 | 48.2903,14.2929 | color=#d35400
+Linz → Prague (24 June) | 48.2903,14.2929 | 50.0831,14.4356 | color=#d35400
+Prague → Krakow (26 June) | 50.0831,14.4356 | 50.0680,19.9475 | color=#e91e63
+Krakow → Berlin (2 July) | 50.0680,19.9475 | 52.5252,13.3694 | color=#00897b
+Berlin → Potsdam (3 July) | 52.5252,13.3694 | 52.3917,13.0673 | color=#1565c0
+Berlin → Amsterdam (5 July) | 52.5252,13.3694 | 52.3791,4.9003 | color=#6a1b9a
+Amsterdam → London St Pancras (9 July) | 52.3791,4.9003 | 51.5322,-0.1241 | color=#4e342e
+London St Pancras → Cambridge (9 July) | 51.5322,-0.1241 | 52.1942,0.1370 | color=#4e342e

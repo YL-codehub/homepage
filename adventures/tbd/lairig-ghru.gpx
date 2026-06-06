@@ -1,0 +1,854 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Lairig Ghru</name>
+<rtept lat="57.17409" lon="-3.79722">
+<ele>236.243210259745</ele>
+<name>LG-001</name>
+</rtept>
+<rtept lat="57.1742" lon="-3.79665">
+<ele>236.699210259744</ele>
+<name>LG-002</name>
+</rtept>
+<rtept lat="57.17274" lon="-3.79575">
+<ele>239.802937507168</ele>
+<name>LG-003</name>
+</rtept>
+<rtept lat="57.1707" lon="-3.79554">
+<ele>253.043346966682</ele>
+<name>LG-004</name>
+</rtept>
+<rtept lat="57.16875" lon="-3.79322">
+<ele>257.73848464594</ele>
+<name>LG-005</name>
+</rtept>
+<rtept lat="57.16714" lon="-3.79079">
+<ele>263.05475767703</ele>
+<name>LG-006</name>
+</rtept>
+<rtept lat="57.16613" lon="-3.78971">
+<ele>264.230630189699</ele>
+<name>LG-007</name>
+</rtept>
+<rtept lat="57.16525" lon="-3.78872">
+<ele>268.709831612623</ele>
+<name>LG-008</name>
+</rtept>
+<rtept lat="57.16434" lon="-3.7882">
+<ele>271.858420902276</ele>
+<name>LG-009</name>
+</rtept>
+<rtept lat="57.1635" lon="-3.78641">
+<ele>272.593306066635</ele>
+<name>LG-010</name>
+</rtept>
+<rtept lat="57.1627" lon="-3.7856">
+<ele>276.240862320743</ele>
+<name>LG-011</name>
+</rtept>
+<rtept lat="57.16204" lon="-3.78419">
+<ele>278.12625018748</ele>
+<name>LG-012</name>
+</rtept>
+<rtept lat="57.15943" lon="-3.78195">
+<ele>280.986104643712</ele>
+<name>LG-013</name>
+</rtept>
+<rtept lat="57.15818" lon="-3.78086">
+<ele>283.474903220791</ele>
+<name>LG-014</name>
+</rtept>
+<rtept lat="57.15628" lon="-3.7808">
+<ele>287.211283223021</ele>
+<name>LG-015</name>
+</rtept>
+<rtept lat="57.156" lon="-3.78097">
+<ele>288.235283223021</ele>
+<name>LG-016</name>
+</rtept>
+<rtept lat="57.15342" lon="-3.78055">
+<ele>295.239556254113</ele>
+<name>LG-017</name>
+</rtept>
+<rtept lat="57.15177" lon="-3.78063">
+<ele>297.816798577082</ele>
+<name>LG-018</name>
+</rtept>
+<rtept lat="57.15078" lon="-3.78029">
+<ele>299.918693933368</ele>
+<name>LG-019</name>
+</rtept>
+<rtept lat="57.14894" lon="-3.77714">
+<ele>308.776734833419</ele>
+<name>LG-020</name>
+</rtept>
+<rtept lat="57.14843" lon="-3.77582">
+<ele>312.022630189705</ele>
+<name>LG-021</name>
+</rtept>
+<rtept lat="57.1486" lon="-3.77516">
+<ele>311.909451610398</ele>
+<name>LG-022</name>
+</rtept>
+<rtept lat="57.14832" lon="-3.77339">
+<ele>314.607394778681</ele>
+<name>LG-023</name>
+</rtept>
+<rtept lat="57.1485" lon="-3.77187">
+<ele>312.510789557362</ele>
+<name>LG-024</name>
+</rtept>
+<rtept lat="57.14813" lon="-3.76985">
+<ele>319.596337493348</ele>
+<name>LG-025</name>
+</rtept>
+<rtept lat="57.14751" lon="-3.769">
+<ele>319.808359895998</ele>
+<name>LG-026</name>
+</rtept>
+<rtept lat="57.14726" lon="-3.76785">
+<ele>321.193500573266</ele>
+<name>LG-027</name>
+</rtept>
+<rtept lat="57.14595" lon="-3.76568">
+<ele>325.990500110841</ele>
+<name>LG-028</name>
+</rtept>
+<rtept lat="57.14533" lon="-3.76474">
+<ele>331.530895351946</ele>
+<name>LG-029</name>
+</rtept>
+<rtept lat="57.14456" lon="-3.7627">
+<ele>339.135939010716</ele>
+<name>LG-030</name>
+</rtept>
+<rtept lat="57.14447" lon="-3.76071">
+<ele>338.393325013316</ele>
+<name>LG-031</name>
+</rtept>
+<rtept lat="57.14494" lon="-3.75865">
+<ele>336.442482558659</ele>
+<name>LG-032</name>
+</rtept>
+<rtept lat="57.14583" lon="-3.75694">
+<ele>338.01874104811</ele>
+<name>LG-033</name>
+</rtept>
+<rtept lat="57.14639" lon="-3.75666">
+<ele>345.942389244103</ele>
+<name>LG-034</name>
+</rtept>
+<rtept lat="57.14596" lon="-3.75589">
+<ele>344.892662969089</ele>
+<name>LG-035</name>
+</rtept>
+<rtept lat="57.14502" lon="-3.75483">
+<ele>360.948906685448</ele>
+<name>LG-036</name>
+</rtept>
+<rtept lat="57.14405" lon="-3.75449">
+<ele>362.862691854763</ele>
+<name>LG-037</name>
+</rtept>
+<rtept lat="57.14332" lon="-3.75377">
+<ele>352.704965579748</ele>
+<name>LG-038</name>
+</rtept>
+<rtept lat="57.1429" lon="-3.75268">
+<ele>370.509178801465</ele>
+<name>LG-039</name>
+</rtept>
+<rtept lat="57.14139" lon="-3.75115">
+<ele>390.256499426734</ele>
+<name>LG-040</name>
+</rtept>
+<rtept lat="57.14063" lon="-3.75004">
+<ele>387.763464081615</ele>
+<name>LG-041</name>
+</rtept>
+<rtept lat="57.13959" lon="-3.74936">
+<ele>400.71227906146</ele>
+<name>LG-042</name>
+</rtept>
+<rtept lat="57.13869" lon="-3.74801">
+<ele>404.639244178772</ele>
+<name>LG-043</name>
+</rtept>
+<rtept lat="57.13735" lon="-3.74632">
+<ele>409.784340734863</ele>
+<name>LG-044</name>
+</rtept>
+<rtept lat="57.13615" lon="-3.74443">
+<ele>429.329277914906</ele>
+<name>LG-045</name>
+</rtept>
+<rtept lat="57.13561" lon="-3.74273">
+<ele>436.788021256119</ele>
+<name>LG-046</name>
+</rtept>
+<rtept lat="57.13455" lon="-3.7419">
+<ele>435.444255026293</ele>
+<name>LG-047</name>
+</rtept>
+<rtept lat="57.13334" lon="-3.74088">
+<ele>450.524471489525</ele>
+<name>LG-048</name>
+</rtept>
+<rtept lat="57.13153" lon="-3.73771">
+<ele>478.467211853552</ele>
+<name>LG-049</name>
+</rtept>
+<rtept lat="57.13046" lon="-3.73569">
+<ele>492.106619112206</ele>
+<name>LG-050</name>
+</rtept>
+<rtept lat="57.12994" lon="-3.73445">
+<ele>521.145997022867</ele>
+<name>LG-051</name>
+</rtept>
+<rtept lat="57.12855" lon="-3.73295">
+<ele>516.220124073505</ele>
+<name>LG-052</name>
+</rtept>
+<rtept lat="57.12758" lon="-3.732">
+<ele>520.044180872869</ele>
+<name>LG-053</name>
+</rtept>
+<rtept lat="57.1265" lon="-3.73024">
+<ele>529.81660129571</ele>
+<name>LG-054</name>
+</rtept>
+<rtept lat="57.12571" lon="-3.72879">
+<ele>542.823496647656</ele>
+<name>LG-055</name>
+</rtept>
+<rtept lat="57.12417" lon="-3.7267">
+<ele>552.166560416007</ele>
+<name>LG-056</name>
+</rtept>
+<rtept lat="57.12276" lon="-3.72599">
+<ele>540.762152694875</ele>
+<name>LG-057</name>
+</rtept>
+<rtept lat="57.12184" lon="-3.72488">
+<ele>545.622595520365</ele>
+<name>LG-058</name>
+</rtept>
+<rtept lat="57.12045" lon="-3.7242">
+<ele>581.419099113464</ele>
+<name>LG-059</name>
+</rtept>
+<rtept lat="57.11761" lon="-3.72343">
+<ele>594.514803646356</ele>
+<name>LG-060</name>
+</rtept>
+<rtept lat="57.11587" lon="-3.72325">
+<ele>601.407677058077</ele>
+<name>LG-061</name>
+</rtept>
+<rtept lat="57.11273" lon="-3.72057">
+<ele>633.594036029208</ele>
+<name>LG-062</name>
+</rtept>
+<rtept lat="57.11203" lon="-3.71962">
+<ele>641.33253552376</ele>
+<name>LG-063</name>
+</rtept>
+<rtept lat="57.10987" lon="-3.71645">
+<ele>661.100111109805</ele>
+<name>LG-064</name>
+</rtept>
+<rtept lat="57.10796" lon="-3.71393">
+<ele>696.911634837508</ele>
+<name>LG-065</name>
+</rtept>
+<rtept lat="57.1068" lon="-3.71307">
+<ele>690.339667344475</ele>
+<name>LG-066</name>
+</rtept>
+<rtept lat="57.10659" lon="-3.71243">
+<ele>698.202605211782</ele>
+<name>LG-067</name>
+</rtept>
+<rtept lat="57.10444" lon="-3.71049">
+<ele>734.506952310181</ele>
+<name>LG-068</name>
+</rtept>
+<rtept lat="57.1035" lon="-3.70896">
+<ele>737.704336661863</ele>
+<name>LG-069</name>
+</rtept>
+<rtept lat="57.10174" lon="-3.70703">
+<ele>749.589293646061</ele>
+<name>LG-070</name>
+</rtept>
+<rtept lat="57.10085" lon="-3.70607">
+<ele>751.377895994425</ele>
+<name>LG-071</name>
+</rtept>
+<rtept lat="57.09967" lon="-3.70389">
+<ele>761.02255623467</ele>
+<name>LG-072</name>
+</rtept>
+<rtept lat="57.09888" lon="-3.70342">
+<ele>749.612687221113</ele>
+<name>LG-073</name>
+</rtept>
+<rtept lat="57.09757" lon="-3.70196">
+<ele>793.369895994425</ele>
+<name>LG-074</name>
+</rtept>
+<rtept lat="57.09584" lon="-3.69969">
+<ele>791.773399433448</ele>
+<name>LG-075</name>
+</rtept>
+<rtept lat="57.09521" lon="-3.69942">
+<ele>797.650126847562</ele>
+<name>LG-076</name>
+</rtept>
+<rtept lat="57.09488" lon="-3.69972">
+<ele>817.922251099205</ele>
+<name>LG-077</name>
+</rtept>
+<rtept lat="57.09389" lon="-3.69863">
+<ele>827.468301056957</ele>
+<name>LG-078</name>
+</rtept>
+<rtept lat="57.09315" lon="-3.69809">
+<ele>840.746004764032</ele>
+<name>LG-079</name>
+</rtept>
+<rtept lat="57.09294" lon="-3.69681">
+<ele>825.839937493442</ele>
+<name>LG-080</name>
+</rtept>
+<rtept lat="57.0925" lon="-3.69605">
+<ele>832.332904970294</ele>
+<name>LG-081</name>
+</rtept>
+<rtept lat="57.09128" lon="-3.69502">
+<ele>840.218992661309</ele>
+<name>LG-082</name>
+</rtept>
+<rtept lat="57.08966" lon="-3.69528">
+<ele>831.631777629553</ele>
+<name>LG-083</name>
+</rtept>
+<rtept lat="57.08921" lon="-3.69476">
+<ele>821.389017798787</ele>
+<name>LG-084</name>
+</rtept>
+<rtept lat="57.08731" lon="-3.69482">
+<ele>816.383783424982</ele>
+<name>LG-085</name>
+</rtept>
+<rtept lat="57.08712" lon="-3.69523">
+<ele>818.280038915653</ele>
+<name>LG-086</name>
+</rtept>
+<rtept lat="57.08639" lon="-3.6951">
+<ele>816.077301198903</ele>
+<name>LG-087</name>
+</rtept>
+<rtept lat="57.08542" lon="-3.69593">
+<ele>829.519032958078</ele>
+<name>LG-088</name>
+</rtept>
+<rtept lat="57.08436" lon="-3.69447">
+<ele>812.610692302415</ele>
+<name>LG-089</name>
+</rtept>
+<rtept lat="57.08384" lon="-3.69434">
+<ele>809.961457933351</ele>
+<name>LG-090</name>
+</rtept>
+<rtept lat="57.08326" lon="-3.69503">
+<ele>794.359452041914</ele>
+<name>LG-091</name>
+</rtept>
+<rtept lat="57.08171" lon="-3.69498">
+<ele>792.678342857599</ele>
+<name>LG-092</name>
+</rtept>
+<rtept lat="57.08055" lon="-3.69506">
+<ele>769.188172168868</ele>
+<name>LG-093</name>
+</rtept>
+<rtept lat="57.08022" lon="-3.69482">
+<ele>768.462701971226</ele>
+<name>LG-094</name>
+</rtept>
+<rtept lat="57.07722" lon="-3.69473">
+<ele>748.280204768896</ele>
+<name>LG-095</name>
+</rtept>
+<rtept lat="57.07547" lon="-3.69481">
+<ele>749.606314970207</ele>
+<name>LG-096</name>
+</rtept>
+<rtept lat="57.07455" lon="-3.69458">
+<ele>721.918876877463</ele>
+<name>LG-097</name>
+</rtept>
+<rtept lat="57.07307" lon="-3.69535">
+<ele>730.892139989281</ele>
+<name>LG-098</name>
+</rtept>
+<rtept lat="57.07195" lon="-3.69469">
+<ele>683.906556469142</ele>
+<name>LG-099</name>
+</rtept>
+<rtept lat="57.07161" lon="-3.69473">
+<ele>692.666783903885</ele>
+<name>LG-100</name>
+</rtept>
+<rtept lat="57.07053" lon="-3.69387">
+<ele>658.940132127392</ele>
+<name>LG-101</name>
+</rtept>
+<rtept lat="57.06972" lon="-3.69348">
+<ele>683.898166354847</ele>
+<name>LG-102</name>
+</rtept>
+<rtept lat="57.06927" lon="-3.69289">
+<ele>652.834200383699</ele>
+<name>LG-103</name>
+</rtept>
+<rtept lat="57.06881" lon="-3.69282">
+<ele>651.577344361496</ele>
+<name>LG-104</name>
+</rtept>
+<rtept lat="57.06859" lon="-3.69253">
+<ele>639.579115801692</ele>
+<name>LG-105</name>
+</rtept>
+<rtept lat="57.06584" lon="-3.69095">
+<ele>618.401160321396</ele>
+<name>LG-106</name>
+</rtept>
+<rtept lat="57.06469" lon="-3.69005">
+<ele>622.377546411276</ele>
+<name>LG-107</name>
+</rtept>
+<rtept lat="57.06385" lon="-3.68846">
+<ele>624.794872943306</ele>
+<name>LG-108</name>
+</rtept>
+<rtept lat="57.06031" lon="-3.68498">
+<ele>602.16833575325</ele>
+<name>LG-109</name>
+</rtept>
+<rtept lat="57.05949" lon="-3.6845">
+<ele>590.908123356938</ele>
+<name>LG-110</name>
+</rtept>
+<rtept lat="57.05913" lon="-3.68394">
+<ele>584.788714865844</ele>
+<name>LG-111</name>
+</rtept>
+<rtept lat="57.05879" lon="-3.68375">
+<ele>578.66899554261</ele>
+<name>LG-112</name>
+</rtept>
+<rtept lat="57.05834" lon="-3.68352">
+<ele>583.204995542598</ele>
+<name>LG-113</name>
+</rtept>
+<rtept lat="57.05728" lon="-3.68322">
+<ele>598.693219572812</ele>
+<name>LG-114</name>
+</rtept>
+<rtept lat="57.05667" lon="-3.68319">
+<ele>582.274947561881</ele>
+<name>LG-115</name>
+</rtept>
+<rtept lat="57.05589" lon="-3.68242">
+<ele>600.589004763985</ele>
+<name>LG-116</name>
+</rtept>
+<rtept lat="57.0525" lon="-3.67984">
+<ele>572.266667651176</ele>
+<name>LG-117</name>
+</rtept>
+<rtept lat="57.05213" lon="-3.6793">
+<ele>592.617849134398</ele>
+<name>LG-118</name>
+</rtept>
+<rtept lat="57.05176" lon="-3.67928">
+<ele>587.064964467239</ele>
+<name>LG-119</name>
+</rtept>
+<rtept lat="57.0512" lon="-3.67872">
+<ele>587.983777780247</ele>
+<name>LG-120</name>
+</rtept>
+<rtept lat="57.05071" lon="-3.67829">
+<ele>572.954527046099</ele>
+<name>LG-121</name>
+</rtept>
+<rtept lat="57.04993" lon="-3.67803">
+<ele>573.836776949793</ele>
+<name>LG-122</name>
+</rtept>
+<rtept lat="57.04936" lon="-3.67742">
+<ele>575.690780217758</ele>
+<name>LG-123</name>
+</rtept>
+<rtept lat="57.04884" lon="-3.67751">
+<ele>571.323535424422</ele>
+<name>LG-124</name>
+</rtept>
+<rtept lat="57.04836" lon="-3.67712">
+<ele>571.578073135938</ele>
+<name>LG-125</name>
+</rtept>
+<rtept lat="57.04713" lon="-3.67699">
+<ele>567.670848170646</ele>
+<name>LG-126</name>
+</rtept>
+<rtept lat="57.04609" lon="-3.67618">
+<ele>567.724779855525</ele>
+<name>LG-127</name>
+</rtept>
+<rtept lat="57.04464" lon="-3.67604">
+<ele>562.182006379361</ele>
+<name>LG-128</name>
+</rtept>
+<rtept lat="57.04424" lon="-3.67576">
+<ele>573.965733260536</ele>
+<name>LG-129</name>
+</rtept>
+<rtept lat="57.0435" lon="-3.67561">
+<ele>572.013296978307</ele>
+<name>LG-130</name>
+</rtept>
+<rtept lat="57.04274" lon="-3.67532">
+<ele>558.09448223362</ele>
+<name>LG-131</name>
+</rtept>
+<rtept lat="57.04164" lon="-3.67422">
+<ele>560.652573741759</ele>
+<name>LG-132</name>
+</rtept>
+<rtept lat="57.04081" lon="-3.67379">
+<ele>560.742624415619</ele>
+<name>LG-133</name>
+</rtept>
+<rtept lat="57.03963" lon="-3.67345">
+<ele>575.581271810007</ele>
+<name>LG-134</name>
+</rtept>
+<rtept lat="57.0365" lon="-3.67186">
+<ele>593.530266797613</ele>
+<name>LG-135</name>
+</rtept>
+<rtept lat="57.03331" lon="-3.67054">
+<ele>624.513657123409</ele>
+<name>LG-136</name>
+</rtept>
+<rtept lat="57.03002" lon="-3.66718">
+<ele>621.081347664563</ele>
+<name>LG-137</name>
+</rtept>
+<rtept lat="57.02705" lon="-3.66266">
+<ele>606.856140975351</ele>
+<name>LG-138</name>
+</rtept>
+<rtept lat="57.02508" lon="-3.65711">
+<ele>592.062691069156</ele>
+<name>LG-139</name>
+</rtept>
+<rtept lat="57.02409" lon="-3.64785">
+<ele>568.809456958608</ele>
+<name>LG-140</name>
+</rtept>
+<rtept lat="57.02415" lon="-3.64304">
+<ele>562.431954371858</ele>
+<name>LG-141</name>
+</rtept>
+<rtept lat="57.02474" lon="-3.63803">
+<ele>551.70730877483</ele>
+<name>LG-142</name>
+</rtept>
+<rtept lat="57.0252" lon="-3.6343">
+<ele>537.598889975424</ele>
+<name>LG-143</name>
+</rtept>
+<rtept lat="57.02537" lon="-3.63238">
+<ele>523.101516108859</ele>
+<name>LG-144</name>
+</rtept>
+<rtept lat="57.02569" lon="-3.62928">
+<ele>511.406626071525</ele>
+<name>LG-145</name>
+</rtept>
+<rtept lat="57.02577" lon="-3.62779">
+<ele>501.994162413393</ele>
+<name>LG-146</name>
+</rtept>
+<rtept lat="57.02755" lon="-3.62801">
+<ele>495.735993174877</ele>
+<name>LG-147</name>
+</rtept>
+<rtept lat="57.0282" lon="-3.62771">
+<ele>500.122966861188</ele>
+<name>LG-148</name>
+</rtept>
+<rtept lat="57.02849" lon="-3.62758">
+<ele>492.225213582754</ele>
+<name>LG-149</name>
+</rtept>
+<rtept lat="57.02861" lon="-3.6268">
+<ele>500.289213582802</ele>
+<name>LG-150</name>
+</rtept>
+<rtept lat="57.02665" lon="-3.62413">
+<ele>477.073171630335</ele>
+<name>LG-151</name>
+</rtept>
+<rtept lat="57.0256" lon="-3.62291">
+<ele>474.980063737935</ele>
+<name>LG-152</name>
+</rtept>
+<rtept lat="57.02469" lon="-3.61782">
+<ele>457.959496594009</ele>
+<name>LG-153</name>
+</rtept>
+<rtept lat="57.02424" lon="-3.61469">
+<ele>450.457789923401</ele>
+<name>LG-154</name>
+</rtept>
+<rtept lat="57.02453" lon="-3.61249">
+<ele>447.855188291091</ele>
+<name>LG-155</name>
+</rtept>
+<rtept lat="57.0254" lon="-3.60918">
+<ele>447.014606173629</ele>
+<name>LG-156</name>
+</rtept>
+<rtept lat="57.02547" lon="-3.6078">
+<ele>448.048479349816</ele>
+<name>LG-157</name>
+</rtept>
+<rtept lat="57.02591" lon="-3.6048">
+<ele>447.039409451985</ele>
+<name>LG-158</name>
+</rtept>
+<rtept lat="57.02533" lon="-3.60302">
+<ele>446.810181479111</ele>
+<name>LG-159</name>
+</rtept>
+<rtept lat="57.02528" lon="-3.6011">
+<ele>440.51838047142</ele>
+<name>LG-160</name>
+</rtept>
+<rtept lat="57.02514" lon="-3.59946">
+<ele>445.580063085878</ele>
+<name>LG-161</name>
+</rtept>
+<rtept lat="57.0236" lon="-3.59632">
+<ele>439.216273814535</ele>
+<name>LG-162</name>
+</rtept>
+<rtept lat="57.02289" lon="-3.59599">
+<ele>440.146076057744</ele>
+<name>LG-163</name>
+</rtept>
+<rtept lat="57.02215" lon="-3.5952">
+<ele>432.96339382637</ele>
+<name>LG-164</name>
+</rtept>
+<rtept lat="57.02186" lon="-3.59321">
+<ele>429.75049886467</ele>
+<name>LG-165</name>
+</rtept>
+<rtept lat="57.02179" lon="-3.59161">
+<ele>429</ele>
+<name>LG-166</name>
+</rtept>
+<rtept lat="57.0227" lon="-3.58362">
+<ele>428.756174936152</ele>
+<name>LG-167</name>
+</rtept>
+<rtept lat="57.02283" lon="-3.58213">
+<ele>434.003652015305</ele>
+<name>LG-168</name>
+</rtept>
+<rtept lat="57.02225" lon="-3.58211">
+<ele>429.744146338654</ele>
+<name>LG-169</name>
+</rtept>
+<rtept lat="57.02156" lon="-3.58103">
+<ele>426.758137689739</ele>
+<name>LG-170</name>
+</rtept>
+<rtept lat="57.02113" lon="-3.57931">
+<ele>430.618824680793</ele>
+<name>LG-171</name>
+</rtept>
+<rtept lat="57.02058" lon="-3.57835">
+<ele>426.069390105943</ele>
+<name>LG-172</name>
+</rtept>
+<rtept lat="57.0191" lon="-3.57738">
+<ele>425.3846692595</ele>
+<name>LG-173</name>
+</rtept>
+<rtept lat="57.01843" lon="-3.57616">
+<ele>418.751030216074</ele>
+<name>LG-174</name>
+</rtept>
+<rtept lat="57.01803" lon="-3.57425">
+<ele>418.037962588882</ele>
+<name>LG-175</name>
+</rtept>
+<rtept lat="57.01802" lon="-3.57272">
+<ele>424.287763213491</ele>
+<name>LG-176</name>
+</rtept>
+<rtept lat="57.017" lon="-3.56925">
+<ele>422.155367116475</ele>
+<name>LG-177</name>
+</rtept>
+<rtept lat="57.01659" lon="-3.56817">
+<ele>415.995367116499</ele>
+<name>LG-178</name>
+</rtept>
+<rtept lat="57.01612" lon="-3.56646">
+<ele>414.827129094467</ele>
+<name>LG-179</name>
+</rtept>
+<rtept lat="57.01554" lon="-3.56563">
+<ele>417.165168124163</ele>
+<name>LG-180</name>
+</rtept>
+<rtept lat="57.01486" lon="-3.56397">
+<ele>414.902345330954</ele>
+<name>LG-181</name>
+</rtept>
+<rtept lat="57.01479" lon="-3.5635">
+<ele>414.24996031822</ele>
+<name>LG-182</name>
+</rtept>
+<rtept lat="57.01439" lon="-3.56273">
+<ele>414.188194450998</ele>
+<name>LG-183</name>
+</rtept>
+<rtept lat="57.01371" lon="-3.55885">
+<ele>411.40835641526</ele>
+<name>LG-184</name>
+</rtept>
+<rtept lat="57.01354" lon="-3.55831">
+<ele>409.739940803373</ele>
+<name>LG-185</name>
+</rtept>
+<rtept lat="57.01362" lon="-3.55741">
+<ele>415.781822410119</ele>
+<name>LG-186</name>
+</rtept>
+<rtept lat="57.01343" lon="-3.55648">
+<ele>411.912150879973</ele>
+<name>LG-187</name>
+</rtept>
+<rtept lat="57.01284" lon="-3.55392">
+<ele>416.928793812644</ele>
+<name>LG-188</name>
+</rtept>
+<rtept lat="57.01265" lon="-3.5529">
+<ele>415.782943074036</ele>
+<name>LG-189</name>
+</rtept>
+<rtept lat="57.01182" lon="-3.55178">
+<ele>411.042964859539</ele>
+<name>LG-190</name>
+</rtept>
+<rtept lat="57.01159" lon="-3.55115">
+<ele>417.101423659372</ele>
+<name>LG-191</name>
+</rtept>
+<rtept lat="57.00972" lon="-3.54771">
+<ele>411.440296835518</ele>
+<name>LG-192</name>
+</rtept>
+<rtept lat="57.00891" lon="-3.54673">
+<ele>410.061159310532</ele>
+<name>LG-193</name>
+</rtept>
+<rtept lat="57.0067" lon="-3.54488">
+<ele>404.178768137896</ele>
+<name>LG-194</name>
+</rtept>
+<rtept lat="57.00594" lon="-3.54377">
+<ele>405.922684885104</ele>
+<name>LG-195</name>
+</rtept>
+<rtept lat="57.00495" lon="-3.54271">
+<ele>405.977520650178</ele>
+<name>LG-196</name>
+</rtept>
+<rtept lat="57.00469" lon="-3.54342">
+<ele>403.930975943837</ele>
+<name>LG-197</name>
+</rtept>
+<rtept lat="57.00411" lon="-3.54427">
+<ele>403.341267002565</ele>
+<name>LG-198</name>
+</rtept>
+<rtept lat="57.00009" lon="-3.54477">
+<ele>397.094372040868</ele>
+<name>LG-199</name>
+</rtept>
+<rtept lat="56.99892" lon="-3.54454">
+<ele>398.691849120033</ele>
+<name>LG-200</name>
+</rtept>
+<rtept lat="56.99759" lon="-3.54255">
+<ele>397.528708941269</ele>
+<name>LG-201</name>
+</rtept>
+<rtept lat="56.99686" lon="-3.54206">
+<ele>395.769975943837</ele>
+<name>LG-202</name>
+</rtept>
+<rtept lat="56.99527" lon="-3.54185">
+<ele>391.459398367688</ele>
+<name>LG-203</name>
+</rtept>
+<rtept lat="56.99445" lon="-3.54119">
+<ele>389.136242946404</ele>
+<name>LG-204</name>
+</rtept>
+<rtept lat="56.99418" lon="-3.54114">
+<ele>390.966630229789</ele>
+<name>LG-205</name>
+</rtept>
+<rtept lat="56.99322" lon="-3.54299">
+<ele>386.16460390297</ele>
+<name>LG-206</name>
+</rtept>
+<rtept lat="56.99281" lon="-3.54313">
+<ele>384.555288788073</ele>
+<name>LG-207</name>
+</rtept>
+<rtept lat="56.99244" lon="-3.54408">
+<ele>391.633833494413</ele>
+<name>LG-208</name>
+</rtept>
+<rtept lat="56.99071" lon="-3.54413">
+<ele>382.405919017863</ele>
+<name>LG-209</name>
+</rtept>
+<rtept lat="56.99036" lon="-3.54361">
+<ele>378.869207805938</ele>
+<name>LG-210</name>
+</rtept>
+<rtept lat="56.99018" lon="-3.5436">
+<ele>378.47720780594</ele>
+<name>LG-211</name>
+</rtept>
+</rte>
+</gpx>

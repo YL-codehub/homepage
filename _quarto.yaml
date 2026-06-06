@@ -37,6 +37,8 @@ website:
         text: Gallery
       - href: carbon.qmd
         text: Carbon
+      - href: adventures.qmd
+        text: Adventures
  
     right:
       - icon: github

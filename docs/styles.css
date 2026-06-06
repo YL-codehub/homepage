@@ -1,3 +1,24 @@
 .justify {
   text-align: justify;
 }
+
+.ref {
+  cursor: pointer;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: #4a7fa5;
+  background-color: #e8f2fa;
+  border: 1px solid #b8d4ea;
+  border-radius: 4px;
+  padding: 1px 5px;
+  white-space: nowrap;
+  user-select: none;
+  text-decoration: none;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.ref:hover {
+  background-color: #4a7fa5;
+  color: #fff;
+  border-color: #4a7fa5;
+}

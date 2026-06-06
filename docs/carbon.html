@@ -72,6 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -130,6 +131,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./carbon.html" aria-current="page"> 
 <span class="menu-text">Carbon</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./adventures.html"> 
+<span class="menu-text">Adventures</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -199,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="travels" class="level2">
 <h2 class="anchored" data-anchor-id="travels">Travels</h2>
 <p>Flights in red, trains in blue.</p>
-<div id="f2b7afa0" class="cell" data-message="false" data-execution_count="1">
+<div id="5c3641b6" class="cell" data-message="false" data-execution_count="1">
 <div class="cell-output cell-output-display" data-execution_count="1">
 <div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><span style="color:#565656">Make this Notebook Trusted to load map: File -&gt; Trust Notebook</span><iframe srcdoc="<!DOCTYPE html>
 <html>
@@ -220,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
             <meta name=&quot;viewport&quot; content=&quot;width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; />
             <style>
-                #map_397da5edc6bc3d3ea946f977e9543ce7 {
+                #map_dd9d9a11ffb37e3f897db1201f84cfcc {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -258,14 +263,14 @@ ul.task-list li input[type="checkbox"] {
 <body>
     
     
-            <div class=&quot;folium-map&quot; id=&quot;map_397da5edc6bc3d3ea946f977e9543ce7&quot; ></div>
+            <div class=&quot;folium-map&quot; id=&quot;map_dd9d9a11ffb37e3f897db1201f84cfcc&quot; ></div>
         
 </body>
 <script>
     
     
-            var map_397da5edc6bc3d3ea946f977e9543ce7 = L.map(
-                &quot;map_397da5edc6bc3d3ea946f977e9543ce7&quot;,
+            var map_dd9d9a11ffb37e3f897db1201f84cfcc = L.map(
+                &quot;map_dd9d9a11ffb37e3f897db1201f84cfcc&quot;,
                 {
                     center: [48.8566, 2.3522],
                     crs: L.CRS.EPSG3857,
@@ -282,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
 
         
     
-            var tile_layer_495db061090cbb6251203cb7511515a1 = L.tileLayer(
+            var tile_layer_60c43a5630f776181a70230745157218 = L.tileLayer(
                 &quot;https://tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
                 {
   &quot;minZoom&quot;: 0,
@@ -299,34 +304,34 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-            tile_layer_495db061090cbb6251203cb7511515a1.addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            tile_layer_60c43a5630f776181a70230745157218.addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_690cf205db3d216a0e2623c6784a3272 = L.marker(
+            var marker_172fdff4de0a31e748e0f048289920d5 = L.marker(
                 [52.2043, 0.1138],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_54747aaa0d3f59facf90c7add5ca48e9 = L.popup({
+        var popup_2ba9541a5a5a56143a37957777b0919f = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_5500c89a10d019518ab3fcf051466c3f = $(`<div id=&quot;html_5500c89a10d019518ab3fcf051466c3f&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>DAMTP, Cambridge, where I'm based!</div>`)[0];
-                popup_54747aaa0d3f59facf90c7add5ca48e9.setContent(html_5500c89a10d019518ab3fcf051466c3f);
+                var html_cf956dab22620f0fcf9281e34bc16ea4 = $(`<div id=&quot;html_cf956dab22620f0fcf9281e34bc16ea4&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>DAMTP, Cambridge, where I'm based!</div>`)[0];
+                popup_2ba9541a5a5a56143a37957777b0919f.setContent(html_cf956dab22620f0fcf9281e34bc16ea4);
             
         
 
-        marker_690cf205db3d216a0e2623c6784a3272.bindPopup(popup_54747aaa0d3f59facf90c7add5ca48e9)
+        marker_172fdff4de0a31e748e0f048289920d5.bindPopup(popup_2ba9541a5a5a56143a37957777b0919f)
         ;
 
         
     
     
-            marker_690cf205db3d216a0e2623c6784a3272.bindTooltip(
+            marker_172fdff4de0a31e748e0f048289920d5.bindTooltip(
                 `<div>
                      DAMTP
                  </div>`,
@@ -336,14 +341,14 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-            var marker_447e287f5c7540db8269fdb41237b1fc = L.marker(
+            var marker_8ce087f83e05a5be030830aa6d241322 = L.marker(
                 [51.5247, -0.0393],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var div_icon_40975a8408b7b4e0e653a98fa75dc5fd = L.divIcon({
+            var div_icon_75203edfa3687219061fcf5f4d0ab1e2 = L.divIcon({
   &quot;html&quot;: &quot;\n\u003cdiv style=\&quot;font-size: 14px; color: black;\&quot;\u003e\n  \u003ci class=\&quot;fa fa-flag\&quot;\u003e\u003c/i\u003e\n\u003c/div\u003e\n&quot;,
   &quot;iconSize&quot;: [24, 24],
   &quot;iconAnchor&quot;: [12, 12],
@@ -351,24 +356,24 @@ ul.task-list li input[type="checkbox"] {
 });
         
     
-        var popup_1fa2a095d67c3e7d840917a912c84f09 = L.popup({
+        var popup_1301c23b4feebc683d52f625f2c03a7c = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_0f315d2c6b9599b6ef0f49963a50be40 = $(`<div id=&quot;html_0f315d2c6b9599b6ef0f49963a50be40&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>nan</div>`)[0];
-                popup_1fa2a095d67c3e7d840917a912c84f09.setContent(html_0f315d2c6b9599b6ef0f49963a50be40);
+                var html_cb21726ebda0c46ee5ac0f89f8351da3 = $(`<div id=&quot;html_cb21726ebda0c46ee5ac0f89f8351da3&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>nan</div>`)[0];
+                popup_1301c23b4feebc683d52f625f2c03a7c.setContent(html_cb21726ebda0c46ee5ac0f89f8351da3);
             
         
 
-        marker_447e287f5c7540db8269fdb41237b1fc.bindPopup(popup_1fa2a095d67c3e7d840917a912c84f09)
+        marker_8ce087f83e05a5be030830aa6d241322.bindPopup(popup_1301c23b4feebc683d52f625f2c03a7c)
         ;
 
         
     
     
-            marker_447e287f5c7540db8269fdb41237b1fc.bindTooltip(
+            marker_8ce087f83e05a5be030830aa6d241322.bindTooltip(
                 `<div>
                      Queen Mary University
                  </div>`,
@@ -378,10 +383,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_447e287f5c7540db8269fdb41237b1fc.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_8ce087f83e05a5be030830aa6d241322.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_3437a2e36a9e536f1838f516ac6ae70d = L.polyline.antPath(
+            ant_path_448495dd718e5723b67a0b75512e7956 = L.polyline.antPath(
               [[52.2043, 0.1138], [51.5247, -0.0393]],
               {
   &quot;stroke&quot;: true,
@@ -408,34 +413,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_ade4b7536f2b1f534d3f8fc25cc05dbe = L.marker(
+            var marker_e0357391a6e561c4330aaf5435764ae7 = L.marker(
                 [51.5114, -0.1161],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_39768736b86a7827697113d8a6dd4864 = L.popup({
+        var popup_5093b1457a08a94c23029fd0840a6ca2 = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_e1b8e02134b02de766c6fb5f7712c737 = $(`<div id=&quot;html_e1b8e02134b02de766c6fb5f7712c737&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>nan</div>`)[0];
-                popup_39768736b86a7827697113d8a6dd4864.setContent(html_e1b8e02134b02de766c6fb5f7712c737);
+                var html_5bc190ac73dd8ee602e85a3b2a4f35c0 = $(`<div id=&quot;html_5bc190ac73dd8ee602e85a3b2a4f35c0&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>nan</div>`)[0];
+                popup_5093b1457a08a94c23029fd0840a6ca2.setContent(html_5bc190ac73dd8ee602e85a3b2a4f35c0);
             
         
 
-        marker_ade4b7536f2b1f534d3f8fc25cc05dbe.bindPopup(popup_39768736b86a7827697113d8a6dd4864)
+        marker_e0357391a6e561c4330aaf5435764ae7.bindPopup(popup_5093b1457a08a94c23029fd0840a6ca2)
         ;
 
         
     
     
-            marker_ade4b7536f2b1f534d3f8fc25cc05dbe.bindTooltip(
+            marker_e0357391a6e561c4330aaf5435764ae7.bindTooltip(
                 `<div>
                      King's College London
                  </div>`,
@@ -445,10 +450,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_ade4b7536f2b1f534d3f8fc25cc05dbe.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_e0357391a6e561c4330aaf5435764ae7.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_eb96dba1c217799ecea214784eb6bd45 = L.polyline.antPath(
+            ant_path_aeebd8499c31a2ffda136f58bb6cec6c = L.polyline.antPath(
               [[52.2043, 0.1138], [51.5114, -0.1161]],
               {
   &quot;stroke&quot;: true,
@@ -475,34 +480,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_e43c85d7bcd1fab1dd48643c1c6f71e1 = L.marker(
+            var marker_d23f91cada8556793efd87ac459f5766 = L.marker(
                 [48.70662, 2.1771],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_c714c58640718a296ec628618d9e8719 = L.popup({
+        var popup_28aed786d504a97cfddea14d376e1362 = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_f93af6b09811636babb1741f34884fbe = $(`<div id=&quot;html_f93af6b09811636babb1741f34884fbe&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>2025 CoBALt conference</div>`)[0];
-                popup_c714c58640718a296ec628618d9e8719.setContent(html_f93af6b09811636babb1741f34884fbe);
+                var html_9bbcf5a816d87dee8fe9d00048fae439 = $(`<div id=&quot;html_9bbcf5a816d87dee8fe9d00048fae439&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>2025 CoBALt conference</div>`)[0];
+                popup_28aed786d504a97cfddea14d376e1362.setContent(html_9bbcf5a816d87dee8fe9d00048fae439);
             
         
 
-        marker_e43c85d7bcd1fab1dd48643c1c6f71e1.bindPopup(popup_c714c58640718a296ec628618d9e8719)
+        marker_d23f91cada8556793efd87ac459f5766.bindPopup(popup_28aed786d504a97cfddea14d376e1362)
         ;
 
         
     
     
-            marker_e43c85d7bcd1fab1dd48643c1c6f71e1.bindTooltip(
+            marker_d23f91cada8556793efd87ac459f5766.bindTooltip(
                 `<div>
                      Institut Pascal
                  </div>`,
@@ -512,10 +517,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_e43c85d7bcd1fab1dd48643c1c6f71e1.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_d23f91cada8556793efd87ac459f5766.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_e1440113f70622159f07e8fad09d4749 = L.polyline.antPath(
+            ant_path_976a660b5da8c2c87a0560737eaed56d = L.polyline.antPath(
               [[52.2043, 0.1138], [48.70662, 2.1771]],
               {
   &quot;stroke&quot;: true,
@@ -542,34 +547,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_527b2296f5506bc4233ce219b07cf9d4 = L.marker(
+            var marker_b684f4644b5962f04c47802800f802b3 = L.marker(
                 [48.25667, 11.66966],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_a265d3b3cbd591343e3b69e900fbb922 = L.popup({
+        var popup_625611ce2ba220e07eb7824f1d25291d = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_a2975d50bae1017b5f0b16ee55387793 = $(`<div id=&quot;html_a2975d50bae1017b5f0b16ee55387793&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>2023 Cam-LMU meeting</div>`)[0];
-                popup_a265d3b3cbd591343e3b69e900fbb922.setContent(html_a2975d50bae1017b5f0b16ee55387793);
+                var html_e5aaa6ab5c33e2caf1a33e04d7c5f10f = $(`<div id=&quot;html_e5aaa6ab5c33e2caf1a33e04d7c5f10f&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>2023 Cam-LMU meeting</div>`)[0];
+                popup_625611ce2ba220e07eb7824f1d25291d.setContent(html_e5aaa6ab5c33e2caf1a33e04d7c5f10f);
             
         
 
-        marker_527b2296f5506bc4233ce219b07cf9d4.bindPopup(popup_a265d3b3cbd591343e3b69e900fbb922)
+        marker_b684f4644b5962f04c47802800f802b3.bindPopup(popup_625611ce2ba220e07eb7824f1d25291d)
         ;
 
         
     
     
-            marker_527b2296f5506bc4233ce219b07cf9d4.bindTooltip(
+            marker_b684f4644b5962f04c47802800f802b3.bindTooltip(
                 `<div>
                      Max Planck Institute
                  </div>`,
@@ -579,10 +584,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_527b2296f5506bc4233ce219b07cf9d4.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_b684f4644b5962f04c47802800f802b3.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_e400d847cbf5c106876d0a76b27b423e = L.polyline.antPath(
+            ant_path_fa2ed5ddb1a823afcbbcd3a8324bd065 = L.polyline.antPath(
               [[52.2043, 0.1138], [48.25667, 11.66966]],
               {
   &quot;stroke&quot;: true,
@@ -609,34 +614,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_24fdd3cd6f04c1128f7bccf0c03bea2e = L.marker(
+            var marker_113891b086aa050f6241352d5b0a5500 = L.marker(
                 [55.86085, -4.28812],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_c6c11df3b5df357e3b975c05546a3831 = L.popup({
+        var popup_a996f9f4f641ea82246b3d19401221ec = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_f07ce7615f5b2efd65391551d69c8379 = $(`<div id=&quot;html_f07ce7615f5b2efd65391551d69c8379&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>International GR24xAmaldi16 conference</div>`)[0];
-                popup_c6c11df3b5df357e3b975c05546a3831.setContent(html_f07ce7615f5b2efd65391551d69c8379);
+                var html_9b0e492c8f902b2309360055ea5df842 = $(`<div id=&quot;html_9b0e492c8f902b2309360055ea5df842&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>International GR24xAmaldi16 conference</div>`)[0];
+                popup_a996f9f4f641ea82246b3d19401221ec.setContent(html_9b0e492c8f902b2309360055ea5df842);
             
         
 
-        marker_24fdd3cd6f04c1128f7bccf0c03bea2e.bindPopup(popup_c6c11df3b5df357e3b975c05546a3831)
+        marker_113891b086aa050f6241352d5b0a5500.bindPopup(popup_a996f9f4f641ea82246b3d19401221ec)
         ;
 
         
     
     
-            marker_24fdd3cd6f04c1128f7bccf0c03bea2e.bindTooltip(
+            marker_113891b086aa050f6241352d5b0a5500.bindTooltip(
                 `<div>
                      Scottish Exhibition Centre
                  </div>`,
@@ -646,10 +651,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_24fdd3cd6f04c1128f7bccf0c03bea2e.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_113891b086aa050f6241352d5b0a5500.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_ea56a0a485337860e6b05fc8b0371ebf = L.polyline.antPath(
+            ant_path_b1bfcfbd04f028fa6baff46333326e4d = L.polyline.antPath(
               [[52.2043, 0.1138], [55.86085, -4.28812]],
               {
   &quot;stroke&quot;: true,
@@ -676,34 +681,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_38d5b58ca0399b65d7137e008f7af809 = L.marker(
+            var marker_0c7dcac3236b4f1f9942af60077febde = L.marker(
                 [54.9784, -1.6174],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_e81e6b9eb1bb8ef5d2ec5823f01e7960 = L.popup({
+        var popup_ac1b09ec35ca09e0dc534a1987d87292 = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_b32aa2dd51f9e2f5a3153c0f3720f072 = $(`<div id=&quot;html_b32aa2dd51f9e2f5a3153c0f3720f072&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>Where my second PhD supervisor is!</div>`)[0];
-                popup_e81e6b9eb1bb8ef5d2ec5823f01e7960.setContent(html_b32aa2dd51f9e2f5a3153c0f3720f072);
+                var html_97d8dc8e2360ecccb3cf38e7be51e581 = $(`<div id=&quot;html_97d8dc8e2360ecccb3cf38e7be51e581&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>Where my second PhD supervisor is!</div>`)[0];
+                popup_ac1b09ec35ca09e0dc534a1987d87292.setContent(html_97d8dc8e2360ecccb3cf38e7be51e581);
             
         
 
-        marker_38d5b58ca0399b65d7137e008f7af809.bindPopup(popup_e81e6b9eb1bb8ef5d2ec5823f01e7960)
+        marker_0c7dcac3236b4f1f9942af60077febde.bindPopup(popup_ac1b09ec35ca09e0dc534a1987d87292)
         ;
 
         
     
     
-            marker_38d5b58ca0399b65d7137e008f7af809.bindTooltip(
+            marker_0c7dcac3236b4f1f9942af60077febde.bindTooltip(
                 `<div>
                      Newcastle University
                  </div>`,
@@ -713,10 +718,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_38d5b58ca0399b65d7137e008f7af809.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_0c7dcac3236b4f1f9942af60077febde.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_9ade17322352f22d5d1d04247c3df76b = L.polyline.antPath(
+            ant_path_c93e01a726d2718257c600f491617f85 = L.polyline.antPath(
               [[52.2043, 0.1138], [54.9784, -1.6174]],
               {
   &quot;stroke&quot;: true,
@@ -743,34 +748,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_6834b9d43d776237646ba55300962895 = L.marker(
+            var marker_d47050a1062c1b074c6afdd0fd25ceff = L.marker(
                 [51.7548, -1.254],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_5a2e082a1cc4d957edac46d840d700e5 = L.popup({
+        var popup_9c26468610df3950fcea44bec388a714 = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_d61156460b76adffb110091272024d8d = $(`<div id=&quot;html_d61156460b76adffb110091272024d8d&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>nan</div>`)[0];
-                popup_5a2e082a1cc4d957edac46d840d700e5.setContent(html_d61156460b76adffb110091272024d8d);
+                var html_702ed2d405072bd18ae8b6b6d0762ad3 = $(`<div id=&quot;html_702ed2d405072bd18ae8b6b6d0762ad3&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>nan</div>`)[0];
+                popup_9c26468610df3950fcea44bec388a714.setContent(html_702ed2d405072bd18ae8b6b6d0762ad3);
             
         
 
-        marker_6834b9d43d776237646ba55300962895.bindPopup(popup_5a2e082a1cc4d957edac46d840d700e5)
+        marker_d47050a1062c1b074c6afdd0fd25ceff.bindPopup(popup_9c26468610df3950fcea44bec388a714)
         ;
 
         
     
     
-            marker_6834b9d43d776237646ba55300962895.bindTooltip(
+            marker_d47050a1062c1b074c6afdd0fd25ceff.bindTooltip(
                 `<div>
                      Oxford Department of Physics
                  </div>`,
@@ -780,10 +785,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_6834b9d43d776237646ba55300962895.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_d47050a1062c1b074c6afdd0fd25ceff.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_9012df2d4de77e48eaa11e222f9e3afc = L.polyline.antPath(
+            ant_path_4abc17a4b4fa4a8f8210a982638c95a6 = L.polyline.antPath(
               [[52.2043, 0.1138], [51.7548, -1.254]],
               {
   &quot;stroke&quot;: true,
@@ -810,34 +815,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_d07637d9c54054e8da491ed5a980795c = L.marker(
+            var marker_893ec1f41061b602890235ebcd86181d = L.marker(
                 [53.4064, -2.9665],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_cd73928cc3385d2083e68c3a6add8246 = L.popup({
+        var popup_1cac8bcb3a910da162c978615ec9b3ac = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_1b897f7b70af5f8bf6613e5ac162fc46 = $(`<div id=&quot;html_1b897f7b70af5f8bf6613e5ac162fc46&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>BUSSTEP summer school</div>`)[0];
-                popup_cd73928cc3385d2083e68c3a6add8246.setContent(html_1b897f7b70af5f8bf6613e5ac162fc46);
+                var html_ca31698c80e31089f8790132e7addf0d = $(`<div id=&quot;html_ca31698c80e31089f8790132e7addf0d&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>BUSSTEP summer school</div>`)[0];
+                popup_1cac8bcb3a910da162c978615ec9b3ac.setContent(html_ca31698c80e31089f8790132e7addf0d);
             
         
 
-        marker_d07637d9c54054e8da491ed5a980795c.bindPopup(popup_cd73928cc3385d2083e68c3a6add8246)
+        marker_893ec1f41061b602890235ebcd86181d.bindPopup(popup_1cac8bcb3a910da162c978615ec9b3ac)
         ;
 
         
     
     
-            marker_d07637d9c54054e8da491ed5a980795c.bindTooltip(
+            marker_893ec1f41061b602890235ebcd86181d.bindTooltip(
                 `<div>
                      Liverpool University
                  </div>`,
@@ -847,10 +852,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_d07637d9c54054e8da491ed5a980795c.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_893ec1f41061b602890235ebcd86181d.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_f1b84e34f269c0ad86c4cdd2c858dfb1 = L.polyline.antPath(
+            ant_path_c769fc936dc30bd966ccce4ad189f031 = L.polyline.antPath(
               [[52.2043, 0.1138], [53.4064, -2.9665]],
               {
   &quot;stroke&quot;: true,
@@ -877,34 +882,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_de772581063a221d1be3002e0de57a49 = L.marker(
+            var marker_446503e12b5d5e684d4abf57af4d46cb = L.marker(
                 [48.1449, 11.5802],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_d9c21ef4183b9c72318f375bb042ceed = L.popup({
+        var popup_4c1b2be8db2d3cb3c7d0d9240046b578 = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_27e41fb37765294d6d993a68213fcf1f = $(`<div id=&quot;html_27e41fb37765294d6d993a68213fcf1f&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>2025 Cam-LMU meeting</div>`)[0];
-                popup_d9c21ef4183b9c72318f375bb042ceed.setContent(html_27e41fb37765294d6d993a68213fcf1f);
+                var html_b74fed05cdc534492f7dd1c71f00e03d = $(`<div id=&quot;html_b74fed05cdc534492f7dd1c71f00e03d&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>2025 Cam-LMU meeting</div>`)[0];
+                popup_4c1b2be8db2d3cb3c7d0d9240046b578.setContent(html_b74fed05cdc534492f7dd1c71f00e03d);
             
         
 
-        marker_de772581063a221d1be3002e0de57a49.bindPopup(popup_d9c21ef4183b9c72318f375bb042ceed)
+        marker_446503e12b5d5e684d4abf57af4d46cb.bindPopup(popup_4c1b2be8db2d3cb3c7d0d9240046b578)
         ;
 
         
     
     
-            marker_de772581063a221d1be3002e0de57a49.bindTooltip(
+            marker_446503e12b5d5e684d4abf57af4d46cb.bindTooltip(
                 `<div>
                      Universitäts-Sternwarte München
                  </div>`,
@@ -914,10 +919,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_de772581063a221d1be3002e0de57a49.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_446503e12b5d5e684d4abf57af4d46cb.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_6e82a4c22c0e48cad097e83a93cff282 = L.polyline.antPath(
+            ant_path_37de4f674566c75bbfe289c0764bf27a = L.polyline.antPath(
               [[52.2043, 0.1138], [48.1449, 11.5802]],
               {
   &quot;stroke&quot;: true,
@@ -944,34 +949,34 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-            var marker_fce51212278c03058cd4e7b8f5f1726d = L.marker(
+            var marker_6ec02e48bcbf89aeb85cde938572e782 = L.marker(
                 [48.8462, 2.3469],
                 {
 }
-            ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+            ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
     
-        var popup_0ba18d37146265e7c109a918819b3e1d = L.popup({
+        var popup_6cc9c9875290b2dc66cd78b1c95f6340 = L.popup({
   &quot;maxWidth&quot;: &quot;100%&quot;,
 });
 
         
             
-                var html_b2acb3f3c32e696fec58f35cbaea427b = $(`<div id=&quot;html_b2acb3f3c32e696fec58f35cbaea427b&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>Inflation 2025 conference</div>`)[0];
-                popup_0ba18d37146265e7c109a918819b3e1d.setContent(html_b2acb3f3c32e696fec58f35cbaea427b);
+                var html_32eb066af3e04de1a65703711a3309f0 = $(`<div id=&quot;html_32eb066af3e04de1a65703711a3309f0&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>Inflation 2025 conference</div>`)[0];
+                popup_6cc9c9875290b2dc66cd78b1c95f6340.setContent(html_32eb066af3e04de1a65703711a3309f0);
             
         
 
-        marker_fce51212278c03058cd4e7b8f5f1726d.bindPopup(popup_0ba18d37146265e7c109a918819b3e1d)
+        marker_6ec02e48bcbf89aeb85cde938572e782.bindPopup(popup_6cc9c9875290b2dc66cd78b1c95f6340)
         ;
 
         
     
     
-            marker_fce51212278c03058cd4e7b8f5f1726d.bindTooltip(
+            marker_6ec02e48bcbf89aeb85cde938572e782.bindTooltip(
                 `<div>
                      Institut d'Astrophysique de Paris
                  </div>`,
@@ -981,10 +986,10 @@ ul.task-list li input[type="checkbox"] {
             );
         
     
-                marker_fce51212278c03058cd4e7b8f5f1726d.setIcon(div_icon_40975a8408b7b4e0e653a98fa75dc5fd);
+                marker_6ec02e48bcbf89aeb85cde938572e782.setIcon(div_icon_75203edfa3687219061fcf5f4d0ab1e2);
             
     
-            ant_path_2455738c21101b09b36841a5ec1db6a2 = L.polyline.antPath(
+            ant_path_34fb41796434d3d27a2840f734ecd77e = L.polyline.antPath(
               [[52.2043, 0.1138], [48.8462, 2.3469]],
               {
   &quot;stroke&quot;: true,
@@ -1011,7 +1016,7 @@ ul.task-list li input[type="checkbox"] {
   &quot;delay&quot;: 400,
   &quot;pulseColor&quot;: &quot;#FFFFFF&quot;,
 }
-        ).addTo(map_397da5edc6bc3d3ea946f977e9543ce7);
+        ).addTo(map_dd9d9a11ffb37e3f897db1201f84cfcc);
         
 </script>
 </html>" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe></div></div>
@@ -1021,7 +1026,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="supercomputing" class="level2">
 <h2 class="anchored" data-anchor-id="supercomputing">Supercomputing</h2>
 <p>My work includes running simulations of the young universe or training AI models, which both require to use supercomputers and consequently a lot of electricity (for power and cooling). I do my best to keep these numbers low and get important results still! Ideally, one citizen should be aiming for ~2 tons of CO2 emissions per year for day-to-day life.</p>
-<div id="151f5698" class="cell" data-message="false" data-execution_count="2">
+<div id="889510a7" class="cell" data-message="false" data-execution_count="2">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">

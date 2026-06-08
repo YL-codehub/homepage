@@ -1,6 +1,7 @@
 lat,lon,image,caption,description
-52.21084,0.09206,CMS_april26.jpeg,DAMTP Cambridge,Centre for Mathematical Sciences where I am based!
-51.60687,-1.30047,,UK Numerical Relativity Meeting (8 June),Collaboration meeting
+52.2104,0.1019,CMS_april26.jpeg,DAMTP Cambridge,Centre for Mathematical Sciences where I am based!
+52.1942,0.1370, IMG_4554.jpeg,Cambridge Station (8 June),"7.42am from Cambridge Station with a 'great' eastern english train..."
+51.608338996427264,-1.3153600210357073,IMG_4561.jpeg+IMG_4564.jpeg+IMG_4562.jpeg,UK Numerical Relativity Meeting (8 June),"After a sucessful journey through London, I arrived at the Milton Hill House Hotel, where our UK numerical relativity community is gathering ('Numerical Relativity' is the science of solving Einstein equations of General Relativity with a computer, like I do for the early universe). This is a rather chic venue for a scientific conference, with very nice rooms and view over the great ranch-like british estate. Beyond humans, I even friended some cows. The most interesting thing I learnt today is related to how industry shapes the landscape of technical solutions even for science. So-called GPU chips used for cutting-edge rapid computations, and most importantly for training AI, are increasingly built to compute things with less accurate numbers and less energy (good for climate but it's rather to be able to do more with the same energy), which is a pretty terrible thing for science (climate or cosmology, that is the question). However, like every problem, this can be turned into an opportunity. Let's see what the future will look like for our community..."
 50.79373,-1.09562,,ICG Portsmouth (9-10 June),"Invited seminar speaker, host: David Wands"
 50.66846,4.61103,,Louvain-la-Neuve (11-12 June),"Invited speaker, CURL group, hosts: Christophe Ringeval and Eemeli Tömberg"
 46.23303,6.05579,,CERN Geneva (15-16 June),"NEHOP26 conference, theory division, host: Matteo Braglia"

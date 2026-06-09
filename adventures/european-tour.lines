@@ -4,7 +4,8 @@
 Cambridge → London King's Cross (8 June) | 52.1942,0.1370 | 51.5308,-0.1238 | color=#c0392b
 London King's Cross → London Paddington (8 June) | 51.5308,-0.1238 | 51.5154,-0.1755 | color=#c0392b
 London Paddington → Didcot (8 June) | 51.5154,-0.1755 | 51.6108,-1.2411 | color=#c0392b
-Didcot → Portsmouth (9 June) | 51.6108,-1.2411 | 50.7975,-1.1108 | color=#e67e22
+Didcot → Bath (9 June) | 51.6108,-1.2411 | 51.37776887836344, -2.357453631910602 | color=#e67e22
+Bath → Portsmouth (9 June) | 51.37776887836344, -2.357453631910602 | 50.7975,-1.1108 | color=#e67e22
 Portsmouth → London St Pancras (10 June) | 50.7975,-1.1108 | 51.5340,-0.1260 | color=#f39c12
 London St Pancras → Brussels (11 June) | 51.5340,-0.1260 | 50.8461,4.3567 | color=#27ae60
 Brussels → Louvain-la-Neuve (11 June) | 50.8461,4.3567 | 50.6700,4.6125 | color=#27ae60

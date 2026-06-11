@@ -18,15 +18,17 @@ import folium
 import gpxpy
 import pandas as pd
 import base64
+import io
 from pathlib import Path
+from PIL import Image, ImageOps
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import numpy as np
 
 # ── Current location ──────────────────────────────────────────────────
 CURRENT_LOCATION = True
-CURRENT_LAT      = 50.79769921220995
-CURRENT_LON      = -1.0983791483236056
+CURRENT_LAT      = 50.66554924320916
+CURRENT_LON      = 4.623108176899847
 
 def _parse_lines_file(path):
     """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""
@@ -116,12 +118,15 @@ for lines_path in sorted(Path("adventures").glob("*.lines")):
 # ── Photo markers ─────────────────────────────────────────────────────
 photos = pd.read_csv("adventures/photos.csv")
 
-def _encode(fname):
+def _encode(fname, max_px=800):
     p = Path("adventures/photos") / fname
-    ext = p.suffix.lower().lstrip(".")
-    mime = "jpeg" if ext in ("jpg", "jpeg") else ext
-    b64 = base64.b64encode(p.read_bytes()).decode()
-    return mime, b64
+    with Image.open(p) as img:
+        img = ImageOps.exif_transpose(img)
+        img = img.convert("RGB")
+        img.thumbnail((max_px, max_px), Image.LANCZOS)
+        buf = io.BytesIO()
+        img.save(buf, format="JPEG", quality=85)
+    return "jpeg", base64.b64encode(buf.getvalue()).decode()
 
 for _, row in photos.iterrows():
     raw_image = str(row["image"]).strip() if pd.notna(row["image"]) else ""
@@ -156,20 +161,21 @@ for _, row in photos.iterrows():
         </div>"""
         _double_circle(row["lat"], row["lon"], "#95a5a6", tooltip_html, popup_html, 320)
     else:
-        mime0, b640 = _encode(images[0])
+        mime0, b640_thumb = _encode(images[0], max_px=400)
+        mime0, b640       = _encode(images[0], max_px=800)
         tooltip_html = f"""
         <div style="text-align:center;max-width:200px;">
-          <img src="data:image/{mime0};base64,{b640}"
+          <img src="data:image/{mime0};base64,{b640_thumb}"
                style="width:180px;border-radius:4px;margin-bottom:4px;"><br>
           <b>{cap0}</b>
         </div>"""
 
         slides = ""
         for i, fname in enumerate(images):
-            mime_i, b64_i = _encode(fname) if i > 0 else (mime0, b640)
+            mime_i, b64_i = _encode(fname, max_px=800) if i > 0 else (mime0, b640)
             cap_i = captions[i] if i < len(captions) else ""
             slides += f"""
-            <div style="text-align:center;">
+            <div style="text-align:center;flex-shrink:0;">
               <img src="data:image/{mime_i};base64,{b64_i}"
                    style="height:220px;width:auto;border-radius:6px;margin-bottom:4px;"><br>
               <b style="font-size:13px;">{cap_i}</b>
@@ -256,4 +262,4 @@ m
 
 *... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, Central European Institute for Cosmology and Fundamental Physics (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
 
-*... those who volunteered to help; Miguel Bezarès, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Panagiotis Giannadakis, Nadine Nussbaumer...*
+*... those who volunteered to help; Miguel Bezarès, Sébastien Renaux-Pétel, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Panagiotis Giannadakis, Nadine Nussbaumer, Aishwaryaa Annamalai...*

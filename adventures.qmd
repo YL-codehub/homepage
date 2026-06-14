@@ -7,7 +7,11 @@ jupyter: python3
 
 I have been awarded a travel grant specifically to undertake a low-carbon European research tour (train-only!!), visiting groups with whom I share research interests at a moment that matters; I am finishing my PhD and actively looking to build collaborations. I will be documenting the trip as an open resource for early-career researchers wanting to do something similar and argue to faculties that such travels should be more common and supported at least for the sake of sustainability.
 
-Pre-departure update: I will be logging my adventures on the map below (click to interact), which will be updated as I go.
+**CLICK ON EACH POINT OF THE MAP BELOW TO SEE PHOTOS AND LOGS.**
+
+*If you are on your phone, landscape mode gives a better result.*
+
+Red = where I currently am, Blue = where I have been so far, Grey = not there yet!
 
 ```{python}
 #| echo: false
@@ -27,8 +31,8 @@ import numpy as np
 
 # ── Current location ──────────────────────────────────────────────────
 CURRENT_LOCATION = True
-CURRENT_LAT      = 46.209765800755974
-CURRENT_LON      = 6.121664261817837
+CURRENT_LAT      = 46.23214599071803
+CURRENT_LON      = 6.054625728974293
 
 def _parse_lines_file(path):
     """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""

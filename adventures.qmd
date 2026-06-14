@@ -155,10 +155,10 @@ for _, row in photos.iterrows():
     if not images:
         tooltip_html = f'<div style="font-size:13px;"><b>{cap0}</b></div>'
         popup_html   = f"""
-        <div style="max-width:420px;max-height:360px;overflow-y:auto;text-align:center;padding:8px;">
-          <span style="font-size:13px;color:#999;font-style:italic;">Unavailable for the moment</span><br>
-          <b style="font-size:14px;">{cap0}</b>
-          {"<br><span style='font-size:12px;color:#666;'>" + desc + "</span>" if desc else ""}
+        <div style="text-align:center;padding:8px;">
+          <span style="font-size:16px;color:#999;font-style:italic;">Unavailable for the moment</span><br>
+          <b style="font-size:18px;">{cap0}</b>
+          {"<br><span style='font-size:15px;color:#666;'>" + desc + "</span>" if desc else ""}
         </div>"""
         _double_circle(row["lat"], row["lon"], "#95a5a6", tooltip_html, popup_html, 440)
     else:
@@ -178,16 +178,16 @@ for _, row in photos.iterrows():
             slides += f"""
             <div style="text-align:center;flex-shrink:0;">
               <img src="data:image/{mime_i};base64,{b64_i}"
-                   style="height:220px;width:auto;border-radius:6px;margin-bottom:4px;"><br>
-              <b style="font-size:13px;">{cap_i}</b>
+                   style="height:calc(85vh - 160px);width:auto;border-radius:6px;margin-bottom:4px;"><br>
+              <b style="font-size:16px;">{cap_i}</b>
             </div>"""
 
         popup_html = f"""
-        <div style="max-width:420px;max-height:360px;overflow-y:auto;">
+        <div>
           <div style="display:flex;overflow-x:auto;gap:10px;padding-bottom:6px;">
             {slides}
           </div>
-          {"<div style='font-size:12px;color:#666;margin-top:4px;'>" + desc + "</div>" if desc else ""}
+          {"<div style='font-size:15px;color:#444;margin-top:12px;line-height:1.6;'>" + desc + "</div>" if desc else ""}
         </div>"""
 
         _double_circle(row["lat"], row["lon"], "#5dade2", tooltip_html, popup_html, 440)
@@ -250,6 +250,63 @@ if CURRENT_LOCATION:
 lats = [c[0] for c in all_coords]
 lons = [c[1] for c in all_coords]
 m.fit_bounds([[min(lats), min(lons)], [max(lats), max(lons)]], padding=(20, 20))
+
+# ── Full-screen modal for popups ──────────────────────────────────────
+map_var = m.get_name()
+m.get_root().html.add_child(folium.Element(f"""
+<script>
+(function wait() {{
+  if (typeof {map_var} === 'undefined') {{ setTimeout(wait, 50); return; }}
+
+  var pd = window.parent.document;
+
+  // Inject modal into the outer Quarto page once
+  if (!pd.getElementById('mm')) {{
+    var s = pd.createElement('style');
+    s.textContent = [
+      '#mm{{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:9999;align-items:center;justify-content:center}}',
+      '#mm.open{{display:flex}}',
+      '#mm-box{{background:#fff;border-radius:12px;width:85vw;height:85vh;overflow-y:auto;padding:44px 24px 24px;position:relative;box-sizing:border-box}}',
+      '#mm-close{{position:absolute;top:10px;right:14px;background:none;border:none;font-size:24px;cursor:pointer;color:#555;line-height:1}}'
+    ].join('');
+    pd.head.appendChild(s);
+
+    var d = pd.createElement('div');
+    d.id = 'mm';
+    d.innerHTML = '<div id="mm-box"><button id="mm-close">&#x2715;</button><div id="mm-body"></div></div>';
+    pd.body.appendChild(d);
+
+    pd.getElementById('mm-close').addEventListener('click', function() {{
+      pd.getElementById('mm').classList.remove('open');
+    }});
+    pd.getElementById('mm').addEventListener('click', function(e) {{
+      if (e.target === this) this.classList.remove('open');
+    }});
+  }}
+
+  {map_var}.eachLayer(function(layer) {{
+    if (layer.getPopup && layer.getPopup()) {{
+      layer.getPopup().options.autoPan = false;
+    }}
+  }});
+
+  {map_var}.on('popupopen', function(e) {{
+    var scrollY = window.parent.scrollY;
+    var content = e.popup.getContent();
+    {map_var}.closePopup();
+    var body = pd.getElementById('mm-body');
+    if (typeof content === 'string') {{
+      body.innerHTML = content;
+    }} else {{
+      body.innerHTML = '';
+      body.appendChild(content.cloneNode(true));
+    }}
+    pd.getElementById('mm').classList.add('open');
+    window.parent.scrollTo(0, scrollY);
+  }});
+}})();
+</script>
+"""))
 
 m
 ```

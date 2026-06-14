@@ -184,8 +184,14 @@ for _, row in photos.iterrows():
 
         popup_html = f"""
         <div>
-          <div style="display:flex;overflow-x:auto;gap:10px;padding-bottom:6px;">
-            {slides}
+          <div style="position:relative;">
+            <button onclick="this.nextElementSibling.scrollBy({{left:-320,behavior:'smooth'}})"
+                    style="position:absolute;left:0;top:50%;transform:translateY(-50%);z-index:2;background:rgba(255,255,255,0.85);border:none;border-radius:50%;width:36px;height:36px;font-size:22px;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.25);">&#8249;</button>
+            <div style="display:flex;overflow-x:auto;gap:10px;padding:0 44px 6px;scroll-behavior:smooth;">
+              {slides}
+            </div>
+            <button onclick="this.previousElementSibling.scrollBy({{left:320,behavior:'smooth'}})"
+                    style="position:absolute;right:0;top:50%;transform:translateY(-50%);z-index:2;background:rgba(255,255,255,0.85);border:none;border-radius:50%;width:36px;height:36px;font-size:22px;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.25);">&#8250;</button>
           </div>
           {"<div style='font-size:15px;color:#444;margin-top:12px;line-height:1.6;'>" + desc + "</div>" if desc else ""}
         </div>"""

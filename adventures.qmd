@@ -324,6 +324,8 @@ m
 
 *... my hosts who helped me organise each venue; David Wands, Eemeli Tömberg, Christophe Ringeval, Matteo Braglia, Giovanni Marozzi, Amelia Drew, Matthew Elley, George Zahariade, Maxence Corman, Angelo Caravano.*
 
+*... those, in addition to my hosts, for the discussions and for making my stays very enjoyable; Luiz Felipe Demetrio, Parth Bhargava, Baptiste Blachier, Chiara Animali, Pierre Bechaz.*
+
 *... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, Central European Institute for Cosmology and Fundamental Physics (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
 
 *... those who volunteered to help; Miguel Bezarès, Sébastien Renaux-Pétel, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Panagiotis Giannadakis, Nadine Nussbaumer, Aishwaryaa Annamalai...*

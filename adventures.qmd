@@ -31,8 +31,8 @@ import numpy as np
 
 # ── Current location ──────────────────────────────────────────────────
 CURRENT_LOCATION = True
-CURRENT_LAT      = 43.72168039380438
-CURRENT_LON      = 10.408436303683253
+CURRENT_LAT      = 45.70383225587775
+CURRENT_LON      = 13.718334650066422
 
 def _parse_lines_file(path):
     """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""

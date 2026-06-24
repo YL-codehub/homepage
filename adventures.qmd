@@ -31,8 +31,8 @@ import numpy as np
 
 # ── Current location ──────────────────────────────────────────────────
 CURRENT_LOCATION = True
-CURRENT_LAT      = 45.70383225587775
-CURRENT_LON      = 13.718334650066422
+CURRENT_LAT      = 50.12518973517002
+CURRENT_LON      = 14.46542682883541
 
 def _parse_lines_file(path):
     """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""
@@ -326,6 +326,6 @@ m
 
 *... those, in addition to my hosts, for the discussions and for making my stays very enjoyable; Luiz Felipe Demetrio, Parth Bhargava, Baptiste Blachier, Chiara Animali, Pierre Bechaz.*
 
-*... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, Central European Institute for Cosmology and Fundamental Physics (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
+*... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, FZU (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
 
 *... those who volunteered to help; Miguel Bezarès, Sébastien Renaux-Pétel, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Panagiotis Giannadakis, Nadine Nussbaumer, Aishwaryaa Annamalai...*

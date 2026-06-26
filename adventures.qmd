@@ -162,8 +162,8 @@ for _, row in photos.iterrows():
         </div>"""
         _double_circle(row["lat"], row["lon"], "#95a5a6", tooltip_html, popup_html, 440)
     else:
-        mime0, b640_thumb = _encode(images[0], max_px=400)
-        mime0, b640       = _encode(images[0], max_px=800)
+        mime0, b640_thumb = _encode(images[0], max_px=200)
+        mime0, b640       = _encode(images[0], max_px=500)
         tooltip_html = f"""
         <div style="text-align:center;max-width:200px;">
           <img src="data:image/{mime0};base64,{b640_thumb}"
@@ -173,7 +173,7 @@ for _, row in photos.iterrows():
 
         slides = ""
         for i, fname in enumerate(images):
-            mime_i, b64_i = _encode(fname, max_px=800) if i > 0 else (mime0, b640)
+            mime_i, b64_i = _encode(fname, max_px=500) if i > 0 else (mime0, b640)
             cap_i = captions[i] if i < len(captions) else ""
             slides += f"""
             <div style="text-align:center;flex-shrink:0;">

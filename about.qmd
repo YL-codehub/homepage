@@ -6,10 +6,13 @@ title: "My academic record"
 
 ## Publications
   
+- [*Stochastic scalar-tensor inflation and beyond* [in review],](https://arxiv.org/abs/2606.07467)
+  Launay Y., 2026.
+
 - [*Stochastic inflation in Numerical Relativity*,](https://arxiv.org/abs/2512.14649)
   Launay Y., Rigopoulos G., & Shellard E.P.S, 2025.
 
-- [*Episodic test-time adaptation where it matters: a fairness-aware point of view [in prep.],*](https://openreview.net/forum?id=PSx10YdkYB&referrer=%5Bthe%20profile%20of%20Yoann%20Launay%5D(%2Fprofile%3Fid%3D~Yoann_Launay1))  
+- [*Episodic test-time adaptation where it matters: a fairness-aware point of view* [in review],](https://openreview.net/forum?id=PSx10YdkYB&referrer=%5Bthe%20profile%20of%20Yoann%20Launay%5D(%2Fprofile%3Fid%3D~Yoann_Launay1))  
   Launay Y., Kamalaruban P. 2025.
 
 - [*Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity,*](https://arxiv.org/abs/2502.06783)  
@@ -21,8 +24,8 @@ title: "My academic record"
 - [*Stochastic Inflation in General Relativity,*](https://arxiv.org/abs/2401.08530)  
   Launay Y., Rigopoulos G., & Shellard E.P.S, Physics Review D 109 (2024) 12, 123523.
 
-- [*Calculating non-Gaussianities from a kinetic pre-inflationary universe,*](https://zenodo.org/records/10149665)  
-  Launay Y. & Handley W., Master Thesis, June 22, University of Cambridge.
+- [*Calculating non-Gaussianities from a kinetic pre-inflationary universe* [MASt thesis],](https://zenodo.org/records/10149665)  
+  Launay Y. & Handley W., June 22, University of Cambridge.
 
 - [*N-Representable one-electron reduced density matrices reconstruction at non-zero temperatures,*](https://doi.org/10.1107/S2052520621007228)  
   Launay Y. & Gillet J.-M. (2021). Acta Cryst. B77, 683-694.

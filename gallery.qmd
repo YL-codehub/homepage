@@ -13,7 +13,8 @@ format:
 :::
 
 ::: {.card fill=false expandable="false"}
-
+### June 2026
+![Talk at 6th EPS meeting at University of Stavanger, Norway.](/images/stavanger26.jpeg){width=100% title="Yoann Launay, June 2026."}
 :::
 
 ::: {.card fill=false expandable="false"}

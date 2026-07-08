@@ -31,8 +31,8 @@ import numpy as np
 
 # ── Current location ──────────────────────────────────────────────────
 CURRENT_LOCATION = True
-CURRENT_LAT      = 52.41635771698177
-CURRENT_LON      = 12.970118842802965
+CURRENT_LAT      = 52.35446784816071
+CURRENT_LON      = 4.9556817108154805
 
 def _parse_lines_file(path):
     """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""
@@ -322,9 +322,9 @@ m
 
 *... my main sponsor: Wolfson College, University of Cambridge.*
 
-*... my hosts who helped me organise each venue; David Wands, Eemeli Tömberg, Christophe Ringeval, Matteo Braglia, Giovanni Marozzi, Amelia Drew, Matthew Elley, George Zahariade, Maxence Corman, Angelo Caravano.*
+*... my hosts who helped me organise each venue; David Wands, Eemeli Tömberg, Christophe Ringeval, Matteo Braglia, Giovanni Marozzi, Amelia Drew, Matthew Elley, George Zahariade, Guillermo Lara, Angelo Caravano.*
 
-*... those, in addition to my hosts, for the discussions and for making my stays very enjoyable; Luiz Felipe Demetrio, Parth Bhargava, Baptiste Blachier, Chiara Animali, Pierre Bechaz, Enrico Barausse, Mehrdad Mirbabayi, Panagiotis Giannadakis, Will Barker, Nicolas Loayza, Dražen Glavan, Omkar Sanjay Shetye, Daniel, Héloïse Delaporte ...*
+*... those, in addition to my hosts, for the discussions and for making my stays very enjoyable; Luiz Felipe Demetrio, Parth Bhargava, Baptiste Blachier, Chiara Animali, Pierre Bechaz, Enrico Barausse, Mehrdad Mirbabayi, Panagiotis Giannadakis, Will Barker, Nicolas Loayza, Dražen Glavan, Omkar Sanjay Shetye, Daniel, Héloïse Delaporte, Alessandro Fumagalli.*
 
 *... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, FZU (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
 

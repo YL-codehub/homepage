@@ -30,7 +30,7 @@ import matplotlib.colors as mcolors
 import numpy as np
 
 # ── Current location ──────────────────────────────────────────────────
-CURRENT_LOCATION = True
+CURRENT_LOCATION = False
 CURRENT_LAT      = 52.35446784816071
 CURRENT_LON      = 4.9556817108154805
 
@@ -326,6 +326,6 @@ m
 
 *... those, in addition to my hosts, for the discussions and for making my stays very enjoyable; Luiz Felipe Demetrio, Parth Bhargava, Baptiste Blachier, Chiara Animali, Pierre Bechaz, Enrico Barausse, Mehrdad Mirbabayi, Panagiotis Giannadakis, Will Barker, Nicolas Loayza, Dražen Glavan, Omkar Sanjay Shetye, Daniel, Héloïse Delaporte, Alessandro Fumagalli.*
 
-*... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa, ICTP Trieste, FZU (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
+*... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa/ INFN, ICTP Trieste, FZU (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.*
 
-*... those who volunteered to help; Miguel Bezarès, Sébastien Renaux-Pétel, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Nadine Nussbaumer, Aishwaryaa Annamalai...*
+*... those who volunteered to help; Miguel Bezarès, Sébastien Renaux-Pétel, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Nadine Nussbaumer, Aishwaryaa Annamalai, Hugo Courté.*

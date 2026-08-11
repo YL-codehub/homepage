@@ -28,30 +28,70 @@ from PIL import Image, ImageOps
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import numpy as np
+import math
 
 # ── Current location ──────────────────────────────────────────────────
 CURRENT_LOCATION = False
 CURRENT_LAT      = 52.35446784816071
 CURRENT_LON      = 4.9556817108154805
 
+TRACKS_DIR = Path("adventures/tracks")
+
+def _parse_gpx_points(path):
+    """Flatten every track/route point in a GPX file into a list of [lat, lon]."""
+    with open(path, "r", encoding="utf-8") as f:
+        gpx = gpxpy.parse(f)
+    points = []
+    for track in gpx.tracks:
+        for segment in track.segments:
+            for pt in segment.points:
+                points.append([pt.latitude, pt.longitude])
+    for route in gpx.routes:
+        for pt in route.points:
+            points.append([pt.latitude, pt.longitude])
+    return points
+
+def _haversine_km(p1, p2):
+    """Great-circle distance in km between two [lat, lon] points."""
+    lat1, lon1, lat2, lon2 = map(math.radians, [p1[0], p1[1], p2[0], p2[1]])
+    dlat, dlon = lat2 - lat1, lon2 - lon1
+    a = math.sin(dlat / 2) ** 2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2) ** 2
+    return 2 * 6371 * math.asin(math.sqrt(a))
+
+def _polyline_length_km(points):
+    """Sum of haversine distances between consecutive points (true path length)."""
+    return sum(_haversine_km(points[i], points[i + 1]) for i in range(len(points) - 1))
+
 def _parse_lines_file(path):
-    """Parse a .lines file. Each non-comment line: label | lat1,lon1 | lat2,lon2 [| color=...]"""
+    """Parse a .lines file. Each non-comment line:
+    label | lat1,lon1 | lat2,lon2 [| color=...]                 (straight segment)
+    label | gpx:file1.gpx,file2.gpx,... [| color=...]           (real track(s), resolved against adventures/tracks/)
+    """
     lines_data = []
     for line in path.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
         parts = [p.strip() for p in line.split("|")]
-        if len(parts) < 3:
+        if len(parts) < 2:
             continue
         label = parts[0]
-        lat1, lon1 = map(float, parts[1].split(","))
-        lat2, lon2 = map(float, parts[2].split(","))
-        color = "#3498db"
-        for extra in parts[3:]:
-            if extra.startswith("color="):
-                color = extra.split("=", 1)[1].strip()
-        lines_data.append({"label": label, "from": [lat1, lon1], "to": [lat2, lon2], "color": color})
+        color = None
+        geom_parts = []
+        for p in parts[1:]:
+            if p.startswith("color="):
+                color = p.split("=", 1)[1].strip()
+            else:
+                geom_parts.append(p)
+        color = color or "#3498db"
+
+        if geom_parts and geom_parts[0].startswith("gpx:"):
+            files = [f.strip() for f in geom_parts[0][len("gpx:"):].split(",") if f.strip()]
+            lines_data.append({"label": label, "type": "gpx", "files": files, "color": color})
+        elif len(geom_parts) >= 2:
+            lat1, lon1 = map(float, geom_parts[0].split(","))
+            lat2, lon2 = map(float, geom_parts[1].split(","))
+            lines_data.append({"label": label, "type": "coords", "from": [lat1, lon1], "to": [lat2, lon2], "color": color})
     return lines_data
 
 # ── Discover all GPX files ────────────────────────────────────────────
@@ -70,17 +110,7 @@ else:
 # ── Parse every GPX file ──────────────────────────────────────────────
 all_tracks = []
 for gpx_path, color in zip(gpx_files, track_colors):
-    with open(gpx_path, "r", encoding="utf-8") as f:
-        gpx = gpxpy.parse(f)
-
-    points = []
-    for track in gpx.tracks:
-        for segment in track.segments:
-            for pt in segment.points:
-                points.append([pt.latitude, pt.longitude])
-    for route in gpx.routes:
-        for pt in route.points:
-            points.append([pt.latitude, pt.longitude])
+    points = _parse_gpx_points(gpx_path)
 
     if points:
         # Pretty label: replace hyphens/underscores with spaces, title-case
@@ -97,6 +127,13 @@ m = folium.Map(
     max_zoom=19,
 )
 
+# Browsers draw a default focus outline (looks like a rectangle) around an
+# SVG path when it's clicked, since Leaflet makes vector layers focusable
+# for keyboard accessibility. Suppress it — these lines only need hover tooltips.
+m.get_root().html.add_child(folium.Element(
+    "<style>.leaflet-interactive:focus { outline: none; }</style>"
+))
+
 # ── Draw each GPX track ───────────────────────────────────────────────
 for track in all_tracks:
     folium.PolyLine(
@@ -107,17 +144,40 @@ for track in all_tracks:
         tooltip=track["name"],
     ).add_to(m)
 
-# ── Draw .lines connections ───────────────────────────────────────────
+# ── Draw .lines connections (straight segments or real gpx tracks) ─────
+total_distance_km = 0
+
 for lines_path in sorted(Path("adventures").glob("*.lines")):
     for seg in _parse_lines_file(lines_path):
-        all_coords.extend([seg["from"], seg["to"]])
-        folium.PolyLine(
-            [seg["from"], seg["to"]],
-            color=seg["color"],
-            weight=2,
-            opacity=0.85,
-            tooltip=seg["label"],
-        ).add_to(m)
+        if seg["type"] == "coords":
+            dist_km = _haversine_km(seg["from"], seg["to"])
+            total_distance_km += dist_km
+            all_coords.extend([seg["from"], seg["to"]])
+            folium.PolyLine(
+                [seg["from"], seg["to"]],
+                color=seg["color"],
+                weight=2,
+                opacity=0.85,
+                tooltip=f"{seg['label']} — {dist_km:.1f} km",
+            ).add_to(m)
+        else:  # "gpx"
+            leg_distance_km = 0
+            leg_points = []
+            for fname in seg["files"]:
+                points = _parse_gpx_points(TRACKS_DIR / fname)
+                if points:
+                    leg_distance_km += _polyline_length_km(points)
+                    leg_points.append(points)
+            total_distance_km += leg_distance_km
+            for points in leg_points:
+                all_coords.extend(points)
+                folium.PolyLine(
+                    points,
+                    color=seg["color"],
+                    weight=3,
+                    opacity=0.9,
+                    tooltip=f"{seg['label']} — {leg_distance_km:.1f} km",
+                ).add_to(m)
 
 # ── Photo markers ─────────────────────────────────────────────────────
 photos = pd.read_csv("adventures/photos.csv")
@@ -252,6 +312,15 @@ if CURRENT_LOCATION:
         tooltip="Currently here",
     ).add_to(m)
 
+# ── Total distance overlay ──────────────────────────────────────────────
+m.get_root().html.add_child(folium.Element(f"""
+<div style="position:absolute;bottom:20px;left:20px;z-index:9999;
+            background:rgba(255,255,255,0.9);padding:8px 14px;border-radius:8px;
+            box-shadow:0 1px 4px rgba(0,0,0,.25);font-size:14px;">
+  🚆 Total rail distance: <b>{total_distance_km:,.0f} km</b>
+</div>
+"""))
+
 # ── Auto-zoom to fit all landmarks ────────────────────────────────────
 lats = [c[0] for c in all_coords]
 lons = [c[1] for c in all_coords]
@@ -293,6 +362,9 @@ m.get_root().html.add_child(folium.Element(f"""
   {map_var}.eachLayer(function(layer) {{
     if (layer.getPopup && layer.getPopup()) {{
       layer.getPopup().options.autoPan = false;
+    }}
+    if (typeof layer.bringToFront === 'function') {{
+      layer.on('mouseover click', function(e) {{ e.target.bringToFront(); }});
     }}
   }});
 

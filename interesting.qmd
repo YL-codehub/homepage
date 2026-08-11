@@ -8,6 +8,56 @@ format:
 # I collect here my favourite facts encountered in various museums, experiences, books, or from people.
 
 
+
+## Row
+
+::: {.card fill=false expandable="false"}
+Before Hitchcock's *Psycho* (1960), US cinemas typically ran films continuously and people wandered in mid-screening, then stayed to catch the start of the next loop; *Psycho*'s strict "no late admission" policy is widely credited with making it normal to watch a film from the beginning. <span class="ref" data-tippy-content="The Hollywood Reporter, &lsquo;When Moviegoers Started Watching Films From the Beginning&rsquo;. <a href='https://www.hollywoodreporter.com/news/general-news/when-moviegoers-started-watching-films-from-the-beginning-guest-column-4075683/' target='_blank'>hollywoodreporter.com</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+The Mercator projection (the most commonly used method for mapping the Earth from a sphere to a plane) inflates land far from the equator, making Europe and North America look much larger than they are; equal-area maps such as the Gall–Peters show truer relative sizes. For example, Africa is about 14 times the area of Greenland. <span class="ref" data-tippy-content="Wikipedia, &lsquo;Gall–Peters projection&rsquo;. <a href='https://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection' target='_blank'>en.wikipedia.org</a>">[reference]</span>
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+The ocean sunfish (*Mola mola*) is a huge, tail-less bony fish that can release up to ~300 million eggs at once, more than any other known vertebrate; the "heaviest bony fish" record (~2,700 kg) belongs to its close relative *Mola alexandrini*. <span class="ref" data-tippy-content="Wikipedia, &lsquo;Ocean sunfish&rsquo;. <a href='https://en.wikipedia.org/wiki/Ocean_sunfish' target='_blank'>en.wikipedia.org</a>">[reference]</span>
+:::
+
+
+::: {.card fill=false expandable="false"}
+The blue whale is the largest animal known ever to have lived (bigger than any dinosaur) reaching roughly 30 m and up to about 180–200 tonnes. <span class="ref" data-tippy-content="WWF, &lsquo;What's the biggest animal that has ever lived?&rsquo;. <a href='https://www.worldwildlife.org/resources/facts/whats-the-biggest-animal-that-has-ever-lived-and-other-blue-whale-facts/' target='_blank'>worldwildlife.org</a>">[reference]</span>
+:::
+
+## Row
+
+::: {.card fill=false expandable="false"}
+William Caxton set up England's first printing press in 1476; his East Midlands dialect, along with his Flemish and Dutch typesetters (who imported spellings like the "gh" in *ghost*) fossilised spellings of the English language that no longer match how words are pronounced (many changes in pronunciation such as the Great Vowel Shift still occured afterwards) and explain why English spelling can seem so irregular. <span class="ref" data-tippy-content="Dictionary.com, &lsquo;How the Printing Press Froze English Spelling in Time&rsquo;. <a href='https://www.dictionary.com/e/printing-press-frozen-spelling/' target='_blank'>dictionary.com</a>">[reference]</span>
+:::
+
+
+::: {.card fill=false expandable="false"}
+Some pines (lodgepole, jack pine) grow "serotinous" cones sealed shut with resin that only melts and releases their stored seeds at fire temperatures (~45–60 °C), thus reseeding the forest right after a burn. Such forest fires are thus part of natural cycles, and can last for decades but cannot happen too frequently for the cones to grow in time. Inversely, if fires happen too infrequently, shades favor other trees, young pines die, and so no species can survive regenerate after the next fire without the long process of seed transport by wind or animals. <span class="ref" data-tippy-content="US National Park Service, &lsquo;Wildland Fire in Lodgepole Pine&rsquo;. <a href='https://www.nps.gov/articles/wildland-fire-lodgepole-pine.htm' target='_blank'>nps.gov</a>">[reference]</span>
+:::
+
+
+## Row
+
+::: {.card fill=false expandable="false"}
+Beer isn't always vegan: many brewers clarify ("fine") it with isinglass, a collagen made from fish swim bladders; plant and mineral finings and modern filtration are animal-free alternatives (Guinness dropped isinglass in 2017). <span class="ref" data-tippy-content="Craft Brewing Business, &lsquo;What is isinglass (fish bladders) and why is it not vegan friendly?&rsquo;. <a href='https://www.craftbrewingbusiness.com/featured/what-is-isinglass-fish-bladders-and-why-is-it-not-vegan-friendly/' target='_blank'>craftbrewingbusiness.com</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+No mammal is truly green: mammalian fur colour comes almost entirely from melanin (blacks, browns, yellows, reds), with no biochemical pathway for a green pigment and no fur microstructure to make green structural colour; the "green" sloth is only coated in algae. <span class="ref" data-tippy-content="ScienceNorway, &lsquo;Why don't animals have green camouflage?&rsquo;. <a href='https://www.sciencenorway.no/animal-kingdom-biology/why-dont-animals-have-green-camouflage/2609278' target='_blank'>sciencenorway.no</a>">[reference]</span>
+:::
+
+::: {.card fill=false expandable="false"}
+The mandrill is the world's largest monkey and arguably the most colourful mammal; the blue on a male's face is a rare mammalian *structural* colour, and the intensity of his red-and-blue face and rump tracks his testosterone and social rank. <span class="ref" data-tippy-content="National Geographic, &lsquo;Mandrill&rsquo;. <a href='https://www.nationalgeographic.com/animals/mammals/facts/mandrill' target='_blank'>nationalgeographic.com</a>">[reference]</span>
+:::
+
+
+
 ## Row
 
 
@@ -174,3 +224,13 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+
+
+<h2 style="margin: 0.2em 0;">Debunked / disputed facts encountered</h2>
+
+
+## Row
+
+::: {.card fill=false expandable="false"}
+There is no evidence that Genghis Khan "invented" or spread blood type B. The real genetic claim seems to be a Y-chromosome lineage carried by roughly large amounts of men across parts of Asia predates Genghis Khan by a millennium. <span class="ref" data-tippy-content="McGill Office for Science and Society, &lsquo;Is Genghis Khan Hiding Inside Your DNA?&rsquo;. <a href='https://www.mcgill.ca/oss/article/medical-critical-thinking-history/genghis-khan-hiding-inside-your-dna' target='_blank'>mcgill.ca</a>">[reference]</span>
+:::

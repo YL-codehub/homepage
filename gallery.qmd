@@ -8,8 +8,15 @@ format:
 # Pictures of my travels and wanderings
 
 ## Row
-::: {.card fill=false expandable="false"}
 
+::: {.card fill=false expandable="false"}
+### August 2026
+![Thesis writing season has finally ended, and post-submission is a strange state of mind, Cambridge.](/images/postsubmission.JPG){width=100% title="Yoann Launay, August 2026."}
+:::
+
+::: {.card fill=false expandable="false"}
+### June 2026 II
+![One stop of my Green research tour of Europe, Pisa, Italy.](/images/pisagreentour.jpeg){width=100% title="Yoann Launay, June 2026."}
 :::
 
 ::: {.card fill=false expandable="false"}
@@ -17,12 +24,13 @@ format:
 ![Talk at 6th EPS meeting at University of Stavanger, Norway.](/images/stavanger26.jpeg){width=100% title="Yoann Launay, June 2026."}
 :::
 
+## Row
+
 ::: {.card fill=false expandable="false"}
 ### April 2026
 ![Thesis writing season has started, with nice breaks on the refurbished CMS rooftop.](/images/CMS_april26.jpeg){width=100% title="Yoann Launay, April 2026."}
 :::
 
-## Row
 ::: {.card fill=false expandable="false"}
 ### March 2026 II
 ![A sunny walk on my way to a talk for Queen Mary University](/images/london_mar26.jpeg){width=100% title="Yoann Launay, March 2026."}
@@ -33,13 +41,13 @@ format:
 ![Talk at the London Institute for Mathematical Sciences, Faraday's ghost attending](/images/lims_mar26.JPG){width=100% title="Yoann Launay, March 2026."}
 :::
 
+## Row
+
 ::: {.card fill=false expandable="false"}
 ### February 2026
 ![Formal night at Peterhouse](/images/peterhouse_feb26.jpeg){width=100% title="Yoann Launay, Feb. 2026."}
 :::
 
-
-## Row
 ::: {.card fill=false expandable="false"}
 ### December 2025
 ![Portsmouth from the ferry to France, bye 2025...](/images/portsmouth.jpg){width=100% title="Yoann Launay, Dec. 2025."}
@@ -50,12 +58,14 @@ format:
 ![Inflation 2025 conference, Institut d'Astrophysique de Paris.](/images/inflation25.jpg){width=100% title="Yoann Launay, Dec. 2025."}
 :::
 
+## Row
+
 ::: {.card fill=false expandable="false"}
 ### September 2025
 ![Cambridge-LMU meeting II, Universitäts-Sternwarte München](/images/observatory.jpg){width=100% title="Yoann Launay, june 2025."}
 :::
 
-## Row
+
 ::: {.card fill=false expandable="false"}
 ### September 2025
 ![Cambridge-LMU meeting, with hotel randomly next to Einstein's youth house...](/images/einstein_munich.jpg){width=100% title="Yoann Launay, Dec. 2022."}
@@ -66,13 +76,13 @@ format:
 ![International GR24-Amaldi16 conference in Glasgow](/images/gr24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 :::
 
+## Row
+
 ::: {.card fill=false expandable="false"}
 ### June 2025
 ![CoBALt conference dinner on the Seine.](/images/cobalt.MOV){width=75% title="Yoann Launay, june 2025."}
 :::
 
-
-## Row
 
 ::: {.card fill=false expandable="false"}
 ### December 2024
@@ -85,13 +95,13 @@ format:
 The London Lego exhibition, contemplating the fundamental bricks of life.
 :::
 
+## Row
+
 ::: {.card fill=false expandable="false"}
 ### July 2024
 ![Southwold Water Clock](/images/southwold_july24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 The Water Clock of Southwold, Suffolk. Time flows.
 :::
-
-## Row
 
 ::: {.card fill=false expandable="false"}
 ### June 2024
@@ -103,12 +113,6 @@ Somewhere lost in one of many great museums in Cambridge.
 ### May 2024
 ![Boreals in Cambridge](/images/cam_may24.jpg){width=100% title="Yoann Launay, Dec. 2022."}
 Boreals in Cambridge.
-:::
-
-::: {.card fill=false expandable="false"}
-### April 2024
-![West End London](/images/london_april24.JPG){width=100% title="Yoann Launay, Dec. 2022."}
-West End in London. Is it for work?
 :::
 
 ## Row

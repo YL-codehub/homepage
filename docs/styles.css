@@ -22,3 +22,39 @@
   color: #fff;
   border-color: #4a7fa5;
 }
+
+.pullquote {
+  float: right;
+  clear: right;
+  width: 38%;
+  margin: 0.25em 0 0.4em 1.75em;
+  padding: 0.3em 0;
+  font-style: italic;
+  font-size: 1.5em;
+  line-height: 1.3;
+  color: #2c2c2c;
+  text-align: left;
+}
+
+.pullquote > p::before {
+  content: "\201C";
+}
+
+.pullquote > p::after {
+  content: "\201D";
+}
+
+.pullquote.left {
+  float: left;
+  clear: left;
+  margin: 0.25em 1.75em 0.4em 0;
+}
+
+@media (max-width: 768px) {
+  .pullquote,
+  .pullquote.left {
+    float: none;
+    width: 100%;
+    margin: 1.25em 0;
+  }
+}

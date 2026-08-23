@@ -37,9 +37,9 @@ website:
         text: Gallery
       - href: carbon.qmd
         text: Carbon
-      - href: adventures.qmd
-        text: Adventures
- 
+      - href: private/private.qmd
+        text: Private
+
     right:
       - icon: github
         href: https://github.com/YL-codehub

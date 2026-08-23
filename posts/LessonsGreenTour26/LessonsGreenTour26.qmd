@@ -2,9 +2,10 @@
 title: "Lessons from an academic tour of Europe by train"
 author:
   - name: Yoann Launay
-format: 
-  html: 
+format:
+  html:
     css: ../../styles.css
+jupyter: python3
 page-layout: full
 date: 2026-08-18
 categories: [Sustainability, Conference, Travels]
@@ -14,11 +15,21 @@ image: ../../images/mapgreentour26.png
 
 On the 8th of June 2026, I left the University of Cambridge for a month-long academic journey across Europe, to meet my peers, explore their research and institutions, and share my own work in early universe cosmology. I visited 8 theoretical physics research institutes, attended one UK collaboration meeting and one conference at CERN. I gave a total of eight presentations of my work, including six seminars and two shorter talks.
 
-::: center
-![Route of the Green Research Tour of Europe, June 2026. See the interactive map with photos and logs [here](../../adventures.html).](../../images/mapgreentour26.png){width=60% fig-align="center"}
+**CLICK ON EACH POINT OF THE MAP BELOW TO SEE PHOTOS AND LOGS.**
+
+::: {.map-embed}
+```{python}
+#| echo: false
+#| message: false
+#| warning: false
+from build_map import build_map
+
+build_map()
+```
 :::
 
-I met researchers who I had only known through the pages of their articles. In an academic world, this is no surprise. Many researchers will not attend the same events, due to lack of sponsorship, teaching loads or differing fields. I was able to speak to researchers that I had only glimpsed from afar at major conferences. Beyond the CV line, feeling poorly about conferences or workshops has become rather common, without blaming the organisers as opposed to those habits we have settled in. Nowadays, very few of them give enough time to chat about science; a 5 minute pitch is not how science is done. Beyond the reduced networking time of conferences, dozens of 12 to 15mins talks a day are common practice. When you are young scholar, more likely to be motivated by building new collaborations and chat technical matters within your narrow range of expertise, this usually does not work out apart from meeting future collaborators if they already know of your work or simply making friends. In general, it is also difficult to get any endorsement by more established people unless you have such collaborators and mentors from the start – and we all know how this is rather dependent on where you are born or raised. This trip certainly taught me my own privilege. I realised that I already knew quite a few people of my field, and that, compared to other institutions, I had been given the means to travel during my PhD, with notable flexibility. I realised that coming from Cambridge was a good start to get into conferences and generate interest in my work.
+
+I met researchers who I had only known through the pages of their articles. In an academic world, this is no surprise. Many researchers will not attend the same events, due to lack of sponsorship, teaching loads or differing fields. I was able to speak to researchers that I had only glimpsed from afar at major conferences. Beyond the CV line, feeling poorly about conferences or workshops has become rather common, without blaming the organisers as opposed to those habits we have settled in. Nowadays, very few of them give enough time to chat about science; a 5 minute pitch is not how science is done. Beyond the reduced networking time of conferences, dozens of 12 to 15mins talks a day are common practice. When you are a young scholar, more likely to be motivated by building new collaborations and chatting technical matters within your narrow range of expertise, this usually does not work out apart from meeting future collaborators if they already know of your work or simply making friends. In general, it is also difficult to get any endorsement by more established people unless you have such collaborators and mentors from the start – and we all know how this is rather dependent on where you are born or raised. This trip certainly taught me my own privilege. I realised that I already knew quite a few people of my field, and that, compared to other institutions, I had been given the means to travel during my PhD, with notable flexibility. I realised that coming from Cambridge was a good start to get into conferences and generate interest in my work.
 
 Leaving further discussion of such matters for when I am a fully unbiased exile of Cambridge, I should explain why I decided to go on such a trip, even with a single month of preparation. As conferences did not allow for it, I wanted to find a better way to engage with my peers. Those who know me could first certainly tell you about my constant thirst for challenge or my dream to go round Europe by train; true statements. I have an ‘interesting’ relationship with trains. This might be due to the French way of constantly complaining when all is great, though put with British words here. Despite all the delays and unpleasant situations (as felt with all transport) I have encountered in my life, I still love trains, for both the scenery and the self-contained moment set aside to rest, think or work productively. Trains are simple and a good metaphor of life as sung in many songs. Trains are both hate and love, pros and cons, very much like everything else and it’s usually up to us to find the good bits to make it bearable up to wonderful. My appreciation of trains is nothing but a hardened commitment to them for very specific reasons.
 
@@ -56,4 +67,16 @@ As the carbon footprint is not the standard metric yet and if some of us still n
 
 ---
 
-With thanks to Sophia J. for her advice.
+With thanks to...
+
+... my main sponsor: Wolfson College, University of Cambridge.
+
+... my hosts who helped me organise each venue; David Wands, Eemeli Tömberg, Christophe Ringeval, Matteo Braglia, Giovanni Marozzi, Amelia Drew, Matthew Elley, George Zahariade, Guillermo Lara, Angelo Caravano.
+
+... those, in addition to my hosts, for the discussions and for making my stays very enjoyable; Luiz Felipe Demetrio, Parth Bhargava, Baptiste Blachier, Chiara Animali, Pierre Bechaz, Enrico Barausse, Mehrdad Mirbabayi, Panagiotis Giannadakis, Will Barker, Nicolas Loayza, Dražen Glavan, Omkar Sanjay Shetye, Daniel, Héloïse Delaporte, Alessandro Fumagalli.
+
+... and their institutions for welcoming me and ---in most cases--- providing additional funding for my stays: Institute of Cosmology and Gravitation (Portsmouth), Université catholique de Louvain, CERN Theory Department (Geneva), University of Pisa/ INFN, ICTP Trieste, FZU (Prague), Institute of Theoretical Physics of the Jagiellonian University (Kraków), Albert Einstein Institute — Max Planck Institute for Gravitational Physics (Potsdam), University of Amsterdam.
+
+... those who volunteered to help; Miguel Bezarès, Sébastien Renaux-Pétel, Cristiano Germani, Juan Garcia-Bellido, Antonio Riotto, Syksy Räsänen, Nadine Nussbaumer, Aishwaryaa Annamalai, Hugo Courté.
+
+... Sophia J. for her help on the article.

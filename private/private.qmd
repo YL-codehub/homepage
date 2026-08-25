@@ -4,5 +4,5 @@ title: Private
 
 ## In progress ... a page just for family and friends.
 
-<!-- Password-protected via staticrypt in .github/workflows/ll.yaml (encrypts docs/private only). -->
+<!-- Password-protected via staticrypt in .github/workflows/deploy.yaml (encrypts docs/private only). -->
 Trop cool!

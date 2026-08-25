@@ -52,7 +52,7 @@ jobs:
         run: npm install -g staticrypt
       - name: Encrypt private pages
         run: |
-          staticrypt "$PRIVATE_DIR" -r -d "$PRIVATE_DIR" -p "$PASSWORD" --short \
+          staticrypt "$PRIVATE_DIR"/* -r -d "$PRIVATE_DIR" -p "$PASSWORD" --short \
             --template-title "$PAGE_TITLE" \
             --template-instructions "$PAGE_INSTRUCTIONS"
 

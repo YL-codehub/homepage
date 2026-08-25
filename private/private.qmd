@@ -1,9 +1,8 @@
 ---
-title: Adventures
+title: Private
 ---
 
 ## In progress ... a page just for family and friends.
 
-<!-- page but encrypted via https://robinmoisson.github.io/staticrypt/
-and would be nice to have it hooked as post-render qmd action.
-Maybe using https://mattwarkentin.github.io/fidelius/ is better. -->
+<!-- Password-protected via staticrypt in .github/workflows/ll.yaml (encrypts docs/private only). -->
+Trop cool!

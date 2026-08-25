@@ -23,8 +23,8 @@ website:
         text: About me
       - href: teaching.qmd
         text: Teaching
-      - href: research.qmd
-        text: Research
+      # - href: research.qmd
+      #   text: Research
       - href: blog.qmd
         text: Blog
       - href: plots.qmd
@@ -71,3 +71,4 @@ format:
     smooth-scroll: true
     mainfont: "Crimson Text"
     monofont: "Fira Code"
+    include-after-body: assets/carousel.html

@@ -162,10 +162,6 @@ window.Quarto = {
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./blog.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
@@ -511,6 +507,14 @@ Yoann Launay
 No matching items
 </div>
 </div></main> <!-- /main -->
+<script>
+function carouselScroll(btn, dir) {
+  var track = btn.closest('.carousel').querySelector('.carousel-track');
+  var card = track.querySelector('.carousel-card');
+  var step = card ? card.getBoundingClientRect().width + 16 : 300;
+  track.scrollBy({left: dir * step, behavior: 'smooth'});
+}
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

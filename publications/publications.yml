@@ -1,0 +1,125 @@
+# Schema for each publication entry:
+# - title: "..."            # required
+#   date: "YYYY-MM-DD"       # optional
+#   authors: ["Y. Launay"]   # optional
+#   venue: "..."             # optional (journal/conference name)
+#   icon: "foo.png"          # optional, filename inside publications/icons/ — placeholder shown if absent or file missing
+#   description: "..."       # optional — placeholder shown if absent
+#   tags: ["Cosmology"]      # optional keyword pills shown on the card's bottom line
+#   links:                   # optional list of {type, url} pairs
+#     - type: "preprint"     # renders a red "Preprint" button — use for arXiv links
+#       url: "https://arxiv.org/abs/xxxx.xxxxx"
+#     - type: "article"      # renders a blue "Article" button — use for DOI/journal/OpenReview links
+#       url: "https://doi.org/xx.xxxx/xxxxxxx"
+#     - type: "thesis"       # renders a brown "Thesis" button — use for a thesis record (e.g. Zenodo)
+#       url: "https://zenodo.org/records/xxxxxxx"
+#
+# List both a "preprint" and an "article" link when the paper has an arXiv version AND a
+# published/DOI version — the card shows both buttons.
+#
+# Drop the image file for an entry into publications/icons/ under the exact name given in
+# `icon:` (.png / .jpg / .jpeg / .webp) — no other changes needed, it's picked up on next render.
+#
+# `tags:` colours are predefined per keyword in build_publications.py (TAG_COLORS); any new
+# keyword not in that list still gets a stable, deterministic colour automatically.
+#
+# Sourced from Google Scholar (scholar.google.com/citations?user=ppZtojkAAAAJ), cross-checked
+# against arXiv abstracts and CrossRef.
+
+publications:
+  - title: "Stochastic scalar-tensor inflation and beyond"
+    date: "2026-06-05"
+    authors: ["Y. Launay"]
+    venue: "arXiv preprint"
+    icon: "SIbGR.png"
+    description: "Extends the stochastic formalism for how quantum vacuum fluctuations become classical during inflation to scalar-tensor theories, covering Gauss-Bonnet, generalized Brans-Dicke, Horndeski and braiding theories, plus multifield coarse-graining in full General Relativity."
+    tags: ["Cosmology", "Inflation", "Stochastic Methods"]
+    links:
+      - type: "preprint"
+        url: "https://arxiv.org/abs/2606.07467"
+
+  - title: "Stochastic Inflation in Numerical Relativity"
+    date: "2025-12-16"
+    authors: ["Y. L. Launay", "G. I. Rigopoulos", "E. P. S. Shellard"]
+    venue: "Physical Review D 113 (12), 123515 (2026)"
+    icon: "SINR.png"
+    description: "Re-derives the 3+1 stochastic inflation equations in a gauge-invariant manner and implements them numerically in the BSSN formulation, showing correct evolution and well-satisfied constraints for slow-roll and ultra-slow-roll scenarios."
+    tags: ["Cosmology", "Numerical Relativity", "Stochastic Methods"]
+    links:
+      - type: "preprint"
+        url: "https://arxiv.org/abs/2512.14649"
+      - type: "article"
+        url: "https://doi.org/10.1103/h2cb-q1mt"
+
+  - title: "Fairness-Aware Test-Time Prompt Tuning"
+    authors: ["Y. Launay", "P. Kamalaruban", "T. Kempton", "S. Burrell", "D. Sutton"]
+    venue: "Machine learning conference submission (Featurespace placement, 2025)"
+    icon: "FairTPT.png"
+    description: "A test-time prompt tuning method for improving fairness in language model outputs without retraining the underlying model, developed during a machine learning placement at Featurespace."
+    tags: ["Machine Learning", "Fairness"]
+    links:
+      - type: "preprint"
+        url: "https://openreview.net/forum?id=PSx10YdkYB"
+  
+  - title: "DMAP: A Distribution Map for Text"
+    date: "2026-02-12"
+    authors: ["T. Kempton", "J. Rozanova", "P. Kamalaruban", "M. Madigan", "K. Wresilo", "Y. L. Launay", "D. Sutton", "S. Burrell"]
+    venue: "International Conference on Learning Representations (ICLR) 2026"
+    icon: "DMAP.png"
+    description: "A technique that maps text, via a language model, to samples encoding rank and probability information, used to validate generation parameters, analyse synthetic-text detection, and uncover statistical patterns in models trained on artificial data."
+    tags: ["Machine Learning", "NLP"]
+    links:
+      - type: "preprint"
+        url: "https://arxiv.org/abs/2602.11871"
+      - type: "article"
+        url: "https://proceedings.iclr.cc/paper_files/paper/2026/file/594dce834799b064f4584286c33e9d36-Paper-Conference.pdf"
+
+  - title: "Bunch-Davies initial conditions and non-perturbative inflationary dynamics in Numerical Relativity"
+    date: "2025-02-10"
+    authors: ["Y. L. Launay", "G. I. Rigopoulos", "E. P. S. Shellard"]
+    venue: "Physical Review D 112 (4), 043518 (2025)"
+    icon: "ICNR.png"
+    description: "Shows that realistic inhomogeneities during inflation can be simulated with Numerical Relativity from stochastic Bunch-Davies-consistent initial conditions, across a quadratic potential, an inflection-point potential, and a strong resonance model."
+    tags: ["Cosmology", "Numerical Relativity"]
+    links:
+      - type: "preprint"
+        url: "https://arxiv.org/abs/2502.06783"
+      - type: "article"
+        url: "https://doi.org/10.1103/qg66-gxh2"
+
+  - title: "Quantitative classicality in cosmological interactions during inflation"
+    date: "2024-12-20"
+    authors: ["Y. L. Launay", "G. I. Rigopoulos", "E. P. S. Shellard"]
+    venue: "Journal of Cosmology and Astroparticle Physics 2025 (05), 071"
+    icon: "QCl.png"
+    description: "Introduces a quantitative 'quantum interactivity' measure for when classical descriptions of inflationary perturbations suffice, showing non-linear contributions can be accurately described classically even before horizon crossing."
+    tags: ["Cosmology", "Inflation"]
+    links:
+      - type: "preprint"
+        url: "https://arxiv.org/abs/2412.16143"
+      - type: "article"
+        url: "https://doi.org/10.1088/1475-7516/2025/05/071"
+
+  - title: "Stochastic Inflation in General Relativity"
+    date: "2024-01-16"
+    authors: ["Y. L. Launay", "G. I. Rigopoulos", "E. P. S. Shellard"]
+    venue: "Physical Review D 109 (12), 123523 (2024)"
+    icon: "SIGR.png"
+    description: "Presents a framework for stochastic inflation using complete General Relativity, deriving gauge-invariant Langevin source terms for the Einstein equations in ADM and BSSN formulations, enabling numerical relativity simulations."
+    tags: ["Cosmology", "Inflation", "Stochastic Methods"]
+    links:
+      - type: "preprint"
+        url: "https://arxiv.org/abs/2401.08530"
+      - type: "article"
+        url: "https://doi.org/10.1103/physrevd.109.123523"
+
+  - title: "N-representable one-electron reduced density matrices reconstruction at non-zero temperatures"
+    date: "2021"
+    authors: ["Y. Launay", "J.-M. Gillet"]
+    venue: "Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials 77 (5), 683-694"
+    icon: "rdm.png"
+    description: "Reconstructs one-electron reduced density matrices from X-ray structure factors and Compton profiles while accounting for atomic thermal motion, using Semi-Definite Programming to recover static, N-representable matrices from experimental data at non-zero temperature."
+    tags: ["Quantum Crystallography"]
+    links:
+      - type: "article"
+        url: "https://doi.org/10.1107/s2052520621007228"

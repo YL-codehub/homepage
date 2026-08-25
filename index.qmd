@@ -3,6 +3,7 @@ title: "Researcher in Theoretical Cosmology"
 page-layout: full
 description: "PhD student in early-universe cosmology at DAMTP (Cambridge), sharing news, research and resources on cosmology, outreach, and more..."
 image: /images/photo_medamtp.jpg
+jupyter: python3
 metadata:
   robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
   og:title: "Yoann Launay - Early Universe Cosmology"
@@ -46,19 +47,88 @@ After work, Yoann goes to sleep. But before that, cooking his meal is usually th
 :::
 
 ## News
-- (08/05/2026) My new outreach article for Bluesci on Primordial Black Holes is out! see issue no. 63 [here](https://www.bluesci.co.uk/issue) (page 42).
-- (16/12/2025) My fourth PhD article is out! see [preprint](https://arxiv.org/abs/2512.14649). The final proof of concept of my PhD project is now in the wild.
-- (4/10/2025 to hopefully soon) Postdoc applications in progress...
-- (3/10/2025) End of a great placement, closing with a paper sent to a Machine Learning conference! see [submission](https://openreview.net/forum?id=PSx10YdkYB&referrer=%5Bthe%20profile%20of%20Yoann%20Launay%5D(%2Fprofile%3Fid%3D~Yoann_Launay1)).
-- (16/03/2025) Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at [Featurespace](https://www.featurespace.com/) from April and for six months! 
-- (12/02/2025) My third PhD article and first with spacetime simulations is out! see [preprint](https://arxiv.org/abs/2502.06783).
-- (11/02/2025) [An interesting article](https://www.intel.com/content/www/us/en/developer/articles/technical/university-cambridge-oneapi-cosmology.html) where my simulations are featured. 
-- (05/01/2025) My second PhD article is out! see [preprint](https://arxiv.org/abs/2412.16143).  
-- (02/04/2024) I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients! 
-- (16/01/2024) I published my first article in cosmology! see [preprint](https://arxiv.org/abs/2401.08530).
-- (1/11/2023) My first feature article for Bluesci, see issue no. 58 [here](https://www.bluesci.co.uk/issue/article) (page 26). 
-- (1/11/2023) New book review article in Bluesci, see issue no. 57 [here](https://www.bluesci.co.uk/issue/article) (page 5). 
-- (7/04/2023) G-Research grant obtained! see [article](https://www.gresearch.co.uk/blog/article/g-research-march-2023-grant-winners/). 
+
+::: {.news-list}
+
+<div class="news-item"><div class="news-date">06/08/2026</div><div class="news-text"> My Thesis has been sent to my jury for examination! Viva planned in 2 months.</div></div>
+
+<div class="news-item"><div class="news-date">26/06/2026</div><div class="news-text"> After months sending applications, I finally said yes to a postdoctoral position in Krakow, Poland. Stay tuned for more details on a new topic of study!</div></div>
+
+<div class="news-item"><div class="news-date">08/05/2026</div><div class="news-text">My new outreach article for Bluesci on Primordial Black Holes is out! see issue no. 63 <a href="https://www.bluesci.co.uk/issue">here</a> (page 42).</div></div>
+
+<div class="news-item"><div class="news-date">16/12/2025</div><div class="news-text">My fourth PhD article is out! see <a href="https://arxiv.org/abs/2512.14649">preprint</a>. The final proof of concept of my PhD project is now in the wild.</div></div>
+
+<div class="news-item"><div class="news-date">4/10/2025 &ndash; hopefully soon</div><div class="news-text">Postdoc applications in progress...</div></div>
+
+<div class="news-item"><div class="news-date">3/10/2025</div><div class="news-text">End of a great placement, closing with a paper sent to a Machine Learning conference! see <a href="https://openreview.net/forum?id=PSx10YdkYB&amp;referrer=%5Bthe%20profile%20of%20Yoann%20Launay%5D(%2Fprofile%3Fid%3D~Yoann_Launay1)">submission</a>.</div></div>
+
+<div class="news-item"><div class="news-date">16/03/2025</div><div class="news-text">Now confirmed: as part of my PhD requirements, I will be doing a placement, which I chose to do at <a href="https://www.featurespace.com/">Featurespace</a> from April and for six months!</div></div>
+
+<div class="news-item"><div class="news-date">12/02/2025</div><div class="news-text">My third PhD article and first with spacetime simulations is out! see <a href="https://arxiv.org/abs/2502.06783">preprint</a>.</div></div>
+
+<div class="news-item"><div class="news-date">11/02/2025</div><div class="news-text"><a href="https://www.intel.com/content/www/us/en/developer/articles/technical/university-cambridge-oneapi-cosmology.html">An interesting article</a> where my simulations are featured.</div></div>
+
+<div class="news-item"><div class="news-date">05/01/2025</div><div class="news-text">My second PhD article is out! see <a href="https://arxiv.org/abs/2412.16143">preprint</a>.</div></div>
+
+<div class="news-item"><div class="news-date">02/04/2024</div><div class="news-text">I will be one of the Smith-Knight and Rayleigh-Knight 2024 Prize recipients!</div></div>
+
+<div class="news-item"><div class="news-date">16/01/2024</div><div class="news-text">I published my first article in cosmology! see <a href="https://arxiv.org/abs/2401.08530">preprint</a>.</div></div>
+
+<div class="news-item"><div class="news-date">1/11/2023</div><div class="news-text">My first feature article for Bluesci, see issue no. 58 <a href="https://www.bluesci.co.uk/issue/article">here</a> (page 26).</div></div>
+
+<div class="news-item"><div class="news-date">1/11/2023</div><div class="news-text">New book review article in Bluesci, see issue no. 57 <a href="https://www.bluesci.co.uk/issue/article">here</a> (page 5).</div></div>
+
+<div class="news-item"><div class="news-date">7/04/2023</div><div class="news-text">G-Research grant obtained! see <a href="https://www.gresearch.co.uk/blog/article/g-research-march-2023-grant-winners/">article</a>.</div></div>
+
+:::
+
+## Highlights
+
+::: {.carousel}
+<button class="carousel-btn prev" onclick="carouselScroll(this,-1)" aria-label="Previous">&#8249;</button>
+<div class="carousel-track">
+
+<a class="carousel-card" href="posts/LessonsGreenTour26/LessonsGreenTour26.qmd">
+<img class="carousel-card-image" src="/images/mapgreentour26.png" alt="">
+<div class="carousel-card-body">
+<div class="carousel-card-title">Lessons from an academic tour of Europe by train</div>
+<div class="carousel-card-meta">August 18, 2026</div>
+<div class="carousel-card-desc">A month-long, train-only research tour across Europe, and what it taught me about sustainable academia.</div>
+</div>
+</a>
+
+<a class="carousel-card" href="posts/wre26/wre26.qmd">
+<img class="carousel-card-image" src="/images/WREpresentation_april26.JPG" alt="">
+<div class="carousel-card-body">
+<div class="carousel-card-title">Wolfson Research Event 2026</div>
+<div class="carousel-card-meta">May 7, 2026</div>
+<div class="carousel-card-desc">I was invited to present my work at an interdisciplinary conference organised by my College, the Wolfson Research Event.</div>
+</div>
+</a>
+
+<a class="carousel-card" href="posts/mythesis/mythesis.qmd">
+<img class="carousel-card-image" src="/images/thesis8.png" alt="">
+<div class="carousel-card-body">
+<div class="carousel-card-title">My Thesis in 12 sketches.</div>
+<div class="carousel-card-meta">February 15, 2024</div>
+<div class="carousel-card-desc">Twelve hand-drawn sketches summarising my PhD thesis on stochastic inflation and numerical relativity.</div>
+</div>
+</a>
+
+</div>
+<button class="carousel-btn next" onclick="carouselScroll(this,1)" aria-label="Next">&#8250;</button>
+:::
+
+## Publications
+
+```{python}
+#| echo: false
+#| message: false
+#| warning: false
+from publications.build_publications import build_publications
+
+build_publications()
+```
 
 ## They financed or supported my work
 - [Featurespace](https://www.featurespace.com/)

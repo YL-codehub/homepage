@@ -1,1 +1,1 @@
-notebook jupyter folium seaborn gpxpy
+notebook jupyter folium seaborn gpxpy pyyaml

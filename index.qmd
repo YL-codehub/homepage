@@ -98,7 +98,7 @@ After work, Yoann goes to sleep. But before that, cooking his meal is usually th
 </a>
 
 <a class="carousel-card" href="posts/wre26/wre26.qmd">
-<img class="carousel-card-image" src="/images/WREpresentation_april26.JPG" alt="">
+<img class="carousel-card-image" src="/images/WREpresentation_april26.jpg" alt="">
 <div class="carousel-card-body">
 <div class="carousel-card-title">Wolfson Research Event 2026</div>
 <div class="carousel-card-meta">May 7, 2026</div>

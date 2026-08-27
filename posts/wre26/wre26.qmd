@@ -27,7 +27,7 @@ I thought that this was a great exercise, and really enjoyed how people managed 
 ### Record of the talk
 
 {{< video
-https://youtu.be/UypD-jToZ5Y?t=4602
+https://youtu.be/UypD-jToZ5Y?start=4602
 >}}
 
 ### Slides and sketches

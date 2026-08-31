@@ -132,8 +132,7 @@ def build_map():
 
     # ── Create map ────────────────────────────────────────────────────────
     m = folium.Map(
-        tiles="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
-        attr='&copy; OpenStreetMap contributors &copy; CARTO',
+        tiles="OpenStreetMap",
         max_zoom=19,
     )
 

@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Yoann Launay"
-  description: "PhD student in Quantum Cosmology at Cambridge DAMTP"
+  description: "Researcher in quantum aspects of cosmology and astrophysics"
   site-url: https://www.yoannlaunay.com
   
   navbar:
@@ -56,8 +56,13 @@ website:
 
   page-footer:
     center: |
-      Yoann L. Launay • PhD Student in Early Universe Cosmology • Cambridge
+      Yoann L. Launay • Researcher in quantum aspects of cosmology and astrophysics
     
+extensions:
+  iconify:
+    size: "0.8em"
+    style: "border:1px solid #8888;border-radius:2px;"
+
 format:
   html:
     theme:

@@ -59,7 +59,7 @@ publications:
     tags: ["Machine Learning", "Fairness"]
     links:
       - type: "preprint"
-        url: "https://openreview.net/forum?id=PSx10YdkYB"
+        url: "https://arxiv.org/abs/2608.25707?ref=taaft&utm_source=taaft&utm_medium=referral"
   
   - title: "DMAP: A Distribution Map for Text"
     date: "2026-02-12"

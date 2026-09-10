@@ -35,3 +35,6 @@ __pycache__/
 *.py[cod]
 *.quarto_ipynb
 myenv/
+
+# private folder
+private/**

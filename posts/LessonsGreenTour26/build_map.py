@@ -131,8 +131,11 @@ def build_map():
     all_coords = [pt for t in all_tracks for pt in t["points"]]
 
     # ── Create map ────────────────────────────────────────────────────────
+    # Not "OpenStreetMap" (folium's default): tile.openstreetmap.org's usage policy blocks
+    # apps embedded on a live public site. Esri's World Street Map is free, no API key.
     m = folium.Map(
-        tiles="OpenStreetMap",
+        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+        attr="Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ",
         max_zoom=19,
     )
 

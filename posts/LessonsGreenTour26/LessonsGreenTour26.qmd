@@ -15,6 +15,8 @@ image: ../../images/mapgreentour26.png
 
 On the 8th of June 2026, I left the University of Cambridge for a month-long academic journey across Europe, to meet my peers, explore their research and institutions, and share my own work in early universe cosmology. I visited 8 theoretical physics research institutes, attended one UK collaboration meeting and one conference at CERN. I gave a total of eight presentations of my work, including six seminars and two shorter talks.
 
+*This trip was also featured by Wolfson College: [The Case for Greener Academic Travel](https://www.wolfson.cam.ac.uk/news/case-greener-academic-travel-yoann-launay).*
+
 **CLICK ON EACH POINT OF THE MAP BELOW TO SEE PHOTOS AND LOGS.**
 
 ::: {.map-embed}

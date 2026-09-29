@@ -44,6 +44,8 @@ I am currently transiting from my PhD in Cambridge {{< iconify flag:gb-4x3 >}} t
 
 ::: {.news-list}
 
+<div class="news-item"><div class="news-date">29/09/2026</div><div class="news-text">Wolfson College interviewed me about my train tour of Europe and the case for greener academic travel, see <a href="https://www.wolfson.cam.ac.uk/news/case-greener-academic-travel-yoann-launay">article</a>.</div></div>
+
 <div class="news-item"><div class="news-date">06/08/2026</div><div class="news-text"> My Thesis has been sent to my jury for examination! Viva planned in 2 months.</div></div>
 
 <div class="news-item"><div class="news-date">26/06/2026</div><div class="news-text"> After months sending applications, I finally said yes to a postdoctoral position in Krakow, Poland. Stay tuned for more details on a new topic of study!</div></div>
@@ -87,7 +89,7 @@ I am currently transiting from my PhD in Cambridge {{< iconify flag:gb-4x3 >}} t
 <div class="carousel-card-body">
 <div class="carousel-card-title">Lessons from an academic tour of Europe by train</div>
 <div class="carousel-card-meta">August 18, 2026</div>
-<div class="carousel-card-desc">A month-long, train-only research tour across Europe, and what it taught me about sustainable academia.</div>
+<div class="carousel-card-desc">A month-long, train-only research tour across Europe, and what it taught me about sustainable academia. Featured by Wolfson College.</div>
 </div>
 </a>
 
